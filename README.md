@@ -1,5 +1,5 @@
 # CPI441_CapstoneGame
-![alt text](https://drive.google.com/file/d/19X78zp5mlNuh79nhHRuqmTlWb7gQpHYH/view?usp=sharing)
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 # BaddieBombBlobby Simulator
 
 This is BadBombBloby simulator! An evolution on the roguelite and dating sim genre!
