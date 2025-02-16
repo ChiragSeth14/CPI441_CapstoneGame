@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 684acca2a63905542a8be8087ede2d2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4280202730746445839
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_0
+  - first:
+      213: 5003423089006883490
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_1
+  - first:
+      213: 6884174378174598079
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_2
+  - first:
+      213: -4827614952038653763
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_3
+  - first:
+      213: 115060877700167400
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_4
+  - first:
+      213: -7124351363591514586
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_5
+  - first:
+      213: -6063040265663224366
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_6
+  - first:
+      213: 5634583098766844804
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_7
+  - first:
+      213: -6310984817110675490
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_8
+  - first:
+      213: 1258289845190674089
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_9
+  - first:
+      213: -6930889595332045301
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_10
+  - first:
+      213: -6586554619217333836
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_11
+  - first:
+      213: 4616054273105595449
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_12
+  - first:
+      213: -9145338017210974601
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_13
+  - first:
+      213: 8283635805774415334
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_14
+  - first:
+      213: 1663912936736613177
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_15
+  - first:
+      213: 1209817938838957570
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_16
+  - first:
+      213: 6953195407734007366
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_17
+  - first:
+      213: 8250504036759807207
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_18
+  - first:
+      213: 6917429421289841010
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_19
+  - first:
+      213: 1403808591239336825
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_20
+  - first:
+      213: -2571466378478503640
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_21
+  - first:
+      213: 4496340981121131082
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_22
+  - first:
+      213: 7440993737375333184
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_23
+  - first:
+      213: 4933650157689013599
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_24
+  - first:
+      213: -4806661409004474154
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_25
+  - first:
+      213: 1838738484419834072
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_26
+  - first:
+      213: -4861983381664305110
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_27
+  - first:
+      213: 7056307250692120920
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_28
+  - first:
+      213: 5630683694063427369
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_29
+  - first:
+      213: 7472263582720680621
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_30
+  - first:
+      213: -8591388081556835859
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_31
+  - first:
+      213: -8450716253469964092
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_32
+  - first:
+      213: 7855163237240400203
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_33
+  - first:
+      213: -5650797562150026294
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_34
+  - first:
+      213: -6863820634464046786
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_35
+  - first:
+      213: 7644490991182189047
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_36
+  - first:
+      213: 8530111058590327114
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_37
+  - first:
+      213: 649625872073907162
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_38
+  - first:
+      213: 7336592175714707356
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_39
+  - first:
+      213: 988877635196752242
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_40
+  - first:
+      213: 673287917830069251
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_41
+  - first:
+      213: 7761133377438081735
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_42
+  - first:
+      213: 8701094932467404070
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_43
+  - first:
+      213: 3794946477288975935
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_44
+  - first:
+      213: 8039312014444804129
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_45
+  - first:
+      213: -3551042502224208253
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_46
+  - first:
+      213: 9140359462100607217
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_47
+  - first:
+      213: 6676056570769594102
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_48
+  - first:
+      213: 558615261656220637
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_49
+  - first:
+      213: -1997994490047736042
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_50
+  - first:
+      213: -4845568009584132581
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_51
+  - first:
+      213: -5505180531657037265
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_52
+  - first:
+      213: -7467203110783817593
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_53
+  - first:
+      213: -7364529877577271830
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_54
+  - first:
+      213: 2977269576690996673
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_55
+  - first:
+      213: 7900469656360171652
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_56
+  - first:
+      213: -7494901773637241415
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_57
+  - first:
+      213: 1014406522458239050
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_58
+  - first:
+      213: 4922081384618196626
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_59
+  - first:
+      213: -1348291862950126082
+    second: Interiors 22_768x768_TILESETS_B_C_D_E_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 587
+        width: 104
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f008cc4c4b5566b30800000000000000
+      internalID: 4280202730746445839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 731
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23e394acabf6540800000000000000
+      internalID: 5003423089006883490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 722
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb41fe7f10898f50800000000000000
+      internalID: 6884174378174598079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 689
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db02f5767cdd00db0800000000000000
+      internalID: -4827614952038653763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 689
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6fcd63247c89100800000000000000
+      internalID: 115060877700167400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 623
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626de066e28312d90800000000000000
+      internalID: -7124351363591514586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 623
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e0427001cbdba0800000000000000
+      internalID: -6063040265663224366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 626
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ea6b997f023e40800000000000000
+      internalID: 5634583098766844804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 626
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0c31feb0ea68a0800000000000000
+      internalID: -6310984817110675490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 593
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6421f82f7567110800000000000000
+      internalID: 1258289845190674089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 623
+        width: 145
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0658cc62a880df90800000000000000
+      internalID: -6930889595332045301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b7db887bd794a0800000000000000
+      internalID: -6586554619217333836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 578
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c026c87e48f0040800000000000000
+      internalID: 4616054273105595449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb345078b351180800000000000000
+      internalID: -9145338017210974601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 593
+        width: 145
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e504e370e265f270800000000000000
+      internalID: 8283635805774415334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 434
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ec5b0008671710800000000000000
+      internalID: 1663912936736613177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 434
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e246761032ac010800000000000000
+      internalID: 1209817938838957570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 434
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ecdb3266be7060800000000000000
+      internalID: 6953195407734007366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 491
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4aef855bdaf7270800000000000000
+      internalID: 8250504036759807207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 491
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27121d69865afff50800000000000000
+      internalID: 6917429421289841010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 241
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973567dd9745b7310800000000000000
+      internalID: 1403808591239336825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 425
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829bde6f3f0505cd0800000000000000
+      internalID: -2571466378478503640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 398
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a1c8bc46366e30800000000000000
+      internalID: 4496340981121131082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 431
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bb92c4168b34760800000000000000
+      internalID: 7440993737375333184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 338
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f558a17cda8d77440800000000000000
+      internalID: 4933650157689013599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 338
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b5b05aee4b4db0800000000000000
+      internalID: -4806661409004474154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_26
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 350
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d03fa6d8e2848910800000000000000
+      internalID: 1838738484419834072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_27
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 350
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20fb00dfd3c68cb0800000000000000
+      internalID: -4861983381664305110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 362
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851648ffe0a0de160800000000000000
+      internalID: 7056307250692120920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 362
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f1c33bcf4342e40800000000000000
+      internalID: 5630683694063427369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_30
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 362
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da267248320d2b760800000000000000
+      internalID: 7472263582720680621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 362
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1b7471f0245c880800000000000000
+      internalID: -8591388081556835859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 241
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c88d4e575609ba80800000000000000
+      internalID: -8450716253469964092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 242
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49eb688855230d60800000000000000
+      internalID: 7855163237240400203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 242
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac387627e855491b0800000000000000
+      internalID: -5650797562150026294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 254
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3136c0cf7fceb0a0800000000000000
+      internalID: -6863820634464046786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 254
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19612ed00b61a60800000000000000
+      internalID: 7644490991182189047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 263
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4168e530da016670800000000000000
+      internalID: 8530111058590327114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_38
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 263
+        width: 97
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5edde94fe30900800000000000000
+      internalID: 649625872073907162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 145
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a26f76bfc0d560800000000000000
+      internalID: 7336592175714707356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711b3c48f239bd00800000000000000
+      internalID: 988877635196752242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 146
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cd2d54bcff75900800000000000000
+      internalID: 673287917830069251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 146
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2ef90cfa515bb60800000000000000
+      internalID: 7761133377438081735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_43
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 173
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dcbae9dbf70c870800000000000000
+      internalID: 8701094932467404070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_44
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 173
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eed60f6bb5aa430800000000000000
+      internalID: 3794946477288975935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_45
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 152
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128338bdeaf519f60800000000000000
+      internalID: 8039312014444804129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_46
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 152
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e9c9098a928bec0800000000000000
+      internalID: -3551042502224208253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 152
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f023e9c08419de70800000000000000
+      internalID: 9140359462100607217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 194
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f65221741e16ac50800000000000000
+      internalID: 6676056570769594102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 101
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3812dee9990c700800000000000000
+      internalID: 558615261656220637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 158
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617548dd892b544e0800000000000000
+      internalID: -1997994490047736042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ebdb5719511ccb0800000000000000
+      internalID: -4845568009584132581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 50
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aaf22697ba993b0800000000000000
+      internalID: -5505180531657037265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 50
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788e90c655a2f5890800000000000000
+      internalID: -7467203110783817593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 77
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae57145681febc990800000000000000
+      internalID: -7364529877577271830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 77
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c59e3fd7e2615920800000000000000
+      internalID: 2977269576690996673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_56
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 47
+        width: 20
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488b9124b4b14ad60800000000000000
+      internalID: 7900469656360171652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_57
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 47
+        width: 20
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b538ebeb82ccf790800000000000000
+      internalID: -7494901773637241415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_58
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 47
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4076fc8b55e31e00800000000000000
+      internalID: 1014406522458239050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_59
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 47
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29efab5e0febe4440800000000000000
+      internalID: 4922081384618196626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors 22_768x768_TILESETS_B_C_D_E_60
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 47
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdde47b1b7e94de0800000000000000
+      internalID: -1348291862950126082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

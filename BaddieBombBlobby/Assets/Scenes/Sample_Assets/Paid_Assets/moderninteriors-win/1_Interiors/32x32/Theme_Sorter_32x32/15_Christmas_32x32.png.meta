@@ -1,0 +1,2918 @@
+fileFormatVersion: 2
+guid: 355539aee9ff04549a7f06dbcd094729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6029025949309384585
+    second: 15_Christmas_32x32_0
+  - first:
+      213: 59563313193998496
+    second: 15_Christmas_32x32_1
+  - first:
+      213: 6659013764213988497
+    second: 15_Christmas_32x32_2
+  - first:
+      213: -1518964589500835055
+    second: 15_Christmas_32x32_3
+  - first:
+      213: 6340307313825947378
+    second: 15_Christmas_32x32_4
+  - first:
+      213: -3552019985786454361
+    second: 15_Christmas_32x32_5
+  - first:
+      213: -9143053714089516622
+    second: 15_Christmas_32x32_6
+  - first:
+      213: -4420356054185082636
+    second: 15_Christmas_32x32_7
+  - first:
+      213: 5619231106215169053
+    second: 15_Christmas_32x32_8
+  - first:
+      213: 6117689963392569398
+    second: 15_Christmas_32x32_9
+  - first:
+      213: 8951076646261333145
+    second: 15_Christmas_32x32_10
+  - first:
+      213: -2013207207273433542
+    second: 15_Christmas_32x32_11
+  - first:
+      213: 7147818746491061735
+    second: 15_Christmas_32x32_12
+  - first:
+      213: 6209111972365731050
+    second: 15_Christmas_32x32_13
+  - first:
+      213: -6051914219200519612
+    second: 15_Christmas_32x32_14
+  - first:
+      213: -848535930513133503
+    second: 15_Christmas_32x32_15
+  - first:
+      213: -4008979085818018777
+    second: 15_Christmas_32x32_16
+  - first:
+      213: 5856427356647995692
+    second: 15_Christmas_32x32_17
+  - first:
+      213: 8702122991666693591
+    second: 15_Christmas_32x32_18
+  - first:
+      213: 1204073797536034148
+    second: 15_Christmas_32x32_19
+  - first:
+      213: -9146837161889553389
+    second: 15_Christmas_32x32_20
+  - first:
+      213: -6630787208580947693
+    second: 15_Christmas_32x32_21
+  - first:
+      213: -2385678329581885676
+    second: 15_Christmas_32x32_22
+  - first:
+      213: 1794302347736517733
+    second: 15_Christmas_32x32_23
+  - first:
+      213: -24670645813952277
+    second: 15_Christmas_32x32_24
+  - first:
+      213: 3369029034388351774
+    second: 15_Christmas_32x32_25
+  - first:
+      213: -6517737819745121344
+    second: 15_Christmas_32x32_26
+  - first:
+      213: 6876211524492801136
+    second: 15_Christmas_32x32_27
+  - first:
+      213: 2999953813505973565
+    second: 15_Christmas_32x32_28
+  - first:
+      213: 2947617307718078060
+    second: 15_Christmas_32x32_29
+  - first:
+      213: -2872860261613007077
+    second: 15_Christmas_32x32_30
+  - first:
+      213: 3289791102903577675
+    second: 15_Christmas_32x32_31
+  - first:
+      213: 3942635651394795212
+    second: 15_Christmas_32x32_32
+  - first:
+      213: 8124213288231127617
+    second: 15_Christmas_32x32_33
+  - first:
+      213: -6135942095486807831
+    second: 15_Christmas_32x32_34
+  - first:
+      213: -3865257767926543027
+    second: 15_Christmas_32x32_35
+  - first:
+      213: -654998966161439445
+    second: 15_Christmas_32x32_36
+  - first:
+      213: -3897339362945456491
+    second: 15_Christmas_32x32_37
+  - first:
+      213: -5279703519625699397
+    second: 15_Christmas_32x32_38
+  - first:
+      213: -8079122755536623077
+    second: 15_Christmas_32x32_39
+  - first:
+      213: 6747300423782821624
+    second: 15_Christmas_32x32_40
+  - first:
+      213: 2928063132765411946
+    second: 15_Christmas_32x32_41
+  - first:
+      213: -4480424748869909670
+    second: 15_Christmas_32x32_42
+  - first:
+      213: -4788286294009985340
+    second: 15_Christmas_32x32_43
+  - first:
+      213: -683512640512550942
+    second: 15_Christmas_32x32_44
+  - first:
+      213: 1042656803193591035
+    second: 15_Christmas_32x32_45
+  - first:
+      213: 7084158035337345097
+    second: 15_Christmas_32x32_46
+  - first:
+      213: -3616663367148946338
+    second: 15_Christmas_32x32_47
+  - first:
+      213: -5161005220664676666
+    second: 15_Christmas_32x32_48
+  - first:
+      213: 6431215699085311943
+    second: 15_Christmas_32x32_49
+  - first:
+      213: -7706137577220896839
+    second: 15_Christmas_32x32_50
+  - first:
+      213: 1881286994771628317
+    second: 15_Christmas_32x32_51
+  - first:
+      213: -1793200976825482150
+    second: 15_Christmas_32x32_52
+  - first:
+      213: -1410361945699771339
+    second: 15_Christmas_32x32_53
+  - first:
+      213: -3978395133356222074
+    second: 15_Christmas_32x32_54
+  - first:
+      213: -5879692930712953184
+    second: 15_Christmas_32x32_55
+  - first:
+      213: -3265343867468987973
+    second: 15_Christmas_32x32_56
+  - first:
+      213: -3730715058145039731
+    second: 15_Christmas_32x32_57
+  - first:
+      213: 8400209047876345805
+    second: 15_Christmas_32x32_58
+  - first:
+      213: 2764121338050237538
+    second: 15_Christmas_32x32_59
+  - first:
+      213: 5112135318857991982
+    second: 15_Christmas_32x32_60
+  - first:
+      213: -7741655112183036007
+    second: 15_Christmas_32x32_61
+  - first:
+      213: -431673776051059164
+    second: 15_Christmas_32x32_62
+  - first:
+      213: -1130736652064302302
+    second: 15_Christmas_32x32_63
+  - first:
+      213: 3343215283830625897
+    second: 15_Christmas_32x32_64
+  - first:
+      213: 8328764949376996007
+    second: 15_Christmas_32x32_65
+  - first:
+      213: -7474186770428842120
+    second: 15_Christmas_32x32_66
+  - first:
+      213: -1660249860894543023
+    second: 15_Christmas_32x32_67
+  - first:
+      213: -2955095704711458866
+    second: 15_Christmas_32x32_68
+  - first:
+      213: -1300187657774502218
+    second: 15_Christmas_32x32_69
+  - first:
+      213: 5778692908470068325
+    second: 15_Christmas_32x32_70
+  - first:
+      213: 321622543317307357
+    second: 15_Christmas_32x32_71
+  - first:
+      213: -3884967423241385617
+    second: 15_Christmas_32x32_72
+  - first:
+      213: -243598906492408356
+    second: 15_Christmas_32x32_73
+  - first:
+      213: 5003637308718256902
+    second: 15_Christmas_32x32_74
+  - first:
+      213: 1132977534452457530
+    second: 15_Christmas_32x32_75
+  - first:
+      213: -1458583655701822290
+    second: 15_Christmas_32x32_76
+  - first:
+      213: -3903018183742673771
+    second: 15_Christmas_32x32_77
+  - first:
+      213: 1693617139981613308
+    second: 15_Christmas_32x32_78
+  - first:
+      213: -161268762723485234
+    second: 15_Christmas_32x32_79
+  - first:
+      213: -4012918564337783033
+    second: 15_Christmas_32x32_80
+  - first:
+      213: 1623560830732005877
+    second: 15_Christmas_32x32_81
+  - first:
+      213: 8414150226392427025
+    second: 15_Christmas_32x32_82
+  - first:
+      213: 1410832691754657672
+    second: 15_Christmas_32x32_83
+  - first:
+      213: -5150722955847351775
+    second: 15_Christmas_32x32_84
+  - first:
+      213: -5534298862602057230
+    second: 15_Christmas_32x32_85
+  - first:
+      213: -430320847012375385
+    second: 15_Christmas_32x32_86
+  - first:
+      213: -8158448922242961543
+    second: 15_Christmas_32x32_87
+  - first:
+      213: -1790491138510067379
+    second: 15_Christmas_32x32_88
+  - first:
+      213: -7315868137173945287
+    second: 15_Christmas_32x32_89
+  - first:
+      213: -1471587248813929330
+    second: 15_Christmas_32x32_90
+  - first:
+      213: -6681705448140805859
+    second: 15_Christmas_32x32_91
+  - first:
+      213: 3654867229223508942
+    second: 15_Christmas_32x32_92
+  - first:
+      213: 5228320578767537369
+    second: 15_Christmas_32x32_93
+  - first:
+      213: 6245471592397559876
+    second: 15_Christmas_32x32_94
+  - first:
+      213: -8113241236287210055
+    second: 15_Christmas_32x32_95
+  - first:
+      213: -7223217432981389982
+    second: 15_Christmas_32x32_96
+  - first:
+      213: 3562574565286305286
+    second: 15_Christmas_32x32_97
+  - first:
+      213: 4241295370992516031
+    second: 15_Christmas_32x32_98
+  - first:
+      213: -3165916231249627506
+    second: 15_Christmas_32x32_99
+  - first:
+      213: -6504916134434516385
+    second: 15_Christmas_32x32_100
+  - first:
+      213: -3983402151303196299
+    second: 15_Christmas_32x32_101
+  - first:
+      213: 7849778647676414499
+    second: 15_Christmas_32x32_102
+  - first:
+      213: 374583057773021156
+    second: 15_Christmas_32x32_103
+  - first:
+      213: 3672012235964867047
+    second: 15_Christmas_32x32_104
+  - first:
+      213: 4688330769428227214
+    second: 15_Christmas_32x32_105
+  - first:
+      213: 2223375675498794924
+    second: 15_Christmas_32x32_106
+  - first:
+      213: 4455694593950360449
+    second: 15_Christmas_32x32_107
+  - first:
+      213: -1462348775360324071
+    second: 15_Christmas_32x32_108
+  - first:
+      213: -6992985739903716426
+    second: 15_Christmas_32x32_109
+  - first:
+      213: 3024675346728438589
+    second: 15_Christmas_32x32_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b23268276ba350800000000000000
+      internalID: 6029025949309384585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 449
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d29c848c93d000800000000000000
+      internalID: 59563313193998496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 461
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5962dcb1996c50800000000000000
+      internalID: 6659013764213988497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 461
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd760f0cd8beae0800000000000000
+      internalID: -1518964589500835055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 493
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1867d8eb4df750800000000000000
+      internalID: 6340307313825947378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 493
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae3c1074a0b4bec0800000000000000
+      internalID: -3552019985786454361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 465
+        width: 161
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1e069c6195d1180800000000000000
+      internalID: -9143053714089516622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 421
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f00d89b69db7a2c0800000000000000
+      internalID: -4420356054185082636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 425
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc7cc4be48bfd40800000000000000
+      internalID: 5619231106215169053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 421
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6309cf9db9666e450800000000000000
+      internalID: 6117689963392569398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 369
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c93b1f8cc983c70800000000000000
+      internalID: 8951076646261333145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 417
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36f53f16b6af04e0800000000000000
+      internalID: -2013207207273433542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 429
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54a777747223360800000000000000
+      internalID: 7147818746491061735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 429
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae40c7b01723b2650800000000000000
+      internalID: 6209111972365731050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 427
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ea610518430ca0800000000000000
+      internalID: -6051914219200519612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 389
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140fb9221156934f0800000000000000
+      internalID: -848535930513133503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 391
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724c8dd03ce3d58c0800000000000000
+      internalID: -4008979085818018777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 389
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2932e5f6a5364150800000000000000
+      internalID: 5856427356647995692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 367
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d58d0e41c624c870800000000000000
+      internalID: 8702122991666693591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 367
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dad794dbab5b010800000000000000
+      internalID: 1204073797536034148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 365
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3142b333018ef0180800000000000000
+      internalID: -9146837161889553389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 351
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311245b4a26baf3a0800000000000000
+      internalID: -6630787208580947693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417ace8f23e54eed0800000000000000
+      internalID: -2385678329581885676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c0c788a74a6e810800000000000000
+      internalID: 1794302347736517733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be041e7ad2a58aff0800000000000000
+      internalID: -24670645813952277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 369
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be1b09e0231ce20800000000000000
+      internalID: 3369029034388351774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 357
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb86f24cf75c85a0800000000000000
+      internalID: -6517737819745121344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 357
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07437d523f53d6f50800000000000000
+      internalID: 6876211524492801136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 357
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1a94591af1a920800000000000000
+      internalID: 2999953813505973565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 365
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4450035a08e820800000000000000
+      internalID: 2947617307718078060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f883920dc8128d0800000000000000
+      internalID: -2872860261613007077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 315
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ceec9f39fa7ad20800000000000000
+      internalID: 3289791102903577675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 283
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67d286c3e07b630800000000000000
+      internalID: 3942635651394795212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 283
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a468411f00fb070800000000000000
+      internalID: 8124213288231127617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 323
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0942c7c21c8daa0800000000000000
+      internalID: -6135942095486807831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 269
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d4b610a88db5ac0800000000000000
+      internalID: -3865257767926543027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 269
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2503bd19e9f8e6f0800000000000000
+      internalID: -654998966161439445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 269
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5962d769f7ed9e9c0800000000000000
+      internalID: -3897339362945456491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 269
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf94593f99bab6b0800000000000000
+      internalID: -5279703519625699397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 287
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae67ba8a031ef80800000000000000
+      internalID: -8079122755536623077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 295
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feea689cf933ad50800000000000000
+      internalID: 6747300423782821624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a566cd7e192a820800000000000000
+      internalID: 2928063132765411946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 299
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538db0ed6552d1c0800000000000000
+      internalID: -4480424748869909670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 299
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c9aa2cf69c8db0800000000000000
+      internalID: -4788286294009985340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e792c6ffdca386f0800000000000000
+      internalID: -683512640512550942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 295
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf49ff896d2487e00800000000000000
+      internalID: 1042656803193591035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 267
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948f20d133cff4260800000000000000
+      internalID: 7084158035337345097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 259
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c3be854d70fcdc0800000000000000
+      internalID: -3616663367148946338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 287
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce6852981d6068b0800000000000000
+      internalID: -5161005220664676666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf35e1ba94404950800000000000000
+      internalID: 6431215699085311943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7857fc3bc4e0590800000000000000
+      internalID: -7706137577220896839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11dce3ed8cab1a10800000000000000
+      internalID: 1881286994771628317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a540f6d56354d17e0800000000000000
+      internalID: -1793200976825482150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c16d568436d6ce0800000000000000
+      internalID: -1410361945699771339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 283
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689d82464b6e9c8c0800000000000000
+      internalID: -3978395133356222074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 283
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae9a747e62276ea0800000000000000
+      internalID: -5879692930712953184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 283
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1c2069d0b2fa2d0800000000000000
+      internalID: -3265343867468987973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a6019bb66d93cc0800000000000000
+      internalID: -3730715058145039731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 269
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf11b17f99839470800000000000000
+      internalID: 8400209047876345805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264df8646b12c5620800000000000000
+      internalID: 2764121338050237538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 267
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27424cbcf3f1f640800000000000000
+      internalID: 5112135318857991982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 261
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974eb841bd109490800000000000000
+      internalID: -7741655112183036007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 265
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42600afdcf2620af0800000000000000
+      internalID: -431673776051059164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 267
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b513f7101de40f0800000000000000
+      internalID: -1130736652064302302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 267
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9669168669c756e20800000000000000
+      internalID: 3343215283830625897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 261
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a217510897b59370800000000000000
+      internalID: 8328764949376996007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 265
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2aa37bba564890800000000000000
+      internalID: -7474186770428842120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 267
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1533df24c8b95f8e0800000000000000
+      internalID: -1660249860894543023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 255
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf04630d146df6d0800000000000000
+      internalID: -2955095704711458866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee005c63ec4fde0800000000000000
+      internalID: -1300187657774502218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5646d6b559a023050800000000000000
+      internalID: 5778692908470068325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8f26cff1a67400800000000000000
+      internalID: 321622543317307357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f698bb546b2d51ac0800000000000000
+      internalID: -3884967423241385617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdda8dec5109e9cf0800000000000000
+      internalID: -243598906492408356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 209
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6031b033f9d707540800000000000000
+      internalID: 5003637308718256902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 207
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306987901529bf00800000000000000
+      internalID: 1132977534452457530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 207
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c3be94e112cbe0800000000000000
+      internalID: -1458583655701822290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca02614a1b5d9c0800000000000000
+      internalID: -3903018183742673771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8fd1ec0dfe08710800000000000000
+      internalID: 1693617139981613308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ff7c2aee03cdf0800000000000000
+      internalID: -161268762723485234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 223
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f631cb3df3f48c0800000000000000
+      internalID: -4012918564337783033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 141
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1f40b39fb088610800000000000000
+      internalID: 1623560830732005877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa4e20d0115c470800000000000000
+      internalID: 8414150226392427025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8876b85bbd8449310800000000000000
+      internalID: 1410832691754657672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122c448e2c4f488b0800000000000000
+      internalID: -5150722955847351775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 159
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f981c5a1883233b0800000000000000
+      internalID: -5534298862602057230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 173
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d1663871370af0800000000000000
+      internalID: -430320847012375385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f2a873eed57ce80800000000000000
+      internalID: -8158448922242961543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496f93cbc5e627e0800000000000000
+      internalID: -1790491138510067379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 107
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934f52cb0b0d87a90800000000000000
+      internalID: -7315868137173945287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c837aa13fd39be0800000000000000
+      internalID: -1471587248813929330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1966cdcb40d543a0800000000000000
+      internalID: -6681705448140805859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 103
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb55137162b8b230800000000000000
+      internalID: 3654867229223508942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 105
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4cd459dd9be8840800000000000000
+      internalID: 5228320578767537369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 105
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44856a7c25f5ca650800000000000000
+      internalID: 6245471592397559876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 105
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdbc06d41af76f80800000000000000
+      internalID: -8113241236287210055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3cb3d30af1cb90800000000000000
+      internalID: -7223217432981389982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e5bb911bec07130800000000000000
+      internalID: 3562574565286305286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb74872bab1cda30800000000000000
+      internalID: 4241295370992516031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f8bf16f76014d0800000000000000
+      internalID: -3165916231249627506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 37
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52d2518d35e9b5a0800000000000000
+      internalID: -6504916134434516385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571db0e29dc18b8c0800000000000000
+      internalID: -3983402151303196299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 35
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae234171400fc60800000000000000
+      internalID: 7849778647676414499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 69
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7c0717e49c23500800000000000000
+      internalID: 374583057773021156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 67
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e2976cab95f230800000000000000
+      internalID: 3672012235964867047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84ad45befb401140800000000000000
+      internalID: 4688330769428227214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf895c95640bde10800000000000000
+      internalID: 2223375675498794924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1832a0c30aec5dd30800000000000000
+      internalID: 4455694593950360449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9be26981b4bbe0800000000000000
+      internalID: -1462348775360324071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3baad158ce3fe90800000000000000
+      internalID: -6992985739903716426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 37
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b41a2d33ec9f920800000000000000
+      internalID: 3024675346728438589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

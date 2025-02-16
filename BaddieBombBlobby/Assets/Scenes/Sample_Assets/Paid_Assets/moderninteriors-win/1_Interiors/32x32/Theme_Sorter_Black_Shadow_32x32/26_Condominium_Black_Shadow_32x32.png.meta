@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: caf8f41840ba4bb449f699d6fecf304d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 406468020290608679
+    second: 26_Condominium_Black_Shadow_32x32_0
+  - first:
+      213: 4478041760836835665
+    second: 26_Condominium_Black_Shadow_32x32_1
+  - first:
+      213: 1964396348659007239
+    second: 26_Condominium_Black_Shadow_32x32_2
+  - first:
+      213: 6168670418170284964
+    second: 26_Condominium_Black_Shadow_32x32_3
+  - first:
+      213: 1625302122125642841
+    second: 26_Condominium_Black_Shadow_32x32_4
+  - first:
+      213: 2611221913530384474
+    second: 26_Condominium_Black_Shadow_32x32_5
+  - first:
+      213: -9206976665578846950
+    second: 26_Condominium_Black_Shadow_32x32_6
+  - first:
+      213: 4797911239311803738
+    second: 26_Condominium_Black_Shadow_32x32_7
+  - first:
+      213: 7806225758541478315
+    second: 26_Condominium_Black_Shadow_32x32_8
+  - first:
+      213: 513234502673241795
+    second: 26_Condominium_Black_Shadow_32x32_9
+  - first:
+      213: -4888840595704052705
+    second: 26_Condominium_Black_Shadow_32x32_10
+  - first:
+      213: -6184753791799235502
+    second: 26_Condominium_Black_Shadow_32x32_11
+  - first:
+      213: 3095703725698881532
+    second: 26_Condominium_Black_Shadow_32x32_12
+  - first:
+      213: 8053149668362712842
+    second: 26_Condominium_Black_Shadow_32x32_13
+  - first:
+      213: 966895468630151044
+    second: 26_Condominium_Black_Shadow_32x32_14
+  - first:
+      213: 6881444150169467448
+    second: 26_Condominium_Black_Shadow_32x32_15
+  - first:
+      213: -202440131184568356
+    second: 26_Condominium_Black_Shadow_32x32_16
+  - first:
+      213: 712295906073635315
+    second: 26_Condominium_Black_Shadow_32x32_17
+  - first:
+      213: 7822550933917139510
+    second: 26_Condominium_Black_Shadow_32x32_18
+  - first:
+      213: 6855324319409323000
+    second: 26_Condominium_Black_Shadow_32x32_19
+  - first:
+      213: -6944677144939682504
+    second: 26_Condominium_Black_Shadow_32x32_20
+  - first:
+      213: -6403962723956705579
+    second: 26_Condominium_Black_Shadow_32x32_21
+  - first:
+      213: -2742037610636628878
+    second: 26_Condominium_Black_Shadow_32x32_22
+  - first:
+      213: -6589497853761808641
+    second: 26_Condominium_Black_Shadow_32x32_23
+  - first:
+      213: -5634073725507436716
+    second: 26_Condominium_Black_Shadow_32x32_24
+  - first:
+      213: 4474992588870266565
+    second: 26_Condominium_Black_Shadow_32x32_25
+  - first:
+      213: 1159159809279999405
+    second: 26_Condominium_Black_Shadow_32x32_26
+  - first:
+      213: 7284485865570298786
+    second: 26_Condominium_Black_Shadow_32x32_27
+  - first:
+      213: 985947148304144810
+    second: 26_Condominium_Black_Shadow_32x32_28
+  - first:
+      213: 6613503068242154580
+    second: 26_Condominium_Black_Shadow_32x32_29
+  - first:
+      213: 4196872474654068509
+    second: 26_Condominium_Black_Shadow_32x32_30
+  - first:
+      213: 2122053102504477954
+    second: 26_Condominium_Black_Shadow_32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 385
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5af9c28014a500800000000000000
+      internalID: 406468020290608679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 583
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595b0c7143352e30800000000000000
+      internalID: 4478041760836835665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 583
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff4ef3210f24b10800000000000000
+      internalID: 1964396348659007239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 479
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab0083ff058b9550800000000000000
+      internalID: 6168670418170284964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 385
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cccf93bab3e8610800000000000000
+      internalID: 1625302122125642841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 415
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50c1b9de7cec3420800000000000000
+      internalID: 2611221913530384474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 479
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15ccd8d08f3a3080800000000000000
+      internalID: -9206976665578846950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 385
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55c80b0ada959240800000000000000
+      internalID: 4797911239311803738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 387
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97e5ed7f8455c60800000000000000
+      internalID: 7806225758541478315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6105a9f006f1700800000000000000
+      internalID: 513234502673241795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 355
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f140d816169572cb0800000000000000
+      internalID: -4888840595704052705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6e80d1375b2aa0800000000000000
+      internalID: -6184753791799235502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 323
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79224032626fa20800000000000000
+      internalID: 3095703725698881532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0770d9b4f882cf60800000000000000
+      internalID: 8053149668362712842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 209
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f82ae4e4a1b6d00800000000000000
+      internalID: 966895468630151044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 287
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a7a80cefccf7f50800000000000000
+      internalID: 6881444150169467448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 321
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d574f5c9c03df0800000000000000
+      internalID: -202440131184568356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 145
+        width: 38
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9eb784a5592e900800000000000000
+      internalID: 712295906073635315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 229
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6320885f0a84f8c60800000000000000
+      internalID: 7822550933917139510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 97
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb3d7eb521032f50800000000000000
+      internalID: 6855324319409323000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 165
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a8106eec8f9f90800000000000000
+      internalID: -6944677144939682504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 193
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b7bb05dd8027a0800000000000000
+      internalID: -6403962723956705579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2e31325352f9d0800000000000000
+      internalID: -2742037610636628878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6145a5d966d84a0800000000000000
+      internalID: -6589497853761808641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 101
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f74c81ccfbfc1b0800000000000000
+      internalID: -5634073725507436716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 53
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce2e10dc0e5a1e30800000000000000
+      internalID: 4474992588870266565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 77
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad3b0e74b9261010800000000000000
+      internalID: 1159159809279999405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 31
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abeba4cc41b71560800000000000000
+      internalID: 7284485865570298786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 19
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa95af525b9cead00800000000000000
+      internalID: 985947148304144810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454978f2002e7cb50800000000000000
+      internalID: 6613503068242154580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 53
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fce5b97494e3a30800000000000000
+      internalID: 4196872474654068509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Black_Shadow_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058b49bd0c037d10800000000000000
+      internalID: 2122053102504477954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

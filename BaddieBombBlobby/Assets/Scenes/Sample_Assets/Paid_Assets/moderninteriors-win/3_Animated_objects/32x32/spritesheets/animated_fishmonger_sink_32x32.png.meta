@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: d97e2a2383f54be468f6d7c9c7f2b55b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6129043328508566737
+    second: animated_fishmonger_sink_32x32_0
+  - first:
+      213: -5431616652737031711
+    second: animated_fishmonger_sink_32x32_1
+  - first:
+      213: -794027757741643152
+    second: animated_fishmonger_sink_32x32_2
+  - first:
+      213: -1233009829882908801
+    second: animated_fishmonger_sink_32x32_3
+  - first:
+      213: -2755599926405900315
+    second: animated_fishmonger_sink_32x32_4
+  - first:
+      213: 6502169800234165940
+    second: animated_fishmonger_sink_32x32_5
+  - first:
+      213: -7644938173445743772
+    second: animated_fishmonger_sink_32x32_6
+  - first:
+      213: 3324704163569976519
+    second: animated_fishmonger_sink_32x32_7
+  - first:
+      213: -6865498968662343731
+    second: animated_fishmonger_sink_32x32_8
+  - first:
+      213: 1610460384500152203
+    second: animated_fishmonger_sink_32x32_9
+  - first:
+      213: 3445802656427074741
+    second: animated_fishmonger_sink_32x32_10
+  - first:
+      213: 2689597440895116931
+    second: animated_fishmonger_sink_32x32_11
+  - first:
+      213: -8201078565836569014
+    second: animated_fishmonger_sink_32x32_12
+  - first:
+      213: 6319905554555973444
+    second: animated_fishmonger_sink_32x32_13
+  - first:
+      213: 3927527008604332575
+    second: animated_fishmonger_sink_32x32_14
+  - first:
+      213: 1630297738173857800
+    second: animated_fishmonger_sink_32x32_15
+  - first:
+      213: 4265133769076122267
+    second: animated_fishmonger_sink_32x32_16
+  - first:
+      213: -3272237457750385465
+    second: animated_fishmonger_sink_32x32_17
+  - first:
+      213: 1113595232292009368
+    second: animated_fishmonger_sink_32x32_18
+  - first:
+      213: 8495222319386424006
+    second: animated_fishmonger_sink_32x32_19
+  - first:
+      213: -2507932035878709595
+    second: animated_fishmonger_sink_32x32_20
+  - first:
+      213: 6931767868413422397
+    second: animated_fishmonger_sink_32x32_21
+  - first:
+      213: 5409729954121997835
+    second: animated_fishmonger_sink_32x32_22
+  - first:
+      213: -3848181372564854671
+    second: animated_fishmonger_sink_32x32_23
+  - first:
+      213: 8233872539848792088
+    second: animated_fishmonger_sink_32x32_24
+  - first:
+      213: 4914104543930147696
+    second: animated_fishmonger_sink_32x32_25
+  - first:
+      213: -4447080531937774065
+    second: animated_fishmonger_sink_32x32_26
+  - first:
+      213: -1733065160068415545
+    second: animated_fishmonger_sink_32x32_27
+  - first:
+      213: -2940443658172258043
+    second: animated_fishmonger_sink_32x32_28
+  - first:
+      213: -2942876739330282047
+    second: animated_fishmonger_sink_32x32_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23e447d09341faa0800000000000000
+      internalID: -6129043328508566737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e15389ae650f94b0800000000000000
+      internalID: -5431616652737031711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a620616fb0bf4f0800000000000000
+      internalID: -794027757741643152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa34da71873eee0800000000000000
+      internalID: -1233009829882908801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7db7b777422c9d0800000000000000
+      internalID: -2755599926405900315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6ea3cbbf85c3a50800000000000000
+      internalID: 6502169800234165940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b51f16c39b7e590800000000000000
+      internalID: -7644938173445743772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4c9dc52d8b32e20800000000000000
+      internalID: 3324704163569976519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcff11f1019d8b0a0800000000000000
+      internalID: -6865498968662343731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8778f6ef21895610800000000000000
+      internalID: 1610460384500152203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4ee666243f1df20800000000000000
+      internalID: 3445802656427074741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866a555f9e535520800000000000000
+      internalID: 2689597440895116931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46cd3cde7aef2e80800000000000000
+      internalID: -8201078565836569014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa3591e90d4b750800000000000000
+      internalID: 6319905554555973444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f122d916101618630800000000000000
+      internalID: 3927527008604332575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800c9f9b72bff9610800000000000000
+      internalID: 1630297738173857800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b922e49b09cc03b30800000000000000
+      internalID: 4265133769076122267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc9f068e5da692d0800000000000000
+      internalID: -3272237457750385465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8957554b6f8447f00800000000000000
+      internalID: 1113595232292009368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c27ffa90b715e570800000000000000
+      internalID: 8495222319386424006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a690a8d919023dd0800000000000000
+      internalID: -2507932035878709595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3baf367626923060800000000000000
+      internalID: 6931767868413422397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 5
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5b363bb8331b40800000000000000
+      internalID: 5409729954121997835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782ff02e63889ac0800000000000000
+      internalID: -3848181372564854671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 47
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d7873377944270800000000000000
+      internalID: 8233872539848792088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073e612fb08623440800000000000000
+      internalID: 4914104543930147696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 47
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f063b4e51dbc842c0800000000000000
+      internalID: -4447080531937774065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf34894b6ae2f7e0800000000000000
+      internalID: -1733065160068415545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509a79072127137d0800000000000000
+      internalID: -2940443658172258043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_fishmonger_sink_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 5
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd6576923dc827d0800000000000000
+      internalID: -2942876739330282047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

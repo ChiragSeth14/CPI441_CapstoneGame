@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 1359404b9898e394a90f1b696f454ce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8572578414102747589
+    second: animated_TV_reportage_hospital_32x32_0
+  - first:
+      213: 1299030915289751517
+    second: animated_TV_reportage_hospital_32x32_1
+  - first:
+      213: 2693023334155539252
+    second: animated_TV_reportage_hospital_32x32_2
+  - first:
+      213: -9094069777902127195
+    second: animated_TV_reportage_hospital_32x32_3
+  - first:
+      213: -2097410225177511115
+    second: animated_TV_reportage_hospital_32x32_4
+  - first:
+      213: -56101513461572939
+    second: animated_TV_reportage_hospital_32x32_5
+  - first:
+      213: -3708006844306594266
+    second: animated_TV_reportage_hospital_32x32_6
+  - first:
+      213: -7201888256718564910
+    second: animated_TV_reportage_hospital_32x32_7
+  - first:
+      213: -8498473079863544586
+    second: animated_TV_reportage_hospital_32x32_8
+  - first:
+      213: 8910451378392203148
+    second: animated_TV_reportage_hospital_32x32_9
+  - first:
+      213: 5763976504795557963
+    second: animated_TV_reportage_hospital_32x32_10
+  - first:
+      213: 5867938212668421041
+    second: animated_TV_reportage_hospital_32x32_11
+  - first:
+      213: -3397928288160892148
+    second: animated_TV_reportage_hospital_32x32_12
+  - first:
+      213: -5797241612212048159
+    second: animated_TV_reportage_hospital_32x32_13
+  - first:
+      213: -7616974122999877952
+    second: animated_TV_reportage_hospital_32x32_14
+  - first:
+      213: -2717678492559964086
+    second: animated_TV_reportage_hospital_32x32_15
+  - first:
+      213: 7892604460631805532
+    second: animated_TV_reportage_hospital_32x32_16
+  - first:
+      213: -8151225644684209008
+    second: animated_TV_reportage_hospital_32x32_17
+  - first:
+      213: 442690368750541165
+    second: animated_TV_reportage_hospital_32x32_18
+  - first:
+      213: 291282990149545107
+    second: animated_TV_reportage_hospital_32x32_19
+  - first:
+      213: 4664694908742256611
+    second: animated_TV_reportage_hospital_32x32_20
+  - first:
+      213: 3309175127147205126
+    second: animated_TV_reportage_hospital_32x32_21
+  - first:
+      213: 7688123829644480713
+    second: animated_TV_reportage_hospital_32x32_22
+  - first:
+      213: 6218969242782132635
+    second: animated_TV_reportage_hospital_32x32_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c996cde5aae7f670800000000000000
+      internalID: 8572578414102747589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf98122cb5170210800000000000000
+      internalID: 1299030915289751517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433dd24447a8f5520800000000000000
+      internalID: 2693023334155539252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7378d28bf5bc180800000000000000
+      internalID: -9094069777902127195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb504438084e2e0800000000000000
+      internalID: -2097410225177511115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bad2c288ffa83ff0800000000000000
+      internalID: -56101513461572939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6266364cb638a8cc0800000000000000
+      internalID: -3708006844306594266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19b3aa9c0cd0c90800000000000000
+      internalID: -7201888256718564910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4738db2cb5f0a80800000000000000
+      internalID: -8498473079863544586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ff47da15848ab70800000000000000
+      internalID: 8910451378392203148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40790e9712cdff40800000000000000
+      internalID: 5763976504795557963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ba0af6ba1f6150800000000000000
+      internalID: 5867938212668421041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b3be3993228d0d0800000000000000
+      internalID: -3397928288160892148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeecf2087f0c8fa0800000000000000
+      internalID: -5797241612212048159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceef3f34621b4690800000000000000
+      internalID: -7616974122999877952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a488e355fcdd84ad0800000000000000
+      internalID: -2717678492559964086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e4f9ca0f9288d60800000000000000
+      internalID: 7892604460631805532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941b84967701ee80800000000000000
+      internalID: -8151225644684209008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69dcde7b80c42600800000000000000
+      internalID: 442690368750541165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c2af41658da0400800000000000000
+      internalID: 291282990149545107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c72d0e435cb040800000000000000
+      internalID: 4664694908742256611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602da21de3d8ced20800000000000000
+      internalID: 3309175127147205126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0dc2fb3e3b1ba60800000000000000
+      internalID: 7688123829644480713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_TV_reportage_hospital_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 19
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99eb19a3973e4650800000000000000
+      internalID: 6218969242782132635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: d760164bc50cdfe429e72668a41b049e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1271991361746220667
+    second: 13_Conference_Hall_Shadowless_32x32_0
+  - first:
+      213: 7316036708281969107
+    second: 13_Conference_Hall_Shadowless_32x32_1
+  - first:
+      213: -2677025361179181461
+    second: 13_Conference_Hall_Shadowless_32x32_2
+  - first:
+      213: -2342094216767051870
+    second: 13_Conference_Hall_Shadowless_32x32_3
+  - first:
+      213: 1056610872066797242
+    second: 13_Conference_Hall_Shadowless_32x32_4
+  - first:
+      213: 1400618420717402267
+    second: 13_Conference_Hall_Shadowless_32x32_5
+  - first:
+      213: 8257255944704873802
+    second: 13_Conference_Hall_Shadowless_32x32_6
+  - first:
+      213: -8255771644888356279
+    second: 13_Conference_Hall_Shadowless_32x32_7
+  - first:
+      213: -7684699187555334199
+    second: 13_Conference_Hall_Shadowless_32x32_8
+  - first:
+      213: -5363454008288028391
+    second: 13_Conference_Hall_Shadowless_32x32_9
+  - first:
+      213: 4292223756725893672
+    second: 13_Conference_Hall_Shadowless_32x32_10
+  - first:
+      213: -5766341301921832628
+    second: 13_Conference_Hall_Shadowless_32x32_11
+  - first:
+      213: 4429309998660993090
+    second: 13_Conference_Hall_Shadowless_32x32_12
+  - first:
+      213: 4850017426836390362
+    second: 13_Conference_Hall_Shadowless_32x32_13
+  - first:
+      213: 3930273615000820182
+    second: 13_Conference_Hall_Shadowless_32x32_14
+  - first:
+      213: -2943608350608402925
+    second: 13_Conference_Hall_Shadowless_32x32_15
+  - first:
+      213: -2513821942292656552
+    second: 13_Conference_Hall_Shadowless_32x32_16
+  - first:
+      213: -8743463432409511450
+    second: 13_Conference_Hall_Shadowless_32x32_17
+  - first:
+      213: 5849612904828436074
+    second: 13_Conference_Hall_Shadowless_32x32_18
+  - first:
+      213: 4691495954028302036
+    second: 13_Conference_Hall_Shadowless_32x32_19
+  - first:
+      213: -8818996558590230119
+    second: 13_Conference_Hall_Shadowless_32x32_20
+  - first:
+      213: -3114434882423850992
+    second: 13_Conference_Hall_Shadowless_32x32_21
+  - first:
+      213: 5142716135082972229
+    second: 13_Conference_Hall_Shadowless_32x32_22
+  - first:
+      213: 3542245044020759126
+    second: 13_Conference_Hall_Shadowless_32x32_23
+  - first:
+      213: -5457522785079629825
+    second: 13_Conference_Hall_Shadowless_32x32_24
+  - first:
+      213: 8823653029056751426
+    second: 13_Conference_Hall_Shadowless_32x32_25
+  - first:
+      213: 7326728489379104866
+    second: 13_Conference_Hall_Shadowless_32x32_26
+  - first:
+      213: 911496795591088715
+    second: 13_Conference_Hall_Shadowless_32x32_27
+  - first:
+      213: 7631121086726539765
+    second: 13_Conference_Hall_Shadowless_32x32_28
+  - first:
+      213: -6918073748281867034
+    second: 13_Conference_Hall_Shadowless_32x32_29
+  - first:
+      213: 7003578330857536978
+    second: 13_Conference_Hall_Shadowless_32x32_30
+  - first:
+      213: 1166824311454447456
+    second: 13_Conference_Hall_Shadowless_32x32_31
+  - first:
+      213: -2554595508478209313
+    second: 13_Conference_Hall_Shadowless_32x32_32
+  - first:
+      213: -4546412930734028781
+    second: 13_Conference_Hall_Shadowless_32x32_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76bf3a776507a110800000000000000
+      internalID: 1271991361746220667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d96dd8cf98c78560800000000000000
+      internalID: 7316036708281969107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef3341e9b49dad0800000000000000
+      internalID: -2677025361179181461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a76a1308b53f7fd0800000000000000
+      internalID: -2342094216767051870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 351
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6b5f6df5d9ae00800000000000000
+      internalID: 1056610872066797242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 345
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98bab8680fff6310800000000000000
+      internalID: 1400618420717402267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 339
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45dd9b688aa79270800000000000000
+      internalID: 8257255944704873802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 339
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aefaf0e6b9d6d80800000000000000
+      internalID: -8255771644888356279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 351
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c70800edc67a5590800000000000000
+      internalID: -7684699187555334199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 277
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919d8da0ffe2195b0800000000000000
+      internalID: -5363454008288028391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 337
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab32cf3ca019b30800000000000000
+      internalID: 4292223756725893672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 263
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4129452327d9ffa0800000000000000
+      internalID: -5766341301921832628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 257
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240464ee9f1187d30800000000000000
+      internalID: 4429309998660993090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 257
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad189093729be4340800000000000000
+      internalID: 4850017426836390362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d63487032b8630800000000000000
+      internalID: 3930273615000820182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 277
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316dc101dc33627d0800000000000000
+      internalID: -2943608350608402925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 273
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4015234c1d1dd0800000000000000
+      internalID: -2513821942292656552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 273
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90d94455af8a680800000000000000
+      internalID: -8743463432409511450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 225
+        width: 118
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef6d1c1fffd2150800000000000000
+      internalID: 5849612904828436074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de0a0da6ba8b1140800000000000000
+      internalID: 4691495954028302036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99146d1ea51ac9580800000000000000
+      internalID: -8818996558590230119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0187a05b9fd47c4d0800000000000000
+      internalID: -3114434882423850992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 197
+        width: 110
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5445a4cd3199e5740800000000000000
+      internalID: 5142716135082972229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 219
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ace349915982130800000000000000
+      internalID: 3542245044020759126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 231
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff76ab131fbf244b0800000000000000
+      internalID: -5457522785079629825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 199
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2472a322ea9e37a70800000000000000
+      internalID: 8823653029056751426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680d2f0eb4cda560800000000000000
+      internalID: 7326728489379104866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 97
+        width: 162
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a1d1b918946ac00800000000000000
+      internalID: 911496795591088715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9045c623037e960800000000000000
+      internalID: 7631121086726539765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e444b754901eff90800000000000000
+      internalID: -6918073748281867034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddf267a265b13160800000000000000
+      internalID: 7003578330857536978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 137
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06738877784613010800000000000000
+      internalID: 1166824311454447456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2195c7be04c8cd0800000000000000
+      internalID: -2554595508478209313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Conference_Hall_Shadowless_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 65
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180b550785e7e0c0800000000000000
+      internalID: -4546412930734028781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

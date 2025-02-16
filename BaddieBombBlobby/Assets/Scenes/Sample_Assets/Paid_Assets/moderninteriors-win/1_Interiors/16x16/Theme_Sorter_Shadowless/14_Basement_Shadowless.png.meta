@@ -1,0 +1,4443 @@
+fileFormatVersion: 2
+guid: cfb078af6c45fda45888b5146fc434df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8838538501545796068
+    second: 14_Basement_Shadowless_0
+  - first:
+      213: 5097132476207706532
+    second: 14_Basement_Shadowless_1
+  - first:
+      213: 4389112702556305595
+    second: 14_Basement_Shadowless_2
+  - first:
+      213: -4121093644278940970
+    second: 14_Basement_Shadowless_3
+  - first:
+      213: -7266556204733656145
+    second: 14_Basement_Shadowless_4
+  - first:
+      213: -6115979850591637809
+    second: 14_Basement_Shadowless_5
+  - first:
+      213: 8787569937279625196
+    second: 14_Basement_Shadowless_6
+  - first:
+      213: 4148716014208169987
+    second: 14_Basement_Shadowless_7
+  - first:
+      213: 8659794946654206904
+    second: 14_Basement_Shadowless_8
+  - first:
+      213: 8018165170946022634
+    second: 14_Basement_Shadowless_9
+  - first:
+      213: -2683353798678661595
+    second: 14_Basement_Shadowless_10
+  - first:
+      213: 3560270219442729860
+    second: 14_Basement_Shadowless_11
+  - first:
+      213: 3936272723794581073
+    second: 14_Basement_Shadowless_12
+  - first:
+      213: 1867420617954241810
+    second: 14_Basement_Shadowless_13
+  - first:
+      213: 6970497216574213996
+    second: 14_Basement_Shadowless_14
+  - first:
+      213: -9146869255294789352
+    second: 14_Basement_Shadowless_15
+  - first:
+      213: -9047047167322006115
+    second: 14_Basement_Shadowless_16
+  - first:
+      213: 5518257192286298147
+    second: 14_Basement_Shadowless_17
+  - first:
+      213: 4196054023605150914
+    second: 14_Basement_Shadowless_18
+  - first:
+      213: -4780926270437198905
+    second: 14_Basement_Shadowless_19
+  - first:
+      213: 6647138335105663777
+    second: 14_Basement_Shadowless_20
+  - first:
+      213: 6769627331104209839
+    second: 14_Basement_Shadowless_21
+  - first:
+      213: 5288778076435532422
+    second: 14_Basement_Shadowless_22
+  - first:
+      213: -7256661004321220311
+    second: 14_Basement_Shadowless_23
+  - first:
+      213: -778530043977951561
+    second: 14_Basement_Shadowless_24
+  - first:
+      213: 7821513282317999522
+    second: 14_Basement_Shadowless_25
+  - first:
+      213: 5891968550797293853
+    second: 14_Basement_Shadowless_26
+  - first:
+      213: 4167822611342365152
+    second: 14_Basement_Shadowless_27
+  - first:
+      213: -8307826219698845481
+    second: 14_Basement_Shadowless_28
+  - first:
+      213: 8696654481075678912
+    second: 14_Basement_Shadowless_29
+  - first:
+      213: 3621127223597672521
+    second: 14_Basement_Shadowless_30
+  - first:
+      213: 5254165666942411496
+    second: 14_Basement_Shadowless_31
+  - first:
+      213: 6080808695625028767
+    second: 14_Basement_Shadowless_32
+  - first:
+      213: 3230858855306539054
+    second: 14_Basement_Shadowless_33
+  - first:
+      213: 3562948009262641164
+    second: 14_Basement_Shadowless_34
+  - first:
+      213: 4626095060401492424
+    second: 14_Basement_Shadowless_35
+  - first:
+      213: -5879126375596916557
+    second: 14_Basement_Shadowless_36
+  - first:
+      213: -6227816054380261579
+    second: 14_Basement_Shadowless_37
+  - first:
+      213: 4763793166976801291
+    second: 14_Basement_Shadowless_38
+  - first:
+      213: -6798948956177308308
+    second: 14_Basement_Shadowless_39
+  - first:
+      213: -1050025556193864941
+    second: 14_Basement_Shadowless_40
+  - first:
+      213: -4138139493777611393
+    second: 14_Basement_Shadowless_41
+  - first:
+      213: -3849153627868646239
+    second: 14_Basement_Shadowless_42
+  - first:
+      213: 3296508863449629560
+    second: 14_Basement_Shadowless_43
+  - first:
+      213: 4455411835342849466
+    second: 14_Basement_Shadowless_44
+  - first:
+      213: -6313462320483985536
+    second: 14_Basement_Shadowless_45
+  - first:
+      213: 830707570060608967
+    second: 14_Basement_Shadowless_46
+  - first:
+      213: -7280807845679681200
+    second: 14_Basement_Shadowless_47
+  - first:
+      213: 8319105742303749761
+    second: 14_Basement_Shadowless_48
+  - first:
+      213: 7402471527361929108
+    second: 14_Basement_Shadowless_49
+  - first:
+      213: 4247345853013307158
+    second: 14_Basement_Shadowless_50
+  - first:
+      213: -8113200338645332793
+    second: 14_Basement_Shadowless_51
+  - first:
+      213: 1466286603325398829
+    second: 14_Basement_Shadowless_52
+  - first:
+      213: 8111302925721115785
+    second: 14_Basement_Shadowless_53
+  - first:
+      213: 7252866815219806699
+    second: 14_Basement_Shadowless_54
+  - first:
+      213: 2121568290359782720
+    second: 14_Basement_Shadowless_55
+  - first:
+      213: -4460218695081566011
+    second: 14_Basement_Shadowless_56
+  - first:
+      213: -737881493384908215
+    second: 14_Basement_Shadowless_57
+  - first:
+      213: 151274813075921330
+    second: 14_Basement_Shadowless_58
+  - first:
+      213: 9126005812652069717
+    second: 14_Basement_Shadowless_59
+  - first:
+      213: 8996804697413407669
+    second: 14_Basement_Shadowless_60
+  - first:
+      213: 8316972695748430032
+    second: 14_Basement_Shadowless_61
+  - first:
+      213: 1544584819060435268
+    second: 14_Basement_Shadowless_62
+  - first:
+      213: 4379300881309328573
+    second: 14_Basement_Shadowless_63
+  - first:
+      213: -9136808869075126763
+    second: 14_Basement_Shadowless_64
+  - first:
+      213: 3243982616726667414
+    second: 14_Basement_Shadowless_65
+  - first:
+      213: 1979494691793978123
+    second: 14_Basement_Shadowless_66
+  - first:
+      213: 2015875533556746325
+    second: 14_Basement_Shadowless_67
+  - first:
+      213: 3401123977944839980
+    second: 14_Basement_Shadowless_68
+  - first:
+      213: 7034015273776482616
+    second: 14_Basement_Shadowless_69
+  - first:
+      213: -6869828388927596492
+    second: 14_Basement_Shadowless_70
+  - first:
+      213: -5625655130131675757
+    second: 14_Basement_Shadowless_71
+  - first:
+      213: -8160803202074833398
+    second: 14_Basement_Shadowless_72
+  - first:
+      213: -2251794825891587621
+    second: 14_Basement_Shadowless_73
+  - first:
+      213: -3782838102592362790
+    second: 14_Basement_Shadowless_74
+  - first:
+      213: 539949779129168093
+    second: 14_Basement_Shadowless_75
+  - first:
+      213: -5814267711823373552
+    second: 14_Basement_Shadowless_76
+  - first:
+      213: 4579217026258242481
+    second: 14_Basement_Shadowless_77
+  - first:
+      213: 7565683478163876366
+    second: 14_Basement_Shadowless_78
+  - first:
+      213: 5151100749933145569
+    second: 14_Basement_Shadowless_79
+  - first:
+      213: -3837654225453037941
+    second: 14_Basement_Shadowless_80
+  - first:
+      213: 4250278250141083862
+    second: 14_Basement_Shadowless_81
+  - first:
+      213: -7454431340815605016
+    second: 14_Basement_Shadowless_82
+  - first:
+      213: 188003672266357532
+    second: 14_Basement_Shadowless_83
+  - first:
+      213: -8783205376954135277
+    second: 14_Basement_Shadowless_84
+  - first:
+      213: -1211484030697049944
+    second: 14_Basement_Shadowless_85
+  - first:
+      213: -7852693012045679200
+    second: 14_Basement_Shadowless_86
+  - first:
+      213: 1270599612057474026
+    second: 14_Basement_Shadowless_87
+  - first:
+      213: -4321973655749055977
+    second: 14_Basement_Shadowless_88
+  - first:
+      213: -7096013730795648070
+    second: 14_Basement_Shadowless_89
+  - first:
+      213: -6162266757098070158
+    second: 14_Basement_Shadowless_90
+  - first:
+      213: 1335352999279001938
+    second: 14_Basement_Shadowless_91
+  - first:
+      213: -1577389706735189580
+    second: 14_Basement_Shadowless_92
+  - first:
+      213: 7764067489078026045
+    second: 14_Basement_Shadowless_93
+  - first:
+      213: -5813776326178474459
+    second: 14_Basement_Shadowless_94
+  - first:
+      213: 5736741496384625570
+    second: 14_Basement_Shadowless_95
+  - first:
+      213: -7658511533092104116
+    second: 14_Basement_Shadowless_96
+  - first:
+      213: 6276461973975934938
+    second: 14_Basement_Shadowless_97
+  - first:
+      213: 1840186507169402177
+    second: 14_Basement_Shadowless_98
+  - first:
+      213: -777470604132612817
+    second: 14_Basement_Shadowless_99
+  - first:
+      213: -3160675322369982753
+    second: 14_Basement_Shadowless_100
+  - first:
+      213: 4714390938640615716
+    second: 14_Basement_Shadowless_101
+  - first:
+      213: -5273260341841179349
+    second: 14_Basement_Shadowless_102
+  - first:
+      213: 595630702249696293
+    second: 14_Basement_Shadowless_103
+  - first:
+      213: 1797991812810168467
+    second: 14_Basement_Shadowless_104
+  - first:
+      213: -514262645481762402
+    second: 14_Basement_Shadowless_105
+  - first:
+      213: 2756823074886392457
+    second: 14_Basement_Shadowless_106
+  - first:
+      213: 8110073346600808616
+    second: 14_Basement_Shadowless_107
+  - first:
+      213: -1381429787109105105
+    second: 14_Basement_Shadowless_108
+  - first:
+      213: -2365536747835594356
+    second: 14_Basement_Shadowless_109
+  - first:
+      213: 7720351423386537824
+    second: 14_Basement_Shadowless_110
+  - first:
+      213: 2691938584023790003
+    second: 14_Basement_Shadowless_111
+  - first:
+      213: 3086317742390672070
+    second: 14_Basement_Shadowless_112
+  - first:
+      213: 4840386611478836516
+    second: 14_Basement_Shadowless_113
+  - first:
+      213: 763628628741949380
+    second: 14_Basement_Shadowless_114
+  - first:
+      213: -8965482781180312544
+    second: 14_Basement_Shadowless_115
+  - first:
+      213: 4585266241230844744
+    second: 14_Basement_Shadowless_116
+  - first:
+      213: -6171852387631676396
+    second: 14_Basement_Shadowless_117
+  - first:
+      213: 6026242492067224362
+    second: 14_Basement_Shadowless_118
+  - first:
+      213: -7920971880251272783
+    second: 14_Basement_Shadowless_119
+  - first:
+      213: -1994635858363569045
+    second: 14_Basement_Shadowless_120
+  - first:
+      213: -1036374653518004318
+    second: 14_Basement_Shadowless_121
+  - first:
+      213: -2169558286597725662
+    second: 14_Basement_Shadowless_122
+  - first:
+      213: 4103591876874310773
+    second: 14_Basement_Shadowless_123
+  - first:
+      213: 1802836193599522897
+    second: 14_Basement_Shadowless_124
+  - first:
+      213: 2931394792497702040
+    second: 14_Basement_Shadowless_125
+  - first:
+      213: 2075655439609442072
+    second: 14_Basement_Shadowless_126
+  - first:
+      213: -8705123567860186851
+    second: 14_Basement_Shadowless_127
+  - first:
+      213: 2520635333361262767
+    second: 14_Basement_Shadowless_128
+  - first:
+      213: -2130941676167489112
+    second: 14_Basement_Shadowless_129
+  - first:
+      213: -5641508436504191789
+    second: 14_Basement_Shadowless_130
+  - first:
+      213: -5886929583647275922
+    second: 14_Basement_Shadowless_131
+  - first:
+      213: -7412564042809949935
+    second: 14_Basement_Shadowless_132
+  - first:
+      213: 5439842083831994222
+    second: 14_Basement_Shadowless_133
+  - first:
+      213: -7644262595882625349
+    second: 14_Basement_Shadowless_134
+  - first:
+      213: 8512381085638534704
+    second: 14_Basement_Shadowless_135
+  - first:
+      213: 1765382041809877384
+    second: 14_Basement_Shadowless_136
+  - first:
+      213: -8268311075250053213
+    second: 14_Basement_Shadowless_137
+  - first:
+      213: -5465454647713112325
+    second: 14_Basement_Shadowless_138
+  - first:
+      213: 4170944819122135895
+    second: 14_Basement_Shadowless_139
+  - first:
+      213: 1338631355721490303
+    second: 14_Basement_Shadowless_140
+  - first:
+      213: -7542619197297718551
+    second: 14_Basement_Shadowless_141
+  - first:
+      213: -4016453103722188908
+    second: 14_Basement_Shadowless_142
+  - first:
+      213: -3345411869002395795
+    second: 14_Basement_Shadowless_143
+  - first:
+      213: 4538426894244725523
+    second: 14_Basement_Shadowless_144
+  - first:
+      213: -484247422059096838
+    second: 14_Basement_Shadowless_145
+  - first:
+      213: -8939965145629355871
+    second: 14_Basement_Shadowless_146
+  - first:
+      213: -5129826904526672001
+    second: 14_Basement_Shadowless_147
+  - first:
+      213: 1331079767785576475
+    second: 14_Basement_Shadowless_148
+  - first:
+      213: -8866320303339456460
+    second: 14_Basement_Shadowless_149
+  - first:
+      213: -1916443029170950137
+    second: 14_Basement_Shadowless_150
+  - first:
+      213: -7866018003365492606
+    second: 14_Basement_Shadowless_151
+  - first:
+      213: 2968807526003860194
+    second: 14_Basement_Shadowless_152
+  - first:
+      213: 1399830400167298715
+    second: 14_Basement_Shadowless_153
+  - first:
+      213: 7354738616830179120
+    second: 14_Basement_Shadowless_154
+  - first:
+      213: -8444989303140627281
+    second: 14_Basement_Shadowless_155
+  - first:
+      213: -3178275016990551626
+    second: 14_Basement_Shadowless_156
+  - first:
+      213: -5230432238258259559
+    second: 14_Basement_Shadowless_157
+  - first:
+      213: -4179667310351173180
+    second: 14_Basement_Shadowless_158
+  - first:
+      213: -2338219759680780121
+    second: 14_Basement_Shadowless_159
+  - first:
+      213: -511479877572151515
+    second: 14_Basement_Shadowless_160
+  - first:
+      213: 941137150828437272
+    second: 14_Basement_Shadowless_161
+  - first:
+      213: 3016361048034893548
+    second: 14_Basement_Shadowless_162
+  - first:
+      213: 4963325395348993941
+    second: 14_Basement_Shadowless_163
+  - first:
+      213: 2735204262383892654
+    second: 14_Basement_Shadowless_164
+  - first:
+      213: -9153687930086311560
+    second: 14_Basement_Shadowless_165
+  - first:
+      213: -1065664353585904410
+    second: 14_Basement_Shadowless_166
+  - first:
+      213: 2551428755060225933
+    second: 14_Basement_Shadowless_167
+  - first:
+      213: -4565252400047385808
+    second: 14_Basement_Shadowless_168
+  - first:
+      213: 7865087843085073108
+    second: 14_Basement_Shadowless_169
+  - first:
+      213: -6259893913393524936
+    second: 14_Basement_Shadowless_170
+  - first:
+      213: 1679973465698424979
+    second: 14_Basement_Shadowless_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 768
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1edfb9bf04375580800000000000000
+      internalID: -8838538501545796068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 735
+        width: 146
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1b7793bf6acb640800000000000000
+      internalID: 5097132476207706532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 774
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8f50b9fb249ec30800000000000000
+      internalID: 4389112702556305595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 775
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da32ae3a2feec6c0800000000000000
+      internalID: -4121093644278940970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 775
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa39074b1a1082b90800000000000000
+      internalID: -7266556204733656145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 720
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee900dabcaf1ba0800000000000000
+      internalID: -6115979850591637809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 743
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce72476ac48b3f970800000000000000
+      internalID: 8787569937279625196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 742
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3083adceb33339930800000000000000
+      internalID: 4148716014208169987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 745
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbfb075f95cd2870800000000000000
+      internalID: 8659794946654206904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 688
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec95acadbe364f60800000000000000
+      internalID: 8018165170946022634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 688
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263017efefc2cad0800000000000000
+      internalID: -2683353798678661595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 688
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4833946c6ee986130800000000000000
+      internalID: 3560270219442729860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 688
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d5d0ef2370a630800000000000000
+      internalID: 3936272723794581073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 688
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d276378296ae910800000000000000
+      internalID: 1867420617954241810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 688
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f41c5894e2cb060800000000000000
+      internalID: 6970497216574213996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 713
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819563fdfdacf0180800000000000000
+      internalID: -9146869255294789352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 672
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d519dd88e627280800000000000000
+      internalID: -9047047167322006115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 671
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320287deda9c49c40800000000000000
+      internalID: 5518257192286298147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 671
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4655f17e06b3a30800000000000000
+      internalID: 4196054023605150914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 597
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3f14133ecb6adb0800000000000000
+      internalID: -4780926270437198905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 681
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cad409116f3c50800000000000000
+      internalID: 6647138335105663777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 610
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabfd3cc03c82fd50800000000000000
+      internalID: 6769627331104209839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 624
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a40dda3a3856940800000000000000
+      internalID: 5288778076435532422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 607
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929110693492b4b90800000000000000
+      internalID: -7256661004321220311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b699b1cc0b1235f0800000000000000
+      internalID: -778530043977951561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 607
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad509ed3e89b8c60800000000000000
+      internalID: 7821513282317999522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 552
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19bb021e2a74c150800000000000000
+      internalID: 5891968550797293853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 559
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e117eb359417d930800000000000000
+      internalID: 4167822611342365152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 554
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d88c27e11ca4bc80800000000000000
+      internalID: -8307826219698845481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 559
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce23d67c29b0b870800000000000000
+      internalID: 8696654481075678912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 563
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94829093604d04230800000000000000
+      internalID: 3621127223597672521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 575
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e72916db8ae840800000000000000
+      internalID: 5254165666942411496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 559
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9416d98a4f536450800000000000000
+      internalID: 6080808695625028767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20b8f5d20156dc20800000000000000
+      internalID: 3230858855306539054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 511
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f84d4652227130800000000000000
+      internalID: 3562948009262641164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 527
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c19b6482f0333040800000000000000
+      internalID: 4626095060401492424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 531
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b08ae8d5b5296ea0800000000000000
+      internalID: -5879126375596916557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 543
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f80308b4a5299a0800000000000000
+      internalID: -6227816054380261579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 511
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad51d45a46c1240800000000000000
+      internalID: 4763793166976801291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 527
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e90d52f745a1a0800000000000000
+      internalID: -6798948956177308308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 495
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3139bf5e15f8d61f0800000000000000
+      internalID: -1050025556193864941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 499
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ee522e006296c0800000000000000
+      internalID: -4138139493777611393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 511
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4bbfc4b2f059ac0800000000000000
+      internalID: -3849153627868646239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 483
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87387dc785d8fbd20800000000000000
+      internalID: 3296508863449629560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 415
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58ead557dc4dd30800000000000000
+      internalID: 4455411835342849466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 495
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871dbc38731268a0800000000000000
+      internalID: -6313462320483985536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5c0b93224478b00800000000000000
+      internalID: 830707570060608967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051b268f6df55fa90800000000000000
+      internalID: -7280807845679681200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 464
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1866dea9896637370800000000000000
+      internalID: 8319105742303749761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fd95852acdab660800000000000000
+      internalID: 7402471527361929108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 468
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f2617cc8a91fa30800000000000000
+      internalID: 4247345853013307158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 467
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc477f074f186f80800000000000000
+      internalID: -8113200338645332793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 479
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fdf12a5eb495410800000000000000
+      internalID: 1466286603325398829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 467
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c91311903219070800000000000000
+      internalID: 8111302925721115785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 479
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1356ce0fb57a460800000000000000
+      internalID: 7252866815219806699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 467
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da0a99e13517d10800000000000000
+      internalID: 2121568290359782720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 479
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c06b136abe1a12c0800000000000000
+      internalID: -4460218695081566011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 420
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9423574f0b482c5f0800000000000000
+      internalID: -737881493384908215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 431
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b99ad814af691200800000000000000
+      internalID: 151274813075921330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d6495fe516ae70800000000000000
+      internalID: 9126005812652069717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 431
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b354e684321bdc70800000000000000
+      internalID: 8996804697413407669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 463
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d845b00a92db6370800000000000000
+      internalID: 8316972695748430032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 399
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ee8995b77f6510800000000000000
+      internalID: 1544584819060435268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 463
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db46ff2f2f666cc30800000000000000
+      internalID: 4379300881309328573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 431
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51673221eb8833180800000000000000
+      internalID: -9136808869075126763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 399
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6900987a001f40d20800000000000000
+      internalID: 3243982616726667414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03c6233fe3987b10800000000000000
+      internalID: 1979494691793978123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 385
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580d010e14d9fb10800000000000000
+      internalID: 2015875533556746325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 413
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27377eec38333f20800000000000000
+      internalID: 3401123977944839980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 412
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8398e1aaf97dd9160800000000000000
+      internalID: 7034015273776482616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 409
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438931a6a7779a0a0800000000000000
+      internalID: -6869828388927596492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 399
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c5a31778ade1b0800000000000000
+      internalID: -5625655130131675757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 399
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e857ab9b00fbe80800000000000000
+      internalID: -8160803202074833398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd95baf498400c0e0800000000000000
+      internalID: -2251794825891587621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad66b2cb9c8a08bc0800000000000000
+      internalID: -3782838102592362790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 369
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd07b8d96794e7700800000000000000
+      internalID: 539949779129168093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 353
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9eb742529f4fa0800000000000000
+      internalID: -5814267711823373552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 374
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0b87af95ac8f30800000000000000
+      internalID: 4579217026258242481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 373
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aeff6e905bef860800000000000000
+      internalID: 7565683478163876366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 373
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed630227d26c7740800000000000000
+      internalID: 5151100749933145569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86481190d9edbac0800000000000000
+      internalID: -3837654225453037941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 373
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d86a30bc850cfa30800000000000000
+      internalID: 4250278250141083862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 373
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a528d03a8c8890800000000000000
+      internalID: -7454431340815605016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 321
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bb7e5085ceb9200800000000000000
+      internalID: 188003672266357532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 305
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d095dbe39cb1680800000000000000
+      internalID: -8783205376954135277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 342
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a07e3b51b1ff2fe0800000000000000
+      internalID: -1211484030697049944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 341
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a533d69f41a50390800000000000000
+      internalID: -7852693012045679200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 341
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35f608d9312a110800000000000000
+      internalID: 1270599612057474026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 341
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a2b70ebd34504c0800000000000000
+      internalID: -4321973655749055977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 341
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb81aeab15e58d90800000000000000
+      internalID: -7096013730795648070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 341
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f98f3980b3b7aa0800000000000000
+      internalID: -6162266757098070158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 310
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25107c35a70288210800000000000000
+      internalID: 1335352999279001938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 308
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b101b94b6cfb1ae0800000000000000
+      internalID: -1577389706735189580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 308
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f97aade328fbb60800000000000000
+      internalID: 7764067489078026045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 308
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267e8aeb31515fa0800000000000000
+      internalID: -5813776326178474459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9f341ffffc9f40800000000000000
+      internalID: 5736741496384625570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 280
+        width: 82
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4810d1565087b590800000000000000
+      internalID: -7658511533092104116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 278
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7251549e87a1750800000000000000
+      internalID: 6276461973975934938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 285
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d8c48e0e7a98910800000000000000
+      internalID: 1840186507169402177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 276
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f250e51da9ed535f0800000000000000
+      internalID: -777470604132612817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 276
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde3bcf4a860324d0800000000000000
+      internalID: -3160675322369982753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 287
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4298efda491ec6140800000000000000
+      internalID: 4714390938640615716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 261
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc66478ad91d6b0800000000000000
+      internalID: -5273260341841179349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 241
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd8e8c7fa144800800000000000000
+      internalID: 595630702249696293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 241
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3985c9f0700c3f810800000000000000
+      internalID: 1797991812810168467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 245
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e919ece39d8fcd8f0800000000000000
+      internalID: -514262645481762402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 245
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a1437faf3324620800000000000000
+      internalID: 2756823074886392457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 243
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0318e5db4cc8070800000000000000
+      internalID: 8110073346600808616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 243
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e7318dec24dce0800000000000000
+      internalID: -1381429787109105105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 255
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89602a6cdceb2fd0800000000000000
+      internalID: -2365536747835594356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 264
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc22427b2342b60800000000000000
+      internalID: 7720351423386537824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 264
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f7e131efab5520800000000000000
+      internalID: 2691938584023790003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 264
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7e2b72adc4da20800000000000000
+      internalID: 3086317742390672070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 264
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b0c84af18c2340800000000000000
+      internalID: 4840386611478836516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 245
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c78b742134f89a00800000000000000
+      internalID: 763628628741949380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 223
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024cdd369e4349380800000000000000
+      internalID: -8965482781180312544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 223
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843b7254a5322af30800000000000000
+      internalID: 4585266241230844744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 223
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414411d04fc295aa0800000000000000
+      internalID: -6171852387631676396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b180e3e9381a350800000000000000
+      internalID: 6026242492067224362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 209
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1d3c1ca0e031290800000000000000
+      internalID: -7920971880251272783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 209
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cabfd3141a154e0800000000000000
+      internalID: -1994635858363569045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 213
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af37da5ebe0e91f0800000000000000
+      internalID: -1036374653518004318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 213
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22266dfab3e24e1e0800000000000000
+      internalID: -2169558286597725662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 211
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574954cf113e2f830800000000000000
+      internalID: 4103591876874310773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 207
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15887bb57f5f40910800000000000000
+      internalID: 1802836193599522897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 207
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894614758086ea820800000000000000
+      internalID: 2931394792497702040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 213
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f270200a53ecc10800000000000000
+      internalID: 2075655439609442072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 184
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1100db9c30313780800000000000000
+      internalID: -8705123567860186851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0eb451b781bf220800000000000000
+      internalID: 2520635333361262767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_129
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 177
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a916f2f5df5d62e0800000000000000
+      internalID: -2130941676167489112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_130
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5ccc87f555b1b0800000000000000
+      internalID: -5641508436504191789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6447f4ebbc6d4ea0800000000000000
+      internalID: -5886929583647275922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_132
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 186
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ca79c648412990800000000000000
+      internalID: -7412564042809949935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_133
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 154
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67d601cd833e7b40800000000000000
+      internalID: 5439842083831994222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_134
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb65c9a8baf1ae590800000000000000
+      internalID: -7644262595882625349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 139
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0362d323f7d022670800000000000000
+      internalID: 8512381085638534704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_136
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8897ee61d95ef7810800000000000000
+      internalID: 1765382041809877384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_137
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afda4b62ee014d80800000000000000
+      internalID: -8268311075250053213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe5d0384fdc624b0800000000000000
+      internalID: -5465454647713112325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 154
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e781e63c22e930800000000000000
+      internalID: 4170944819122135895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_140
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 154
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9afa2026c39210800000000000000
+      internalID: 1338631355721490303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_141
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 149
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea07057dcb335790800000000000000
+      internalID: -7542619197297718551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49faf97ae21b248c0800000000000000
+      internalID: -4016453103722188908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f8cb041a5b291d0800000000000000
+      internalID: -3345411869002395795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3134986f63bbbfe30800000000000000
+      internalID: 4538426894244725523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_145
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 112
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d4c8098b9749f0800000000000000
+      internalID: -484247422059096838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_146
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 112
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a09366e01ddee380800000000000000
+      internalID: -8939965145629355871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_147
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 104
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f227cfb913fc8b0800000000000000
+      internalID: -5129826904526672001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_148
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 104
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1891961ff1f87210800000000000000
+      internalID: 1331079767785576475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383e9ee8a084f480800000000000000
+      internalID: -8866320303339456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 91
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700fdfdf73d6765e0800000000000000
+      internalID: -1916443029170950137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_151
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 91
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28882984d4a46d290800000000000000
+      internalID: -7866018003365492606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e267f927b2533920800000000000000
+      internalID: 2968807526003860194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96c3c315523d6310800000000000000
+      internalID: 1399830400167298715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037b2001ec7411660800000000000000
+      internalID: 7354738616830179120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac4456e8fe5dca80800000000000000
+      internalID: -8444989303140627281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_156
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 67
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b197c516bf74e3d0800000000000000
+      internalID: -3178275016990551626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 59
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9997dd06795c967b0800000000000000
+      internalID: -5230432238258259559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_158
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 59
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b43fd9b6def5c0800000000000000
+      internalID: -4179667310351173180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_159
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a88d695489fc8fd0800000000000000
+      internalID: -2338219759680780121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 57
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5273d83e2cbd6e8f0800000000000000
+      internalID: -511479877572151515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f5d0890479f0d00800000000000000
+      internalID: 941137150828437272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_162
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 29
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceed17e44644cd920800000000000000
+      internalID: 3016361048034893548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_163
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597b376762641e440800000000000000
+      internalID: 4963325395348993941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_164
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 33
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b68fe8c565f520800000000000000
+      internalID: 2735204262383892654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_165
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879bc6e635197f080800000000000000
+      internalID: -9153687930086311560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e447b2aaeff531f0800000000000000
+      internalID: -1065664353585904410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_167
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 33
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87f4174fee786320800000000000000
+      internalID: 2551428755060225933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_168
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331d214127f4a0c0800000000000000
+      internalID: -4565252400047385808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_169
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da3456e8b7662d60800000000000000
+      internalID: 7865087843085073108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_170
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 29
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f8c80f6a36029a0800000000000000
+      internalID: -6259893913393524936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Basement_Shadowless_171
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398590757f6705710800000000000000
+      internalID: 1679973465698424979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

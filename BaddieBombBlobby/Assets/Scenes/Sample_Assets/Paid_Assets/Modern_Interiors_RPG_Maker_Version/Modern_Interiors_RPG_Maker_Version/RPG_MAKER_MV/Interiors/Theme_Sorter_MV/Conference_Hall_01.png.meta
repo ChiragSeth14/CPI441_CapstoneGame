@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: cbc8a1ceff91bb749b25289912e3074b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2319513717059565104
+    second: Conference_Hall_01_0
+  - first:
+      213: 4027121976318213442
+    second: Conference_Hall_01_1
+  - first:
+      213: -6497854830547806392
+    second: Conference_Hall_01_2
+  - first:
+      213: -1899693379381018564
+    second: Conference_Hall_01_3
+  - first:
+      213: 3548447351166576074
+    second: Conference_Hall_01_4
+  - first:
+      213: 176072583311240630
+    second: Conference_Hall_01_5
+  - first:
+      213: -8780134676410177120
+    second: Conference_Hall_01_6
+  - first:
+      213: 6360910279400342567
+    second: Conference_Hall_01_7
+  - first:
+      213: 7891044831486652953
+    second: Conference_Hall_01_8
+  - first:
+      213: -161915027661860720
+    second: Conference_Hall_01_9
+  - first:
+      213: 7606974621163774840
+    second: Conference_Hall_01_10
+  - first:
+      213: -5289248837382134192
+    second: Conference_Hall_01_11
+  - first:
+      213: -5414893906435182267
+    second: Conference_Hall_01_12
+  - first:
+      213: 7064812592072883912
+    second: Conference_Hall_01_13
+  - first:
+      213: -3703140202455082526
+    second: Conference_Hall_01_14
+  - first:
+      213: -2641959690794601669
+    second: Conference_Hall_01_15
+  - first:
+      213: 3472072028274784448
+    second: Conference_Hall_01_16
+  - first:
+      213: -3089815177455315022
+    second: Conference_Hall_01_17
+  - first:
+      213: 8371060922066734199
+    second: Conference_Hall_01_18
+  - first:
+      213: 7763871427983245176
+    second: Conference_Hall_01_19
+  - first:
+      213: 3585027281311560543
+    second: Conference_Hall_01_20
+  - first:
+      213: -437282500532101386
+    second: Conference_Hall_01_21
+  - first:
+      213: -5855831213750906723
+    second: Conference_Hall_01_22
+  - first:
+      213: -7227840247352214408
+    second: Conference_Hall_01_23
+  - first:
+      213: 3833595636326607054
+    second: Conference_Hall_01_24
+  - first:
+      213: -1651514057947754040
+    second: Conference_Hall_01_25
+  - first:
+      213: -9185110488228495274
+    second: Conference_Hall_01_26
+  - first:
+      213: 4324280261365985243
+    second: Conference_Hall_01_27
+  - first:
+      213: 3344192714914681160
+    second: Conference_Hall_01_28
+  - first:
+      213: 8047865963941055693
+    second: Conference_Hall_01_29
+  - first:
+      213: -2761052313887226155
+    second: Conference_Hall_01_30
+  - first:
+      213: 5994184802805609633
+    second: Conference_Hall_01_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conference_Hall_01_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9c40b409e6fcfd0800000000000000
+      internalID: -2319513717059565104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 719
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dbd91d91633e730800000000000000
+      internalID: 4027121976318213442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 719
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847542f657bf2d5a0800000000000000
+      internalID: -6497854830547806392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 719
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3045dbbfeee2a5e0800000000000000
+      internalID: -1899693379381018564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 719
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5a57eb01e9e3130800000000000000
+      internalID: 3548447351166576074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 710
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda3f6e419817200800000000000000
+      internalID: 176072583311240630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 626
+        width: 59
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a96b7ce702b62680800000000000000
+      internalID: -8780134676410177120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 626
+        width: 59
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724c9c3923e764850800000000000000
+      internalID: 6360910279400342567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 182
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912b177377f928d60800000000000000
+      internalID: 7891044831486652953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 605
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090da64e323c0cdf0800000000000000
+      internalID: -161915027661860720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 653
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e0ed4d17619960800000000000000
+      internalID: 7606974621163774840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 602
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a03fb430d896b0800000000000000
+      internalID: -5289248837382134192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 602
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541f0827eae6ad4b0800000000000000
+      internalID: -5414893906435182267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 479
+        width: 209
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef53b1f914b0260800000000000000
+      internalID: 7064812592072883912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 488
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9523f1b9dcb9cc0800000000000000
+      internalID: -3703140202455082526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 479
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33794fa8afd55bd0800000000000000
+      internalID: -2641959690794601669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 488
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c873e72d174f2030800000000000000
+      internalID: 3472072028274784448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 230
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b75a267775ce15d0800000000000000
+      internalID: -3089815177455315022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 431
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c01fc8e8bfb2470800000000000000
+      internalID: 8371060922066734199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ffeb2ddefcebb60800000000000000
+      internalID: 7763871427983245176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 383
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53f8ac615390c130800000000000000
+      internalID: 3585027281311560543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 383
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1a41f1e57ee9f0800000000000000
+      internalID: -437282500532101386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 272
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d909bbf5988ebbea0800000000000000
+      internalID: -5855831213750906723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 272
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cbc4bf69d81bb90800000000000000
+      internalID: -7227840247352214408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 289
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec82cb38beaa33530800000000000000
+      internalID: 3833595636326607054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 137
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d572e6b4a419e0800000000000000
+      internalID: -1651514057947754040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 122
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6500d6efcaee78080800000000000000
+      internalID: -9185110488228495274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 164
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe3f79cfde20c30800000000000000
+      internalID: 4324280261365985243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 59
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84150f05e85f86e20800000000000000
+      internalID: 3344192714914681160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc9ac6473cfaf60800000000000000
+      internalID: 8047865963941055693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64b789c85cea9d0800000000000000
+      internalID: -2761052313887226155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_Hall_01_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 11
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4f541d15f9f2350800000000000000
+      internalID: 5994184802805609633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

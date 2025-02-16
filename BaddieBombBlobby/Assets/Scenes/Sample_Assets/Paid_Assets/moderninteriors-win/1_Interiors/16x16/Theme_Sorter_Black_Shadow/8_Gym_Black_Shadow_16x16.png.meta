@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: ea30210f17fdb894ca5dd84cd91847c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8419948866846654183
+    second: 8_Gym_Black_Shadow_16x16_0
+  - first:
+      213: -8593795903964964957
+    second: 8_Gym_Black_Shadow_16x16_1
+  - first:
+      213: -3604951379799619564
+    second: 8_Gym_Black_Shadow_16x16_2
+  - first:
+      213: -17990488193389059
+    second: 8_Gym_Black_Shadow_16x16_3
+  - first:
+      213: -2010382076343901744
+    second: 8_Gym_Black_Shadow_16x16_4
+  - first:
+      213: -1946612367708744042
+    second: 8_Gym_Black_Shadow_16x16_5
+  - first:
+      213: -3732437328857691094
+    second: 8_Gym_Black_Shadow_16x16_6
+  - first:
+      213: -1767461293452638241
+    second: 8_Gym_Black_Shadow_16x16_7
+  - first:
+      213: 3767410558490747122
+    second: 8_Gym_Black_Shadow_16x16_8
+  - first:
+      213: -4077076661497319440
+    second: 8_Gym_Black_Shadow_16x16_9
+  - first:
+      213: -4290167894502455002
+    second: 8_Gym_Black_Shadow_16x16_10
+  - first:
+      213: -3190673042532227527
+    second: 8_Gym_Black_Shadow_16x16_11
+  - first:
+      213: 7718444223663576588
+    second: 8_Gym_Black_Shadow_16x16_12
+  - first:
+      213: 1797913252913087338
+    second: 8_Gym_Black_Shadow_16x16_13
+  - first:
+      213: 2102398615585120449
+    second: 8_Gym_Black_Shadow_16x16_14
+  - first:
+      213: -6288517023851695864
+    second: 8_Gym_Black_Shadow_16x16_15
+  - first:
+      213: 705378917421246965
+    second: 8_Gym_Black_Shadow_16x16_16
+  - first:
+      213: -3341668953561973198
+    second: 8_Gym_Black_Shadow_16x16_17
+  - first:
+      213: 2108649502102762638
+    second: 8_Gym_Black_Shadow_16x16_18
+  - first:
+      213: 7386675111387284218
+    second: 8_Gym_Black_Shadow_16x16_19
+  - first:
+      213: -2709936890954603323
+    second: 8_Gym_Black_Shadow_16x16_20
+  - first:
+      213: -833608812575394952
+    second: 8_Gym_Black_Shadow_16x16_21
+  - first:
+      213: -1810164040494156704
+    second: 8_Gym_Black_Shadow_16x16_22
+  - first:
+      213: 2323740059343468594
+    second: 8_Gym_Black_Shadow_16x16_23
+  - first:
+      213: -8837697485962477650
+    second: 8_Gym_Black_Shadow_16x16_24
+  - first:
+      213: -3724876485806608536
+    second: 8_Gym_Black_Shadow_16x16_25
+  - first:
+      213: -7051101963329860043
+    second: 8_Gym_Black_Shadow_16x16_26
+  - first:
+      213: -6205543016032892018
+    second: 8_Gym_Black_Shadow_16x16_27
+  - first:
+      213: 6663328277929813938
+    second: 8_Gym_Black_Shadow_16x16_28
+  - first:
+      213: -393531628917850394
+    second: 8_Gym_Black_Shadow_16x16_29
+  - first:
+      213: -1643548116801446754
+    second: 8_Gym_Black_Shadow_16x16_30
+  - first:
+      213: 4106640781552385697
+    second: 8_Gym_Black_Shadow_16x16_31
+  - first:
+      213: -1162668675815730747
+    second: 8_Gym_Black_Shadow_16x16_32
+  - first:
+      213: 3172431136595696938
+    second: 8_Gym_Black_Shadow_16x16_33
+  - first:
+      213: 6362193655201808420
+    second: 8_Gym_Black_Shadow_16x16_34
+  - first:
+      213: 7710378948481973539
+    second: 8_Gym_Black_Shadow_16x16_35
+  - first:
+      213: -5608104523498456539
+    second: 8_Gym_Black_Shadow_16x16_36
+  - first:
+      213: 3262301021291950010
+    second: 8_Gym_Black_Shadow_16x16_37
+  - first:
+      213: 4199488285300502726
+    second: 8_Gym_Black_Shadow_16x16_38
+  - first:
+      213: 5471248731413157846
+    second: 8_Gym_Black_Shadow_16x16_39
+  - first:
+      213: 4782203292263929451
+    second: 8_Gym_Black_Shadow_16x16_40
+  - first:
+      213: -2782096750857695248
+    second: 8_Gym_Black_Shadow_16x16_41
+  - first:
+      213: -8165778058174520
+    second: 8_Gym_Black_Shadow_16x16_42
+  - first:
+      213: -8870205881951435427
+    second: 8_Gym_Black_Shadow_16x16_43
+  - first:
+      213: 1271488097200835207
+    second: 8_Gym_Black_Shadow_16x16_44
+  - first:
+      213: 2815266029256577529
+    second: 8_Gym_Black_Shadow_16x16_45
+  - first:
+      213: -2628405289774481076
+    second: 8_Gym_Black_Shadow_16x16_46
+  - first:
+      213: 7524792710802924173
+    second: 8_Gym_Black_Shadow_16x16_47
+  - first:
+      213: 5181360400617397875
+    second: 8_Gym_Black_Shadow_16x16_48
+  - first:
+      213: -2013899089378772223
+    second: 8_Gym_Black_Shadow_16x16_49
+  - first:
+      213: 5038979114421250933
+    second: 8_Gym_Black_Shadow_16x16_50
+  - first:
+      213: 8642165272481831265
+    second: 8_Gym_Black_Shadow_16x16_51
+  - first:
+      213: -1308487174947578675
+    second: 8_Gym_Black_Shadow_16x16_52
+  - first:
+      213: 5149422623975605269
+    second: 8_Gym_Black_Shadow_16x16_53
+  - first:
+      213: 5060468418545805486
+    second: 8_Gym_Black_Shadow_16x16_54
+  - first:
+      213: -3180476448654217620
+    second: 8_Gym_Black_Shadow_16x16_55
+  - first:
+      213: -4143121386513345071
+    second: 8_Gym_Black_Shadow_16x16_56
+  - first:
+      213: 3808401356096039070
+    second: 8_Gym_Black_Shadow_16x16_57
+  - first:
+      213: 160918838606482912
+    second: 8_Gym_Black_Shadow_16x16_58
+  - first:
+      213: 153139673347884274
+    second: 8_Gym_Black_Shadow_16x16_59
+  - first:
+      213: -3053513036296707382
+    second: 8_Gym_Black_Shadow_16x16_60
+  - first:
+      213: -1869575779312721803
+    second: 8_Gym_Black_Shadow_16x16_61
+  - first:
+      213: -8722998232006108370
+    second: 8_Gym_Black_Shadow_16x16_62
+  - first:
+      213: 2736128868522885971
+    second: 8_Gym_Black_Shadow_16x16_63
+  - first:
+      213: -7680731622125294426
+    second: 8_Gym_Black_Shadow_16x16_64
+  - first:
+      213: 6776542517544844647
+    second: 8_Gym_Black_Shadow_16x16_65
+  - first:
+      213: 9176650022828079323
+    second: 8_Gym_Black_Shadow_16x16_66
+  - first:
+      213: 313670872578370328
+    second: 8_Gym_Black_Shadow_16x16_67
+  - first:
+      213: -5123339889715933677
+    second: 8_Gym_Black_Shadow_16x16_68
+  - first:
+      213: 6532265239909106954
+    second: 8_Gym_Black_Shadow_16x16_69
+  - first:
+      213: 7416633898290401399
+    second: 8_Gym_Black_Shadow_16x16_70
+  - first:
+      213: 3471488302591373829
+    second: 8_Gym_Black_Shadow_16x16_71
+  - first:
+      213: -1084491695265263638
+    second: 8_Gym_Black_Shadow_16x16_72
+  - first:
+      213: 5049482270156267024
+    second: 8_Gym_Black_Shadow_16x16_73
+  - first:
+      213: -3597355428529752736
+    second: 8_Gym_Black_Shadow_16x16_74
+  - first:
+      213: 180765335743639884
+    second: 8_Gym_Black_Shadow_16x16_75
+  - first:
+      213: -4083401834764999114
+    second: 8_Gym_Black_Shadow_16x16_76
+  - first:
+      213: -5246969899702790936
+    second: 8_Gym_Black_Shadow_16x16_77
+  - first:
+      213: 4197480198016066010
+    second: 8_Gym_Black_Shadow_16x16_78
+  - first:
+      213: 1530398938836833192
+    second: 8_Gym_Black_Shadow_16x16_79
+  - first:
+      213: -1547063632176286147
+    second: 8_Gym_Black_Shadow_16x16_80
+  - first:
+      213: 1541623641139535771
+    second: 8_Gym_Black_Shadow_16x16_81
+  - first:
+      213: -6136335988929687334
+    second: 8_Gym_Black_Shadow_16x16_82
+  - first:
+      213: 2928020969399680586
+    second: 8_Gym_Black_Shadow_16x16_83
+  - first:
+      213: 5478849437426330089
+    second: 8_Gym_Black_Shadow_16x16_84
+  - first:
+      213: -4156858531459938238
+    second: 8_Gym_Black_Shadow_16x16_85
+  - first:
+      213: 2393765547392782767
+    second: 8_Gym_Black_Shadow_16x16_86
+  - first:
+      213: -2843744108802033379
+    second: 8_Gym_Black_Shadow_16x16_87
+  - first:
+      213: 7865873233352303192
+    second: 8_Gym_Black_Shadow_16x16_88
+  - first:
+      213: 5043523701631811896
+    second: 8_Gym_Black_Shadow_16x16_89
+  - first:
+      213: 5890154279169021400
+    second: 8_Gym_Black_Shadow_16x16_90
+  - first:
+      213: -5408070364511341703
+    second: 8_Gym_Black_Shadow_16x16_91
+  - first:
+      213: 2636994502060587492
+    second: 8_Gym_Black_Shadow_16x16_92
+  - first:
+      213: 773276188799959837
+    second: 8_Gym_Black_Shadow_16x16_93
+  - first:
+      213: 5626265375192311491
+    second: 8_Gym_Black_Shadow_16x16_94
+  - first:
+      213: -3784619042022243342
+    second: 8_Gym_Black_Shadow_16x16_95
+  - first:
+      213: -2003332368098753539
+    second: 8_Gym_Black_Shadow_16x16_96
+  - first:
+      213: 8539518480554526212
+    second: 8_Gym_Black_Shadow_16x16_97
+  - first:
+      213: 8991172681544515033
+    second: 8_Gym_Black_Shadow_16x16_98
+  - first:
+      213: -6234840982391943235
+    second: 8_Gym_Black_Shadow_16x16_99
+  - first:
+      213: -370482367896065308
+    second: 8_Gym_Black_Shadow_16x16_100
+  - first:
+      213: -7005668528363976042
+    second: 8_Gym_Black_Shadow_16x16_101
+  - first:
+      213: -8135294269099617968
+    second: 8_Gym_Black_Shadow_16x16_102
+  - first:
+      213: 9173190094575562667
+    second: 8_Gym_Black_Shadow_16x16_103
+  - first:
+      213: -7403135298767933550
+    second: 8_Gym_Black_Shadow_16x16_104
+  - first:
+      213: -1497487563015223795
+    second: 8_Gym_Black_Shadow_16x16_105
+  - first:
+      213: 4929828425016396209
+    second: 8_Gym_Black_Shadow_16x16_106
+  - first:
+      213: 4118170224458490967
+    second: 8_Gym_Black_Shadow_16x16_107
+  - first:
+      213: -1975529058919612914
+    second: 8_Gym_Black_Shadow_16x16_108
+  - first:
+      213: -5532081261525731707
+    second: 8_Gym_Black_Shadow_16x16_109
+  - first:
+      213: 3213199404330828928
+    second: 8_Gym_Black_Shadow_16x16_110
+  - first:
+      213: -3887759238271660222
+    second: 8_Gym_Black_Shadow_16x16_111
+  - first:
+      213: -1750649376828702039
+    second: 8_Gym_Black_Shadow_16x16_112
+  - first:
+      213: -5926617734556517319
+    second: 8_Gym_Black_Shadow_16x16_113
+  - first:
+      213: 5333646339791225605
+    second: 8_Gym_Black_Shadow_16x16_114
+  - first:
+      213: -3516855613311976804
+    second: 8_Gym_Black_Shadow_16x16_115
+  - first:
+      213: 7758742281573975029
+    second: 8_Gym_Black_Shadow_16x16_116
+  - first:
+      213: 936241016982983364
+    second: 8_Gym_Black_Shadow_16x16_117
+  - first:
+      213: 1810046440661353363
+    second: 8_Gym_Black_Shadow_16x16_118
+  - first:
+      213: -2604232076005198006
+    second: 8_Gym_Black_Shadow_16x16_119
+  - first:
+      213: -1181236121213451579
+    second: 8_Gym_Black_Shadow_16x16_120
+  - first:
+      213: 7729592664804640936
+    second: 8_Gym_Black_Shadow_16x16_121
+  - first:
+      213: -1250487348318562438
+    second: 8_Gym_Black_Shadow_16x16_122
+  - first:
+      213: -4749979744321273364
+    second: 8_Gym_Black_Shadow_16x16_123
+  - first:
+      213: -8496922173637534165
+    second: 8_Gym_Black_Shadow_16x16_124
+  - first:
+      213: 5988309719925302065
+    second: 8_Gym_Black_Shadow_16x16_125
+  - first:
+      213: 6780886939183881762
+    second: 8_Gym_Black_Shadow_16x16_126
+  - first:
+      213: -1484378020512477422
+    second: 8_Gym_Black_Shadow_16x16_127
+  - first:
+      213: 1246690264672871940
+    second: 8_Gym_Black_Shadow_16x16_128
+  - first:
+      213: -8730684039235167855
+    second: 8_Gym_Black_Shadow_16x16_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 485
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91107accd15562b80800000000000000
+      internalID: -8419948866846654183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 502
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a716ff3824bcb880800000000000000
+      internalID: -8593795903964964957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4184d76e1d3a8fdc0800000000000000
+      internalID: -3604951379799619564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 503
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda5ed0fb510cff0800000000000000
+      internalID: -17990488193389059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a5bc2720b914e0800000000000000
+      internalID: -2010382076343901744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 469
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696965b7d5e3cf4e0800000000000000
+      internalID: -1946612367708744042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 470
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c87035608b33cc0800000000000000
+      internalID: -3732437328857691094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 489
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7c0896157b877e0800000000000000
+      internalID: -1767461293452638241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 469
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0a5ed31f7884430800000000000000
+      internalID: 3767410558490747122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 469
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffaa6da0605b67c0800000000000000
+      internalID: -4077076661497319440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 483
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629456db7034674c0800000000000000
+      internalID: -4290167894502455002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 437
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936a371d5c378b3d0800000000000000
+      internalID: -3190673042532227527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06122a902c6d1b60800000000000000
+      internalID: 7718444223663576588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 436
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a630ad8e39873f810800000000000000
+      internalID: 1797913252913087338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 455
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c06932e6683d2d10800000000000000
+      internalID: 2102398615585120449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801b255b513bab8a0800000000000000
+      internalID: -6288517023851695864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 421
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f961fc53620ac900800000000000000
+      internalID: 705378917421246965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 438
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ebcf9aac100a1d0800000000000000
+      internalID: -3341668953561973198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 442
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84b3a0dc8d634d10800000000000000
+      internalID: 2108649502102762638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 435
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24575a0edb28660800000000000000
+      internalID: 7386675111387284218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 389
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4acea61ce546ad0800000000000000
+      internalID: -2709936890954603323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 408
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873fecc933d6e64f0800000000000000
+      internalID: -833608812575394952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 416
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f825556101e6e0800000000000000
+      internalID: -1810164040494156704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 405
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383383b5459f3020800000000000000
+      internalID: 2323740059343468594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 405
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff7dce5f03a5580800000000000000
+      internalID: -8837697485962477650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 417
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86faa4742949e4cc0800000000000000
+      internalID: -3724876485806608536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 401
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0aa86f14752e90800000000000000
+      internalID: -7051101963329860043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 404
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b04fa518b71e9a0800000000000000
+      internalID: -6205543016032892018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 417
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b762d3d3c5e87c50800000000000000
+      internalID: 6663328277929813938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 373
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee787a8115e98af0800000000000000
+      internalID: -393531628917850394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 373
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c99c612b1f039e0800000000000000
+      internalID: -1643548116801446754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 393
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeff8c6808bdf830800000000000000
+      internalID: 4106640781552385697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 401
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1978adffe5ddfe0800000000000000
+      internalID: -1162668675815730747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 337
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ddc2b7f4db60c20800000000000000
+      internalID: 3172431136595696938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 376
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4204c8acb6d0b4850800000000000000
+      internalID: 6362193655201808420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 368
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dfae36dc4c00b60800000000000000
+      internalID: 7710378948481973539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 350
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52afc9d16a20c22b0800000000000000
+      internalID: -5608104523498456539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 352
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf20849e75064d20800000000000000
+      internalID: 3262301021291950010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c030cb7854974a30800000000000000
+      internalID: 4199488285300502726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 344
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d710b9bbb7cdeb40800000000000000
+      internalID: 5471248731413157846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 346
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66581f9e8ccd5240800000000000000
+      internalID: 4782203292263929451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 305
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffcb5aceb10469d0800000000000000
+      internalID: -2782096750857695248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 309
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf1783a44df2eff0800000000000000
+      internalID: -8165778058174520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 310
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5544b92fb2b6e480800000000000000
+      internalID: -8870205881951435427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 284
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0bc110bb35a110800000000000000
+      internalID: 1271488097200835207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 319
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11016a985d11720800000000000000
+      internalID: 2815266029256577529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410c399057068bd0800000000000000
+      internalID: -2628405289774481076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d826bd73a1f6d6860800000000000000
+      internalID: 7524792710802924173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 282
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e531415d3e7e740800000000000000
+      internalID: 5181360400617397875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 276
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b7814c2713d04e0800000000000000
+      internalID: -2013899089378772223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 277
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be0b19ecc0ee540800000000000000
+      internalID: 5038979114421250933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 278
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1691f74f6832fe770800000000000000
+      internalID: 8642165272481831265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 278
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5818d8d157dde0800000000000000
+      internalID: -1308487174947578675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 255
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5140d6cf79c667740800000000000000
+      internalID: 5149422623975605269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 245
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8618417356a3640800000000000000
+      internalID: 5060468418545805486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 246
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e2875558dacd3d0800000000000000
+      internalID: -3180476448654217620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d55c87dc0da086c0800000000000000
+      internalID: -4143121386513345071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9868380bd82ad430800000000000000
+      internalID: 3808401356096039070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edcec4c4d2bb3200800000000000000
+      internalID: 160918838606482912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f48be6b8bf002200800000000000000
+      internalID: 153139673347884274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 200
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a28a521ebf95d0800000000000000
+      internalID: -3053513036296707382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 200
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702461fbbeed06e0800000000000000
+      internalID: -1869575779312721803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 195
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5aec035fa1f680800000000000000
+      internalID: -8722998232006108370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3538ff395bea8f520800000000000000
+      internalID: 2736128868522885971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acac10b84f886590800000000000000
+      internalID: -7680731622125294426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d779b148d1b0e50800000000000000
+      internalID: 6776542517544844647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd87fb663920a5f70800000000000000
+      internalID: 9176650022828079323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 183
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bab682ff16a5400800000000000000
+      internalID: 313670872578370328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 182
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e84e1d38d36e8b0800000000000000
+      internalID: -5123339889715933677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 183
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050a6350a447aa50800000000000000
+      internalID: 6532265239909106954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 182
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77058b84c3d2de660800000000000000
+      internalID: 7416633898290401399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f1ede7343d2030800000000000000
+      internalID: 3471488302591373829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 178
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef4add8c8c13f0f0800000000000000
+      internalID: -1084491695265263638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 178
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e1c441f5d531640800000000000000
+      internalID: 5049482270156267024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06539af1c40a31ec0800000000000000
+      internalID: -3597355428529752736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 166
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4134b87d15328200800000000000000
+      internalID: 180765335743639884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 161
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63667a38aa7d457c0800000000000000
+      internalID: -4083401834764999114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e45c050da40f27b0800000000000000
+      internalID: -5246969899702790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 162
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1eb7a3002704a30800000000000000
+      internalID: 4197480198016066010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 134
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3110af9b11d3510800000000000000
+      internalID: 1530398938836833192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36f43fb2d9b78ae0800000000000000
+      internalID: -1547063632176286147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f5773a882f46510800000000000000
+      internalID: 1541623641139535771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad096650eea57daa0800000000000000
+      internalID: -6136335988929687334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e76ffee8b62a820800000000000000
+      internalID: 2928020969399680586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e925aff888c80c40800000000000000
+      internalID: 5478849437426330089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24847ca803fdf46c0800000000000000
+      internalID: -4156858531459938238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa15ae7251d583120800000000000000
+      internalID: 2393765547392782767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 146
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19beb2cccdf888d0800000000000000
+      internalID: -2843744108802033379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 146
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a732d702392d60800000000000000
+      internalID: 7865873233352303192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831070cb5123ef540800000000000000
+      internalID: 5043523701631811896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 129
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5dd1a0c180eb150800000000000000
+      internalID: 5890154279169021400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 115
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973fbfa18aca2f4b0800000000000000
+      internalID: -5408070364511341703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 115
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9baf9378c789420800000000000000
+      internalID: 2636994502060587492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1380b2c89a3bba00800000000000000
+      internalID: 773276188799959837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 130
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ea6cac82841e40800000000000000
+      internalID: 5626265375192311491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c51678055a7bc0800000000000000
+      internalID: -3784619042022243342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df38e6843dbb234e0800000000000000
+      internalID: -2003332368098753539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406065250d6728670800000000000000
+      internalID: 8539518480554526212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd38a5aaef07cc70800000000000000
+      internalID: 8991172681544515033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0b7df8256979a0800000000000000
+      internalID: -6234840982391943235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea6202df38cbdaf0800000000000000
+      internalID: -370482367896065308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a4bb0579dd6ce90800000000000000
+      internalID: -7005668528363976042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 83
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051db0307f0a91f80800000000000000
+      internalID: -8135294269099617968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafee441ac7bd4f70800000000000000
+      internalID: 9173190094575562667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 70
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f28c45ba7c24990800000000000000
+      internalID: -7403135298767933550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0689e6defad73be0800000000000000
+      internalID: -1497487563015223795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9c9bc45d44a6440800000000000000
+      internalID: 4929828425016396209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7546079000ea62930800000000000000
+      internalID: 4118170224458490967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e72a7a9c28594e0800000000000000
+      internalID: -1975529058919612914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586f92227691a33b0800000000000000
+      internalID: -5532081261525731707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 48
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084c2af75d3979c20800000000000000
+      internalID: 3213199404330828928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f039e2297eb0ac0800000000000000
+      internalID: -3887759238271660222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2cdd7caa174b7e0800000000000000
+      internalID: -1750649376828702039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7a3c229c60cda0800000000000000
+      internalID: -5926617734556517319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50381d0561be40a40800000000000000
+      internalID: 5333646339791225605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a733ae37e913fc0800000000000000
+      internalID: -3516855613311976804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3450d5ff69cab60800000000000000
+      internalID: 7758742281573975029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2db699e323efc00800000000000000
+      internalID: 936241016982983364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3938492d5a39e1910800000000000000
+      internalID: 1810046440661353363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47380589b8ebdbd0800000000000000
+      internalID: -2604232076005198006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2463791086b9fe0800000000000000
+      internalID: -1181236121213451579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a845245397054b60800000000000000
+      internalID: 7729592664804640936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a771a5fc16065aee0800000000000000
+      internalID: -1250487348318562438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10e69c69ea41eb0800000000000000
+      internalID: -4749979744321273364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed13c3d4ed41a80800000000000000
+      internalID: -8496922173637534165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 34
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133aa2d76ffba1350800000000000000
+      internalID: 5988309719925302065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e14289ebc8a1e50800000000000000
+      internalID: 6780886939183881762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fc4fe0e0e666be0800000000000000
+      internalID: -1484378020512477422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a3c2c0322d4110800000000000000
+      internalID: 1246690264672871940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Black_Shadow_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199173b9f1166d680800000000000000
+      internalID: -8730684039235167855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
