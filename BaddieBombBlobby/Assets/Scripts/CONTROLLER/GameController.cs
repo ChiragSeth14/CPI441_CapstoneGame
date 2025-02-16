@@ -4,10 +4,12 @@ using TMPro;
 using UnityEngine.UI;
 using Mono.Data.Sqlite;
 using System.Collections;
+using System.IO;
 
 // CONTROLLER (BUSINESS LOGIC LAYER)
 public class GameController : MonoBehaviour
 {
+    private DatabasePath databasePath;
     private QuestionRepository _questionRepository;
     private AnswerRepository _answerRepository;
     private CharacterRepository _characterRepository;
@@ -23,18 +25,22 @@ public class GameController : MonoBehaviour
     public TextMeshProUGUI characterNameText;  // To display the character's name
     public Image characterImage;  // To display the character's image
     public TextMeshProUGUI levelText;  // To display the level number
-
+    public int levelNumber;
 
     void Start()
     {
-        string dbPath = "URI=file:C:/Users/nawaf/OneDrive/Desktop/CPI441/database/databaseMonster.db";
+       
+
+        databasePath = new DatabasePath();
+        // string dbPath = "URI=file:C:/Users/nawaf/OneDrive/Desktop/CPI441/database/databaseMonster.db";
+        string dbPath = databasePath.DbPath;
         _questionRepository = new QuestionRepository(dbPath);
         _answerRepository = new AnswerRepository(dbPath);
         _characterRepository = new CharacterRepository(dbPath);
         _levelRepository = new LevelRepository(dbPath);  // Initialize level repository
 
         // Start with level 1
-        _currentLevel = _levelRepository.GetLevel(1);
+        _currentLevel = _levelRepository.GetLevel(levelNumber);
         _questions = _questionRepository.GetQuestionsByLevel(_currentLevel);
         UpdateLevelUI();  // Display the current level number
         DisplayQuestion();
@@ -51,14 +57,14 @@ public class GameController : MonoBehaviour
         // Clear previous feedback and character info
         feedbackText.text = "";
         characterNameText.text = "";
-        // characterImage.sprite = null;
+        characterImage.sprite = characterImage.sprite;
 
 
         // Load character data for the current level and question
         var character = _characterRepository.GetCharacterForQuestion(currentQuestion.Id, _currentLevel.LevelNumber);
-        characterNameText.text = character.Name;
+        characterNameText.text = "Name :"+" "+character.Name;
 
-        // Remove image loading logic from here (not loading image anymore)
+        
 
         // Display answers
         for (int i = 0; i < answerButtons.Count; i++)
@@ -98,8 +104,12 @@ public class GameController : MonoBehaviour
         }
         else
         {
-            feedbackText.text = "You've completed all questions!";
-            feedbackText.color = Color.yellow;
+            if (_currentQuestionIndex >= _questions.Count)
+            {
+               // feedbackText.text = "You've completed all questions for level "+levelNumber;
+              //  feedbackText.color = Color.yellow;
+            }
+            
         }
     }
 
