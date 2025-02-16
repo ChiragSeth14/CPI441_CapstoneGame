@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: a1f81efee9bf65d4aa76c134f74c426b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6762390977967793997
+    second: Classroom_and_Library_02_0
+  - first:
+      213: -1254487032917057325
+    second: Classroom_and_Library_02_1
+  - first:
+      213: -1052276182306208415
+    second: Classroom_and_Library_02_2
+  - first:
+      213: 309361962201556835
+    second: Classroom_and_Library_02_3
+  - first:
+      213: 9219554107479369296
+    second: Classroom_and_Library_02_4
+  - first:
+      213: 1127381013051467149
+    second: Classroom_and_Library_02_5
+  - first:
+      213: -1461046859180078417
+    second: Classroom_and_Library_02_6
+  - first:
+      213: -193830250412142782
+    second: Classroom_and_Library_02_7
+  - first:
+      213: -2736197975495089829
+    second: Classroom_and_Library_02_8
+  - first:
+      213: -8841945512821399448
+    second: Classroom_and_Library_02_9
+  - first:
+      213: -7327536306056021967
+    second: Classroom_and_Library_02_10
+  - first:
+      213: -2314449838185264721
+    second: Classroom_and_Library_02_11
+  - first:
+      213: 8401050250320003852
+    second: Classroom_and_Library_02_12
+  - first:
+      213: -384163685449999012
+    second: Classroom_and_Library_02_13
+  - first:
+      213: 5995457339614563254
+    second: Classroom_and_Library_02_14
+  - first:
+      213: -5644926586796677857
+    second: Classroom_and_Library_02_15
+  - first:
+      213: -2666364458387717364
+    second: Classroom_and_Library_02_16
+  - first:
+      213: -1901571877417879367
+    second: Classroom_and_Library_02_17
+  - first:
+      213: -2759370994971498534
+    second: Classroom_and_Library_02_18
+  - first:
+      213: 1208743805726256211
+    second: Classroom_and_Library_02_19
+  - first:
+      213: 3076401009400363582
+    second: Classroom_and_Library_02_20
+  - first:
+      213: 6846191535482453048
+    second: Classroom_and_Library_02_21
+  - first:
+      213: -5619871609533761234
+    second: Classroom_and_Library_02_22
+  - first:
+      213: 7500765133463631023
+    second: Classroom_and_Library_02_23
+  - first:
+      213: 5201869641631071768
+    second: Classroom_and_Library_02_24
+  - first:
+      213: 7975405799431561681
+    second: Classroom_and_Library_02_25
+  - first:
+      213: -1560063594971927682
+    second: Classroom_and_Library_02_26
+  - first:
+      213: -5026027381909688202
+    second: Classroom_and_Library_02_27
+  - first:
+      213: 913943583035025812
+    second: Classroom_and_Library_02_28
+  - first:
+      213: -6327789141872384956
+    second: Classroom_and_Library_02_29
+  - first:
+      213: 3489967075008621742
+    second: Classroom_and_Library_02_30
+  - first:
+      213: 7970493292950628101
+    second: Classroom_and_Library_02_31
+  - first:
+      213: 1225163205971794123
+    second: Classroom_and_Library_02_32
+  - first:
+      213: -6293455998960750457
+    second: Classroom_and_Library_02_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b85ce5fb392722a0800000000000000
+      internalID: -6762390977967793997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 644
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d025aba0ba279ee0800000000000000
+      internalID: -1254487032917057325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 644
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c80c23609561f0800000000000000
+      internalID: -1052276182306208415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 641
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367aa08c0131b4400800000000000000
+      internalID: 309361962201556835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 737
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0562dcb0d9f62ff70800000000000000
+      internalID: 9219554107479369296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 593
+        width: 215
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e379ee0345af00800000000000000
+      internalID: 1127381013051467149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 578
+        width: 35
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0f5e5f9159bbe0800000000000000
+      internalID: -1461046859180078417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 632
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f85790a606f4df0800000000000000
+      internalID: -193830250412142782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e8733072170ad0800000000000000
+      internalID: -2736197975495089829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 497
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860ebe817691b4580800000000000000
+      internalID: -8841945512821399448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 497
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b0c67d8c5f4a90800000000000000
+      internalID: -7327536306056021967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 497
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c188722c61efd0800000000000000
+      internalID: -2314449838185264721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 581
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c78621b6869470800000000000000
+      internalID: 8401050250320003852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 578
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dd529d92d2baaf0800000000000000
+      internalID: -384163685449999012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 145
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb0cb16fa4243350800000000000000
+      internalID: 5995457339614563254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 305
+        width: 182
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1563da6d2139a1b0800000000000000
+      internalID: -5644926586796677857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 353
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c210f6ab2ffad0800000000000000
+      internalID: -2666364458387717364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 449
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b872a3d3724c95e0800000000000000
+      internalID: -1901571877417879367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_18
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 449
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7253923beb4b9d0800000000000000
+      internalID: -2759370994971498534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 452
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c64cc461256c010800000000000000
+      internalID: 1208743805726256211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_20
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 452
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a36f72b6291ba20800000000000000
+      internalID: 3076401009400363582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 145
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb7b8cdee820f50800000000000000
+      internalID: 6846191535482453048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 113
+        width: 182
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ff66eb843202b0800000000000000
+      internalID: -5619871609533761234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 146
+        width: 35
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43cbbe522181860800000000000000
+      internalID: 7500765133463631023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 257
+        width: 215
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81efe4dd0e0c03840800000000000000
+      internalID: 5201869641631071768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 209
+        width: 145
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d165bea1555eae60800000000000000
+      internalID: 7975405799431561681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bedaa0d6a895ae0800000000000000
+      internalID: -1560063594971927682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f2e5a9b6ff3ab0800000000000000
+      internalID: -5026027381909688202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ec83b8dafeac00800000000000000
+      internalID: 913943583035025812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446f113d4d2f28a0800000000000000
+      internalID: -6327789141872384956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 50
+        width: 35
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaca2b7609ade6030800000000000000
+      internalID: 3489967075008621742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 50
+        width: 68
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a4f2ab61ec9e60800000000000000
+      internalID: 7970493292950628101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 50
+        width: 35
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d3d3d177a00110800000000000000
+      internalID: 1225163205971794123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom_and_Library_02_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 17
+        width: 182
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b464fc1729a8a0800000000000000
+      internalID: -6293455998960750457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

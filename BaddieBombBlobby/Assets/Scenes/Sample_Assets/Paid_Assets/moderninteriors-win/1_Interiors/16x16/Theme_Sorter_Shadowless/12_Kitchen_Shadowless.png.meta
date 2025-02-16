@@ -1,0 +1,5943 @@
+fileFormatVersion: 2
+guid: f46cd3f8d20b9a9489a6f7273676ad68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4016310644119170166
+    second: 12_Kitchen_Shadowless_0
+  - first:
+      213: -8099509555076650455
+    second: 12_Kitchen_Shadowless_1
+  - first:
+      213: -5714302119822455322
+    second: 12_Kitchen_Shadowless_2
+  - first:
+      213: -4782602791402243822
+    second: 12_Kitchen_Shadowless_3
+  - first:
+      213: -8038440309294132795
+    second: 12_Kitchen_Shadowless_4
+  - first:
+      213: -1110497205297679618
+    second: 12_Kitchen_Shadowless_5
+  - first:
+      213: -7384686486937538440
+    second: 12_Kitchen_Shadowless_6
+  - first:
+      213: 3308851876936699959
+    second: 12_Kitchen_Shadowless_7
+  - first:
+      213: -2013865725496563158
+    second: 12_Kitchen_Shadowless_8
+  - first:
+      213: -3079086305994619149
+    second: 12_Kitchen_Shadowless_9
+  - first:
+      213: 4408672998466468287
+    second: 12_Kitchen_Shadowless_10
+  - first:
+      213: -3250165350824997179
+    second: 12_Kitchen_Shadowless_11
+  - first:
+      213: 5625689050352308309
+    second: 12_Kitchen_Shadowless_12
+  - first:
+      213: 3733634706780301265
+    second: 12_Kitchen_Shadowless_13
+  - first:
+      213: -2873678845929070280
+    second: 12_Kitchen_Shadowless_14
+  - first:
+      213: 8689615402775671792
+    second: 12_Kitchen_Shadowless_15
+  - first:
+      213: 7246960399296447941
+    second: 12_Kitchen_Shadowless_16
+  - first:
+      213: 73543237299973653
+    second: 12_Kitchen_Shadowless_17
+  - first:
+      213: 3512341371169728869
+    second: 12_Kitchen_Shadowless_18
+  - first:
+      213: 7276555243436855490
+    second: 12_Kitchen_Shadowless_19
+  - first:
+      213: 6935625545881678882
+    second: 12_Kitchen_Shadowless_20
+  - first:
+      213: 521697171109083454
+    second: 12_Kitchen_Shadowless_21
+  - first:
+      213: 3876313461316993078
+    second: 12_Kitchen_Shadowless_22
+  - first:
+      213: -8968679885985203203
+    second: 12_Kitchen_Shadowless_23
+  - first:
+      213: 8787825424495977801
+    second: 12_Kitchen_Shadowless_24
+  - first:
+      213: 4828495094283485852
+    second: 12_Kitchen_Shadowless_25
+  - first:
+      213: 7659626471165116203
+    second: 12_Kitchen_Shadowless_26
+  - first:
+      213: -5591897602750819975
+    second: 12_Kitchen_Shadowless_27
+  - first:
+      213: 8298930687561495459
+    second: 12_Kitchen_Shadowless_28
+  - first:
+      213: 4630202496021906677
+    second: 12_Kitchen_Shadowless_29
+  - first:
+      213: 2323900731278212289
+    second: 12_Kitchen_Shadowless_30
+  - first:
+      213: -6860404874949818371
+    second: 12_Kitchen_Shadowless_31
+  - first:
+      213: -8611260272969038804
+    second: 12_Kitchen_Shadowless_32
+  - first:
+      213: 4911125188440561622
+    second: 12_Kitchen_Shadowless_33
+  - first:
+      213: -5384779621673070144
+    second: 12_Kitchen_Shadowless_34
+  - first:
+      213: -7184503425868796556
+    second: 12_Kitchen_Shadowless_35
+  - first:
+      213: 6459594860250941281
+    second: 12_Kitchen_Shadowless_36
+  - first:
+      213: 6856666183638175041
+    second: 12_Kitchen_Shadowless_37
+  - first:
+      213: 5852450079959794831
+    second: 12_Kitchen_Shadowless_38
+  - first:
+      213: 6388062752816697041
+    second: 12_Kitchen_Shadowless_39
+  - first:
+      213: -6057998750096623490
+    second: 12_Kitchen_Shadowless_40
+  - first:
+      213: 1115074690103867185
+    second: 12_Kitchen_Shadowless_41
+  - first:
+      213: -689563854847388009
+    second: 12_Kitchen_Shadowless_42
+  - first:
+      213: 4195764495466592127
+    second: 12_Kitchen_Shadowless_43
+  - first:
+      213: -2096400557990235921
+    second: 12_Kitchen_Shadowless_44
+  - first:
+      213: 8933897202322998716
+    second: 12_Kitchen_Shadowless_45
+  - first:
+      213: -5786008648459868894
+    second: 12_Kitchen_Shadowless_46
+  - first:
+      213: 8034276629994499679
+    second: 12_Kitchen_Shadowless_47
+  - first:
+      213: -6626900826086536028
+    second: 12_Kitchen_Shadowless_48
+  - first:
+      213: -1479253706518280308
+    second: 12_Kitchen_Shadowless_49
+  - first:
+      213: -2923716241435321686
+    second: 12_Kitchen_Shadowless_50
+  - first:
+      213: -5936762620087063362
+    second: 12_Kitchen_Shadowless_51
+  - first:
+      213: 2517001842196715632
+    second: 12_Kitchen_Shadowless_52
+  - first:
+      213: -1636835037760653808
+    second: 12_Kitchen_Shadowless_53
+  - first:
+      213: 249707006660006059
+    second: 12_Kitchen_Shadowless_54
+  - first:
+      213: 2726561533471439083
+    second: 12_Kitchen_Shadowless_55
+  - first:
+      213: 6771977459167730343
+    second: 12_Kitchen_Shadowless_56
+  - first:
+      213: -2336754531898599555
+    second: 12_Kitchen_Shadowless_57
+  - first:
+      213: -3970890929792137416
+    second: 12_Kitchen_Shadowless_58
+  - first:
+      213: 367022994845575863
+    second: 12_Kitchen_Shadowless_59
+  - first:
+      213: -5801169478877448421
+    second: 12_Kitchen_Shadowless_60
+  - first:
+      213: 8583677522653889129
+    second: 12_Kitchen_Shadowless_61
+  - first:
+      213: -7019454867354904970
+    second: 12_Kitchen_Shadowless_62
+  - first:
+      213: 635917113296951685
+    second: 12_Kitchen_Shadowless_63
+  - first:
+      213: 4780735677210211277
+    second: 12_Kitchen_Shadowless_64
+  - first:
+      213: 3649469437108895556
+    second: 12_Kitchen_Shadowless_65
+  - first:
+      213: -5781015168349420904
+    second: 12_Kitchen_Shadowless_66
+  - first:
+      213: -4577059684008251898
+    second: 12_Kitchen_Shadowless_67
+  - first:
+      213: 3845714657835769210
+    second: 12_Kitchen_Shadowless_68
+  - first:
+      213: 7724576056791414720
+    second: 12_Kitchen_Shadowless_69
+  - first:
+      213: -7986034038000333396
+    second: 12_Kitchen_Shadowless_70
+  - first:
+      213: 16031280641066707
+    second: 12_Kitchen_Shadowless_71
+  - first:
+      213: 454368119670437991
+    second: 12_Kitchen_Shadowless_72
+  - first:
+      213: 4597367137155517826
+    second: 12_Kitchen_Shadowless_73
+  - first:
+      213: -503507834813134439
+    second: 12_Kitchen_Shadowless_74
+  - first:
+      213: 5352290448693920284
+    second: 12_Kitchen_Shadowless_75
+  - first:
+      213: 7615678723436144468
+    second: 12_Kitchen_Shadowless_76
+  - first:
+      213: -6348382780105947220
+    second: 12_Kitchen_Shadowless_77
+  - first:
+      213: -2302704070082737640
+    second: 12_Kitchen_Shadowless_78
+  - first:
+      213: -2541070430516164466
+    second: 12_Kitchen_Shadowless_79
+  - first:
+      213: 8268099384214137717
+    second: 12_Kitchen_Shadowless_80
+  - first:
+      213: -1121375431611798005
+    second: 12_Kitchen_Shadowless_81
+  - first:
+      213: 3945842179209341300
+    second: 12_Kitchen_Shadowless_82
+  - first:
+      213: -8361084120816903730
+    second: 12_Kitchen_Shadowless_83
+  - first:
+      213: 3108042753988585634
+    second: 12_Kitchen_Shadowless_84
+  - first:
+      213: -6604490318960150626
+    second: 12_Kitchen_Shadowless_85
+  - first:
+      213: -1730511985466757833
+    second: 12_Kitchen_Shadowless_86
+  - first:
+      213: 3875617413270350420
+    second: 12_Kitchen_Shadowless_87
+  - first:
+      213: -6949995527920175286
+    second: 12_Kitchen_Shadowless_88
+  - first:
+      213: -215154487855785842
+    second: 12_Kitchen_Shadowless_89
+  - first:
+      213: -2051914840162050207
+    second: 12_Kitchen_Shadowless_90
+  - first:
+      213: -7369834770666534500
+    second: 12_Kitchen_Shadowless_91
+  - first:
+      213: 7818742361148013298
+    second: 12_Kitchen_Shadowless_92
+  - first:
+      213: -3295534648851075595
+    second: 12_Kitchen_Shadowless_93
+  - first:
+      213: -8675682595703420582
+    second: 12_Kitchen_Shadowless_94
+  - first:
+      213: 7639725639246751137
+    second: 12_Kitchen_Shadowless_95
+  - first:
+      213: -154667645135615101
+    second: 12_Kitchen_Shadowless_96
+  - first:
+      213: -1982973271584798370
+    second: 12_Kitchen_Shadowless_97
+  - first:
+      213: 7231114565117616703
+    second: 12_Kitchen_Shadowless_98
+  - first:
+      213: -7528531878426251466
+    second: 12_Kitchen_Shadowless_99
+  - first:
+      213: 2067671650050174015
+    second: 12_Kitchen_Shadowless_100
+  - first:
+      213: -6145573617247071591
+    second: 12_Kitchen_Shadowless_101
+  - first:
+      213: 5201124134500074501
+    second: 12_Kitchen_Shadowless_102
+  - first:
+      213: -2872772395334876257
+    second: 12_Kitchen_Shadowless_103
+  - first:
+      213: 3282615584532958488
+    second: 12_Kitchen_Shadowless_104
+  - first:
+      213: 5189206291266964935
+    second: 12_Kitchen_Shadowless_105
+  - first:
+      213: 159583777214447149
+    second: 12_Kitchen_Shadowless_106
+  - first:
+      213: -3978741719024881385
+    second: 12_Kitchen_Shadowless_107
+  - first:
+      213: 2958395787020000886
+    second: 12_Kitchen_Shadowless_108
+  - first:
+      213: 8080006365512007505
+    second: 12_Kitchen_Shadowless_109
+  - first:
+      213: 3620339490924193671
+    second: 12_Kitchen_Shadowless_110
+  - first:
+      213: 7685366982757223750
+    second: 12_Kitchen_Shadowless_111
+  - first:
+      213: -8239672369108122879
+    second: 12_Kitchen_Shadowless_112
+  - first:
+      213: 1121248321238052427
+    second: 12_Kitchen_Shadowless_113
+  - first:
+      213: 8461929656708680302
+    second: 12_Kitchen_Shadowless_114
+  - first:
+      213: -1875849942628904918
+    second: 12_Kitchen_Shadowless_115
+  - first:
+      213: 1530238843909153836
+    second: 12_Kitchen_Shadowless_116
+  - first:
+      213: -3223820680473166253
+    second: 12_Kitchen_Shadowless_117
+  - first:
+      213: 4700623770126415261
+    second: 12_Kitchen_Shadowless_118
+  - first:
+      213: -7838970375610617746
+    second: 12_Kitchen_Shadowless_119
+  - first:
+      213: -4782655101407920743
+    second: 12_Kitchen_Shadowless_120
+  - first:
+      213: 886001206655238671
+    second: 12_Kitchen_Shadowless_121
+  - first:
+      213: 8307331672130115277
+    second: 12_Kitchen_Shadowless_122
+  - first:
+      213: 6819528403646471655
+    second: 12_Kitchen_Shadowless_123
+  - first:
+      213: 1962527875849611482
+    second: 12_Kitchen_Shadowless_124
+  - first:
+      213: 6972041817132621541
+    second: 12_Kitchen_Shadowless_125
+  - first:
+      213: -4289209308333651416
+    second: 12_Kitchen_Shadowless_126
+  - first:
+      213: 2736717625057259904
+    second: 12_Kitchen_Shadowless_127
+  - first:
+      213: -6077323349610465281
+    second: 12_Kitchen_Shadowless_128
+  - first:
+      213: -3421607479850726497
+    second: 12_Kitchen_Shadowless_129
+  - first:
+      213: 6563455846935645564
+    second: 12_Kitchen_Shadowless_130
+  - first:
+      213: -6807062530695051651
+    second: 12_Kitchen_Shadowless_131
+  - first:
+      213: 4523461582166783287
+    second: 12_Kitchen_Shadowless_132
+  - first:
+      213: 3058335920050727182
+    second: 12_Kitchen_Shadowless_133
+  - first:
+      213: 3873092392511684671
+    second: 12_Kitchen_Shadowless_134
+  - first:
+      213: 4489973310455354767
+    second: 12_Kitchen_Shadowless_135
+  - first:
+      213: 1500387355581226753
+    second: 12_Kitchen_Shadowless_136
+  - first:
+      213: 3222717974879915226
+    second: 12_Kitchen_Shadowless_137
+  - first:
+      213: 7470825861496953743
+    second: 12_Kitchen_Shadowless_138
+  - first:
+      213: 3808264290483571334
+    second: 12_Kitchen_Shadowless_139
+  - first:
+      213: 2019302729945223562
+    second: 12_Kitchen_Shadowless_140
+  - first:
+      213: -3249542293953626084
+    second: 12_Kitchen_Shadowless_141
+  - first:
+      213: -9128655323595788241
+    second: 12_Kitchen_Shadowless_142
+  - first:
+      213: 6385241687692781702
+    second: 12_Kitchen_Shadowless_143
+  - first:
+      213: 2461048990950802665
+    second: 12_Kitchen_Shadowless_144
+  - first:
+      213: 6855675778019659234
+    second: 12_Kitchen_Shadowless_145
+  - first:
+      213: 2440279057562133693
+    second: 12_Kitchen_Shadowless_146
+  - first:
+      213: -1962120595091733289
+    second: 12_Kitchen_Shadowless_147
+  - first:
+      213: 4520478457514887643
+    second: 12_Kitchen_Shadowless_148
+  - first:
+      213: 5648170339427361857
+    second: 12_Kitchen_Shadowless_149
+  - first:
+      213: 3756389197054898457
+    second: 12_Kitchen_Shadowless_150
+  - first:
+      213: -4046464672929551078
+    second: 12_Kitchen_Shadowless_151
+  - first:
+      213: 3981492679810286754
+    second: 12_Kitchen_Shadowless_152
+  - first:
+      213: 6528636010340059712
+    second: 12_Kitchen_Shadowless_153
+  - first:
+      213: 4773575919002632862
+    second: 12_Kitchen_Shadowless_154
+  - first:
+      213: 8408623336229892159
+    second: 12_Kitchen_Shadowless_155
+  - first:
+      213: -7375740779955836426
+    second: 12_Kitchen_Shadowless_156
+  - first:
+      213: -6269120535898359335
+    second: 12_Kitchen_Shadowless_157
+  - first:
+      213: -2365597525989402873
+    second: 12_Kitchen_Shadowless_158
+  - first:
+      213: 7579156968952329315
+    second: 12_Kitchen_Shadowless_159
+  - first:
+      213: 6920722194903397954
+    second: 12_Kitchen_Shadowless_160
+  - first:
+      213: -7770364647012405635
+    second: 12_Kitchen_Shadowless_161
+  - first:
+      213: 3317749716802305647
+    second: 12_Kitchen_Shadowless_162
+  - first:
+      213: -8915039157931215450
+    second: 12_Kitchen_Shadowless_163
+  - first:
+      213: -2495841002474282306
+    second: 12_Kitchen_Shadowless_164
+  - first:
+      213: -2176439538500084288
+    second: 12_Kitchen_Shadowless_165
+  - first:
+      213: 1261323539291352591
+    second: 12_Kitchen_Shadowless_166
+  - first:
+      213: 1923104453121651945
+    second: 12_Kitchen_Shadowless_167
+  - first:
+      213: -6524058706377892179
+    second: 12_Kitchen_Shadowless_168
+  - first:
+      213: -7558774375699413700
+    second: 12_Kitchen_Shadowless_169
+  - first:
+      213: -2902607211037280150
+    second: 12_Kitchen_Shadowless_170
+  - first:
+      213: 3059644230955344556
+    second: 12_Kitchen_Shadowless_171
+  - first:
+      213: 2216523188512909574
+    second: 12_Kitchen_Shadowless_172
+  - first:
+      213: 98292898552117959
+    second: 12_Kitchen_Shadowless_173
+  - first:
+      213: 4238219299590555704
+    second: 12_Kitchen_Shadowless_174
+  - first:
+      213: 6284983098103029217
+    second: 12_Kitchen_Shadowless_175
+  - first:
+      213: -7427255081896081120
+    second: 12_Kitchen_Shadowless_176
+  - first:
+      213: -5588930593664777906
+    second: 12_Kitchen_Shadowless_177
+  - first:
+      213: 3897823362395306810
+    second: 12_Kitchen_Shadowless_178
+  - first:
+      213: -1322188563136368183
+    second: 12_Kitchen_Shadowless_179
+  - first:
+      213: 7180171439677673779
+    second: 12_Kitchen_Shadowless_180
+  - first:
+      213: -1248727751282492365
+    second: 12_Kitchen_Shadowless_181
+  - first:
+      213: 4222959187487130212
+    second: 12_Kitchen_Shadowless_182
+  - first:
+      213: 6619074927085525825
+    second: 12_Kitchen_Shadowless_183
+  - first:
+      213: -361600011832864887
+    second: 12_Kitchen_Shadowless_184
+  - first:
+      213: 5869962520015914417
+    second: 12_Kitchen_Shadowless_185
+  - first:
+      213: -5069253640728926958
+    second: 12_Kitchen_Shadowless_186
+  - first:
+      213: -1909601959404791225
+    second: 12_Kitchen_Shadowless_187
+  - first:
+      213: 1058296588729670306
+    second: 12_Kitchen_Shadowless_188
+  - first:
+      213: -3108846027469898072
+    second: 12_Kitchen_Shadowless_189
+  - first:
+      213: -354128750486111486
+    second: 12_Kitchen_Shadowless_190
+  - first:
+      213: 1713445057349616254
+    second: 12_Kitchen_Shadowless_191
+  - first:
+      213: -2809751753858811425
+    second: 12_Kitchen_Shadowless_192
+  - first:
+      213: 8773909775737398051
+    second: 12_Kitchen_Shadowless_193
+  - first:
+      213: 1739854468973168673
+    second: 12_Kitchen_Shadowless_194
+  - first:
+      213: -6844619439021678758
+    second: 12_Kitchen_Shadowless_195
+  - first:
+      213: -1543187458591060985
+    second: 12_Kitchen_Shadowless_196
+  - first:
+      213: 8422303320588886405
+    second: 12_Kitchen_Shadowless_197
+  - first:
+      213: 110663636173018124
+    second: 12_Kitchen_Shadowless_198
+  - first:
+      213: -3971433772044279960
+    second: 12_Kitchen_Shadowless_199
+  - first:
+      213: -9002919128617883834
+    second: 12_Kitchen_Shadowless_200
+  - first:
+      213: -4744975033136207393
+    second: 12_Kitchen_Shadowless_201
+  - first:
+      213: 6510520903068380819
+    second: 12_Kitchen_Shadowless_202
+  - first:
+      213: 4560625719177846543
+    second: 12_Kitchen_Shadowless_203
+  - first:
+      213: -3693686137282530939
+    second: 12_Kitchen_Shadowless_204
+  - first:
+      213: -2622606838806330057
+    second: 12_Kitchen_Shadowless_205
+  - first:
+      213: -2649411269931479546
+    second: 12_Kitchen_Shadowless_206
+  - first:
+      213: 9067500702073199273
+    second: 12_Kitchen_Shadowless_207
+  - first:
+      213: 837637015772033992
+    second: 12_Kitchen_Shadowless_208
+  - first:
+      213: -756974285596398389
+    second: 12_Kitchen_Shadowless_209
+  - first:
+      213: 8276924918129950140
+    second: 12_Kitchen_Shadowless_210
+  - first:
+      213: -6108780842405309446
+    second: 12_Kitchen_Shadowless_211
+  - first:
+      213: -8097986928515818867
+    second: 12_Kitchen_Shadowless_212
+  - first:
+      213: -1991888163261834042
+    second: 12_Kitchen_Shadowless_213
+  - first:
+      213: -6417524322899274396
+    second: 12_Kitchen_Shadowless_214
+  - first:
+      213: 8886494532559346463
+    second: 12_Kitchen_Shadowless_215
+  - first:
+      213: -8955860163212411731
+    second: 12_Kitchen_Shadowless_216
+  - first:
+      213: 3465705133487666923
+    second: 12_Kitchen_Shadowless_217
+  - first:
+      213: 4962820291986221277
+    second: 12_Kitchen_Shadowless_218
+  - first:
+      213: -7487590862593121015
+    second: 12_Kitchen_Shadowless_219
+  - first:
+      213: -1020551334412279873
+    second: 12_Kitchen_Shadowless_220
+  - first:
+      213: 6978440229790905070
+    second: 12_Kitchen_Shadowless_221
+  - first:
+      213: 3599668357294841559
+    second: 12_Kitchen_Shadowless_222
+  - first:
+      213: -3576163622259461023
+    second: 12_Kitchen_Shadowless_223
+  - first:
+      213: 2142241389253624139
+    second: 12_Kitchen_Shadowless_224
+  - first:
+      213: 2213861145192952982
+    second: 12_Kitchen_Shadowless_225
+  - first:
+      213: 892535166792190903
+    second: 12_Kitchen_Shadowless_226
+  - first:
+      213: 4467590778641311848
+    second: 12_Kitchen_Shadowless_227
+  - first:
+      213: 2131957543739114494
+    second: 12_Kitchen_Shadowless_228
+  - first:
+      213: -4725607311875658771
+    second: 12_Kitchen_Shadowless_229
+  - first:
+      213: 5116852753153500600
+    second: 12_Kitchen_Shadowless_230
+  - first:
+      213: 4897350523728145322
+    second: 12_Kitchen_Shadowless_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 767
+        width: 146
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8318ad9fb23348c0800000000000000
+      internalID: -4016310644119170166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 256
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a26c209f2c89f80800000000000000
+      internalID: -8099509555076650455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 256
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed88b86f78b2b0b0800000000000000
+      internalID: -5714302119822455322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 647
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2197dacb918c0adb0800000000000000
+      internalID: -4782602791402243822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 645
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19750d029b17090800000000000000
+      internalID: -8038440309294132795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 645
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2fa2aeca8b690f0800000000000000
+      internalID: -1110497205297679618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 640
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870f57014c2548990800000000000000
+      internalID: -7384686486937538440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 640
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730523340476bed20800000000000000
+      internalID: 3308851876936699959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 651
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a6176eacf4d04e0800000000000000
+      internalID: -2013865725496563158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 629
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6cb628153e445d0800000000000000
+      internalID: -3079086305994619149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 629
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93374ebb0ce2d30800000000000000
+      internalID: 4408672998466468287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 624
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce0bc265d715e2d0800000000000000
+      internalID: -3250165350824997179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550dd079266721e40800000000000000
+      internalID: 5625689050352308309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 639
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a5b2fbf880d330800000000000000
+      internalID: 3733634706780301265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 641
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e7d5a054ae18d0800000000000000
+      internalID: -2873678845929070280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 640
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f4355b27b79870800000000000000
+      internalID: 8689615402775671792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 615
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5436d4610629460800000000000000
+      internalID: 7246960399296447941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 613
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea5e64f27450100800000000000000
+      internalID: 73543237299973653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 613
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569ea7e2ed75eb030800000000000000
+      internalID: 3512341371169728869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 613
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05f89e0748bf460800000000000000
+      internalID: 7276555243436855490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 624
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f66dffaa404060800000000000000
+      internalID: 6935625545881678882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 619
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39784420d07d3700800000000000000
+      internalID: 521697171109083454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 620
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6304dd33e8e6bc530800000000000000
+      internalID: 3876313461316993078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 620
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb39ab6929d88380800000000000000
+      internalID: -8968679885985203203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945aa37e9a0a4f970800000000000000
+      internalID: 8787825424495977801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92cb7ea4b2420340800000000000000
+      internalID: 4828495094283485852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb9fd61b57c4a60800000000000000
+      internalID: 7659626471165116203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971dda7e1c69562b0800000000000000
+      internalID: -5591897602750819975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 585
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3f0bf9d79bb2370800000000000000
+      internalID: 8298930687561495459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 585
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4438563a8c14040800000000000000
+      internalID: 4630202496021906677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 585
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccbb1d0767204020800000000000000
+      internalID: 2323900731278212289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 585
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7024d3d12fac0a0800000000000000
+      internalID: -6860404874949818371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 577
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c244f39f768ae7880800000000000000
+      internalID: -8611260272969038804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 595
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71970b652d72440800000000000000
+      internalID: 4911125188440561622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 588
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11a60c67b6545b0800000000000000
+      internalID: -5384779621673070144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 588
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d638503348b4c90800000000000000
+      internalID: -7184503425868796556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 588
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167423e0d4715a950800000000000000
+      internalID: 6459594860250941281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dcf2bd095c72f50800000000000000
+      internalID: 6856666183638175041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c5b11754183150800000000000000
+      internalID: 5852450079959794831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0b807a35f6a850800000000000000
+      internalID: 6388062752816697041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78fab2cb3aadeba0800000000000000
+      internalID: -6057998750096623490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 578
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1377ba1d58a897f00800000000000000
+      internalID: 1115074690103867185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7965fd5d35d2e66f0800000000000000
+      internalID: -689563854847388009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 553
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f777b7914995a3a30800000000000000
+      internalID: 4195764495466592127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 553
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0bf0abcc618e2e0800000000000000
+      internalID: -2096400557990235921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 553
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb58154fb249bfb70800000000000000
+      internalID: 8933897202322998716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 553
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22526313ac7f3bfa0800000000000000
+      internalID: -5786008648459868894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 553
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e6b0e070c7f7f60800000000000000
+      internalID: 8034276629994499679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 553
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac8e5b3fc48804a0800000000000000
+      internalID: -6626900826086536028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 553
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c874c426792a87be0800000000000000
+      internalID: -1479253706518280308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 549
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa1535a19fdc67d0800000000000000
+      internalID: -2923716241435321686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 557
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebca4e1f9d16c9da0800000000000000
+      internalID: -5936762620087063362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 560
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078932ff6df2ee220800000000000000
+      internalID: 2517001842196715632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 549
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016fc5a943bc849e0800000000000000
+      internalID: -1636835037760653808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 549
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba055e51333277300800000000000000
+      internalID: 249707006660006059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 553
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be83fccc441b6d520800000000000000
+      internalID: 2726561533471439083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 560
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa15a0ae95eafd50800000000000000
+      internalID: 6771977459167730343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7756e6422e229fd0800000000000000
+      internalID: -2336754531898599555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 535
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374befecbf84e8c0800000000000000
+      internalID: -3970890929792137416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 535
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baab20287de71500800000000000000
+      internalID: 367022994845575863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 502
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17fba9481b1e7fa0800000000000000
+      internalID: -5801169478877448421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 502
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9624a448a395f1770800000000000000
+      internalID: 8583677522653889129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 544
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769c622df2e59e90800000000000000
+      internalID: -7019454867354904970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58918acce3b33d800800000000000000
+      internalID: 635917113296951685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3b62dd4c5985240800000000000000
+      internalID: 4780735677210211277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 527
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f35890e1585a230800000000000000
+      internalID: 3649469437108895556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 517
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89243616555b5cfa0800000000000000
+      internalID: -5781015168349420904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 507
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2deab7740b70c0800000000000000
+      internalID: -4577059684008251898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d50d71b19be5530800000000000000
+      internalID: 3845714657835769210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 483
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c73a814ff4333b60800000000000000
+      internalID: 7724576056791414720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 454
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcfc0ba58eb2190800000000000000
+      internalID: -7986034038000333396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 470
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c7e36d54f83000800000000000000
+      internalID: 16031280641066707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 495
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f732c56d3e4600800000000000000
+      internalID: 454368119670437991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 495
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d8538ad012dcf30800000000000000
+      internalID: 4597367137155517826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 461
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999465cba4e2309f0800000000000000
+      internalID: -503507834813134439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 467
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c120e113ec7274a40800000000000000
+      internalID: 5352290448693920284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 463
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45769e9037350b960800000000000000
+      internalID: 7615678723436144468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca704952f7306e7a0800000000000000
+      internalID: -6348382780105947220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 450
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a4fd739d62b00e0800000000000000
+      internalID: -2302704070082737640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 450
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88c5d718ed4cbcd0800000000000000
+      internalID: -2541070430516164466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 438
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba5bb65903eb270800000000000000
+      internalID: 8268099384214137717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eadea7cf21070f0800000000000000
+      internalID: -1121375431611798005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 432
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a6875e8272c630800000000000000
+      internalID: 3945842179209341300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 433
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec99c818a4677fb80800000000000000
+      internalID: -8361084120816903730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 433
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8673aea6cf12b20800000000000000
+      internalID: 3108042753988585634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 409
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97bfd70c032854a0800000000000000
+      internalID: -6604490318960150626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 406
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73da2b2948cfbf7e0800000000000000
+      internalID: -1730511985466757833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 431
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a2c43e085f8c530800000000000000
+      internalID: 3875617413270350420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 431
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b3c7d3e7ac8f90800000000000000
+      internalID: -6949995527920175286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88568b122e930df0800000000000000
+      internalID: -215154487855785842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 417
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd9ca03522683e0800000000000000
+      internalID: -2051914840162050207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 418
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994919b25619b990800000000000000
+      internalID: -7369834770666534500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fab68280c0c18c60800000000000000
+      internalID: 7818742361148013298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd6d3682b8e342d0800000000000000
+      internalID: -3295534648851075595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 405
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590f0b15a8c99780800000000000000
+      internalID: -8675682595703420582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 373
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52fbcedf1c50a60800000000000000
+      internalID: 7639725639246751137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 387
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b0271a8928addf0800000000000000
+      internalID: -154667645135615101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590814d0501b74e0800000000000000
+      internalID: -1982973271584798370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 387
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f322df782641a5460800000000000000
+      internalID: 7231114565117616703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 387
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fe23af428458790800000000000000
+      internalID: -7528531878426251466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 361
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce2652968d1bc10800000000000000
+      internalID: 2067671650050174015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 361
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d9f21b5986baa0800000000000000
+      internalID: -6145573617247071591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 387
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5048695f7da1e2840800000000000000
+      internalID: 5201124134500074501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 386
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93448f1abcd128d0800000000000000
+      internalID: -2872772395334876257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d8f3a6b713e8d20800000000000000
+      internalID: 3282615584532958488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 369
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd8039d0a3c30840800000000000000
+      internalID: 5189206291266964935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 354
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e38c09994f63200800000000000000
+      internalID: 159583777214447149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 368
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711be70ac7ba8c8c0800000000000000
+      internalID: -3978741719024881385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 352
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed6564b455e0920800000000000000
+      internalID: 2958395787020000886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 353
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ffc3fcaf2f12070800000000000000
+      internalID: 8080006365512007505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 313
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787eadae5970e3230800000000000000
+      internalID: 3620339490924193671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 325
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d82cf4d88e7aa60800000000000000
+      internalID: 7685366982757223750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 325
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10385bdc2adc6ad80800000000000000
+      internalID: -8239672369108122879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea56458697f8f00800000000000000
+      internalID: 1121248321238052427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 320
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac6768030de6570800000000000000
+      internalID: 8461929656708680302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 320
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20daa57a64a7f5e0800000000000000
+      internalID: -1875849942628904918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 325
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a5b8fe108c3510800000000000000
+      internalID: 1530238843909153836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 258
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eb6d0fb20b243d0800000000000000
+      internalID: -3223820680473166253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 299
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d957429f968fb3140800000000000000
+      internalID: 4700623770126415261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 303
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e603becd9f1663390800000000000000
+      internalID: -7838970375610617746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 307
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dfe5d568890adb0800000000000000
+      internalID: -4782655101407920743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 289
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02c0493765bb4c00800000000000000
+      internalID: 886001206655238671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6daa44422994370800000000000000
+      internalID: 8307331672130115277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd803a3f4d3ae50800000000000000
+      internalID: 6819528403646471655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad861d584bc4c3b10800000000000000
+      internalID: 1962527875849611482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedb5dd71ba1c060800000000000000
+      internalID: 6972041817132621541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 273
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a4979fbdaa974c0800000000000000
+      internalID: -4289209308333651416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b6142e26caf520800000000000000
+      internalID: 2736717625057259904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 287
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f741dc9209aba0800000000000000
+      internalID: -6077323349610465281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_129
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8da220220480d0800000000000000
+      internalID: -3421607479850726497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4f8f6154161b50800000000000000
+      internalID: 6563455846935645564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76cc0691b47881a0800000000000000
+      internalID: -6807062530695051651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_132
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 244
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7357d28b75096ce30800000000000000
+      internalID: 4523461582166783287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_133
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 237
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e076c054617a20800000000000000
+      internalID: 3058335920050727182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_134
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f304deda20dffb530800000000000000
+      internalID: 3873092392511684671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_135
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f851dacdfe69f4e30800000000000000
+      internalID: 4489973310455354767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f18eab95272d410800000000000000
+      internalID: 1500387355581226753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_137
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 257
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adccbf76ce469bc20800000000000000
+      internalID: 3222717974879915226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bd355f984bda760800000000000000
+      internalID: 7470825861496953743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a0415f13ca9d430800000000000000
+      internalID: 3808264290483571334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_140
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 215
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819c585221060c10800000000000000
+      internalID: 2019302729945223562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 215
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10494e108e47e2d0800000000000000
+      internalID: -3249542293953626084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_142
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 212
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2038105950805180800000000000000
+      internalID: -9128655323595788241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 241
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a1f70c7fec9850800000000000000
+      internalID: 6385241687692781702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_144
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 235
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4c470a407672220800000000000000
+      internalID: 2461048990950802665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_145
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8c141cc0442f50800000000000000
+      internalID: 6855675778019659234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_146
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e0daafdc9dd120800000000000000
+      internalID: 2440279057562133693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_147
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4441be6b525c4e0800000000000000
+      internalID: -1962120595091733289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 225
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd90bf2e437fbbe30800000000000000
+      internalID: 4520478457514887643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 227
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14427789ff4526e40800000000000000
+      internalID: 5648170339427361857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_150
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 213
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91172909210612430800000000000000
+      internalID: 3756389197054898457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1deddda1d118d7c0800000000000000
+      internalID: -4046464672929551078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_152
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 209
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a409e75f7a114730800000000000000
+      internalID: 3981492679810286754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a84287cdf5a9a50800000000000000
+      internalID: 6528636010340059712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 211
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92c280c1062f3240800000000000000
+      internalID: 4773575919002632862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_155
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30fa0e9f5e61b470800000000000000
+      internalID: 8408623336229892159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ae57c6da14a990800000000000000
+      internalID: -7375740779955836426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_157
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 178
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9fbab761c9ff8a0800000000000000
+      internalID: -6269120535898359335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_158
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707dbd56595bb2fd0800000000000000
+      internalID: -2365597525989402873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_159
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364745f6b139e2960800000000000000
+      internalID: 7579156968952329315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_160
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 197
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246f0603b285b0060800000000000000
+      internalID: 6920722194903397954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_161
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e629fc58e1a2490800000000000000
+      internalID: -7770364647012405635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e77ab0ac30b0e20800000000000000
+      internalID: 3317749716802305647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ffc8ae1b674480800000000000000
+      internalID: -8915039157931215450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_164
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 184
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26aafe4ddfc5dd0800000000000000
+      internalID: -2495841002474282306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd569065cbbbc1e0800000000000000
+      internalID: -2176439538500084288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_166
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eac42831f118110800000000000000
+      internalID: 1261323539291352591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_167
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b942af4d30ba10800000000000000
+      internalID: 1923104453121651945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_168
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 163
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae1d882c23e575a0800000000000000
+      internalID: -6524058706377892179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_169
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 146
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c358c1fd0c6d91790800000000000000
+      internalID: -7558774375699413700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_170
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 153
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68b2a7ce1ed7b7d0800000000000000
+      internalID: -2902607211037280150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_171
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 153
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2aa25a73a067a20800000000000000
+      internalID: 3059644230955344556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_172
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 153
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6096ab7a81ca2ce10800000000000000
+      internalID: 2216523188512909574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_173
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7426ded43d5100800000000000000
+      internalID: 98292898552117959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_174
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838cc487ffd21da30800000000000000
+      internalID: 4238219299590555704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_175
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 144
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edd3c514deb83750800000000000000
+      internalID: 6284983098103029217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_176
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 144
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0298e53bad61de890800000000000000
+      internalID: -7427255081896081120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_177
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e414c4a8c312072b0800000000000000
+      internalID: -5588930593664777906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_178
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 147
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7ac052b9d71630800000000000000
+      internalID: 3897823362395306810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c13c20d184a6ade0800000000000000
+      internalID: -1322188563136368183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_180
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3319468d1e715a360800000000000000
+      internalID: 7180171439677673779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c72abe9b0abaee0800000000000000
+      internalID: -1248727751282492365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_182
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462842fb107fa9a30800000000000000
+      internalID: 4222959187487130212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_183
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b90aaa39dabdb50800000000000000
+      internalID: 6619074927085525825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_184
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fccef74b65bfaf0800000000000000
+      internalID: -361600011832864887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_185
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 121
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c762cfcb467150800000000000000
+      internalID: 5869962520015914417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_186
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 121
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2152ffbfba466a9b0800000000000000
+      internalID: -5069253640728926958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_187
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 96
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a994ba22bbf75e0800000000000000
+      internalID: -1909601959404791225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_188
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 96
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5d3ee323dfae00800000000000000
+      internalID: 1058296588729670306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_189
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeb54762092bd4d0800000000000000
+      internalID: -3108846027469898072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_190
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 96
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb58617c1e51bf0800000000000000
+      internalID: -354128750486111486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_191
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e720971933167c710800000000000000
+      internalID: 1713445057349616254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_192
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 115
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9f634aaa1c109d0800000000000000
+      internalID: -2809751753858811425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 161
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323a722747033c970800000000000000
+      internalID: 8773909775737398051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_194
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 61
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1288500eb64352810800000000000000
+      internalID: 1739854468973168673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_195
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 57
+        width: 130
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f116272e60301a0800000000000000
+      internalID: -6844619439021678758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c87dcbe2f759ae0800000000000000
+      internalID: -1543187458591060985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_197
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812b4e2f3802e470800000000000000
+      internalID: 8422303320588886405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_198
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0455a3adf7298100800000000000000
+      internalID: 110663636173018124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_199
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f9f40a602a2e8c0800000000000000
+      internalID: -3971433772044279960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_200
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 37
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647692580c43f0380800000000000000
+      internalID: -9002919128617883834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_201
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 35
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a1d9e856762eb0800000000000000
+      internalID: -4744975033136207393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_202
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e652264440a5a50800000000000000
+      internalID: 6510520903068380819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_203
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f1b19ade89a4f30800000000000000
+      internalID: 4560625719177846543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_204
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5817d7337046dbcc0800000000000000
+      internalID: -3693686137282530939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735407ba9f0aa9bd0800000000000000
+      internalID: -2622606838806330057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_206
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e41d7bc766b3bd0800000000000000
+      internalID: -2649411269931479546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_207
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa9dabc8db36dd70800000000000000
+      internalID: 9067500702073199273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_208
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c37fc78d62ef9b00800000000000000
+      internalID: 837637015772033992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_209
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccebead5efae75f0800000000000000
+      internalID: -756974285596398389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_210
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdf6b92c5b8dd270800000000000000
+      internalID: 8276924918129950140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af358b58030493ba0800000000000000
+      internalID: -6108780842405309446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_212
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ade022bcb2e9f80800000000000000
+      internalID: -8097986928515818867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_213
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc197cd4446b54e0800000000000000
+      internalID: -1991888163261834042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465d82c31af50f6a0800000000000000
+      internalID: -6417524322899274396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b96a7d1bb235b70800000000000000
+      internalID: 8886494532559346463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_216
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf6a9b1a466b380800000000000000
+      internalID: -8955860163212411731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6b7c1f478a81030800000000000000
+      internalID: 3465705133487666923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd860fbe2ca7fd440800000000000000
+      internalID: 4962820291986221277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9052dab08cbb61890800000000000000
+      internalID: -7487590862593121015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_220
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf1e4de7f546d1f0800000000000000
+      internalID: -1020551334412279873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_221
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27bf66a6668d060800000000000000
+      internalID: 6978440229790905070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_222
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 16
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ded5c19c4794f130800000000000000
+      internalID: 3599668357294841559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_223
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164fc84022aee5ec0800000000000000
+      internalID: -3576163622259461023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_224
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b410a958135cabd10800000000000000
+      internalID: 2142241389253624139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694f3456bf639be10800000000000000
+      internalID: 2213861145192952982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_226
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb413e510ce26c00800000000000000
+      internalID: 892535166792190903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_227
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e9b29422100e30800000000000000
+      internalID: 4467590778641311848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_228
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c8c6271c369d10800000000000000
+      internalID: 2131957543739114494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_229
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba9abef254b6eb0800000000000000
+      internalID: -4725607311875658771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_230
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5a1bff776b20740800000000000000
+      internalID: 5116852753153500600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Kitchen_Shadowless_231
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba363aa52e6f340800000000000000
+      internalID: 4897350523728145322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

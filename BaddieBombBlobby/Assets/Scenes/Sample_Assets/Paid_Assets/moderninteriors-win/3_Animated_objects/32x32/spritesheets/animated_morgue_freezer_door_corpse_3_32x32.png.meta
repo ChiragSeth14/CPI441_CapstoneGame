@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 23ca0cff1f55aec4b982037772c366f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5365601329016588597
+    second: animated_morgue_freezer_door_corpse_3_32x32_0
+  - first:
+      213: -7164438007737655852
+    second: animated_morgue_freezer_door_corpse_3_32x32_1
+  - first:
+      213: 2561780166585745734
+    second: animated_morgue_freezer_door_corpse_3_32x32_2
+  - first:
+      213: -986444372789812988
+    second: animated_morgue_freezer_door_corpse_3_32x32_3
+  - first:
+      213: 8525288447372032196
+    second: animated_morgue_freezer_door_corpse_3_32x32_4
+  - first:
+      213: 2360453880560789707
+    second: animated_morgue_freezer_door_corpse_3_32x32_5
+  - first:
+      213: 7547714735537605882
+    second: animated_morgue_freezer_door_corpse_3_32x32_6
+  - first:
+      213: -4231031474220834996
+    second: animated_morgue_freezer_door_corpse_3_32x32_7
+  - first:
+      213: 6314037672573669836
+    second: animated_morgue_freezer_door_corpse_3_32x32_8
+  - first:
+      213: 6383640822514662841
+    second: animated_morgue_freezer_door_corpse_3_32x32_9
+  - first:
+      213: 4918253673654297599
+    second: animated_morgue_freezer_door_corpse_3_32x32_10
+  - first:
+      213: 5928113553561765412
+    second: animated_morgue_freezer_door_corpse_3_32x32_11
+  - first:
+      213: -6413639301373496525
+    second: animated_morgue_freezer_door_corpse_3_32x32_12
+  - first:
+      213: 13767256579637465
+    second: animated_morgue_freezer_door_corpse_3_32x32_13
+  - first:
+      213: -2886122790311875409
+    second: animated_morgue_freezer_door_corpse_3_32x32_14
+  - first:
+      213: 2888250434832975604
+    second: animated_morgue_freezer_door_corpse_3_32x32_15
+  - first:
+      213: 4702153015004343606
+    second: animated_morgue_freezer_door_corpse_3_32x32_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539c5660bf1767a40800000000000000
+      internalID: 5365601329016588597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd5d7d379dc29c90800000000000000
+      internalID: -7164438007737655852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 31
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6410cf51d754d8320800000000000000
+      internalID: 2561780166585745734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4012e21c1127f42f0800000000000000
+      internalID: -986444372789812988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 29
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f9598ca8ef4670800000000000000
+      internalID: 8525288447372032196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a4835c4402c020800000000000000
+      internalID: 2360453880560789707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc43bdff8edeb860800000000000000
+      internalID: 7547714735537605882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd1998a4b5845c0800000000000000
+      internalID: -4231031474220834996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1103c5fc7ff9750800000000000000
+      internalID: 6314037672573669836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd3baf818f379850800000000000000
+      internalID: 6383640822514662841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ac6d78a5214440800000000000000
+      internalID: 4918253673654297599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4264a345ed3e44250800000000000000
+      internalID: 5928113553561765412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 21
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f52c490d2ef6a0800000000000000
+      internalID: -6413639301373496525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 25
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d006f53f39e03000800000000000000
+      internalID: 13767256579637465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 29
+        width: 34
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2d411d9e62f7d0800000000000000
+      internalID: -2886122790311875409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 31
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f64696c770251820800000000000000
+      internalID: 2888250434832975604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_morgue_freezer_door_corpse_3_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 31
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dadda0147614140800000000000000
+      internalID: 4702153015004343606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

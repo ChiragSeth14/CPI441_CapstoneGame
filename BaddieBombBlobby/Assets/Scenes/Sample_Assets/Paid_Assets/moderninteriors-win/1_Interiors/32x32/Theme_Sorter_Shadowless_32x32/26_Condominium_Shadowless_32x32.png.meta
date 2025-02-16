@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: c270e71750b22a64fa513dd78f103a33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7952287014888966845
+    second: 26_Condominium_Shadowless_32x32_0
+  - first:
+      213: 4033341462352077371
+    second: 26_Condominium_Shadowless_32x32_1
+  - first:
+      213: 3923729447442733605
+    second: 26_Condominium_Shadowless_32x32_2
+  - first:
+      213: -4244715087389478338
+    second: 26_Condominium_Shadowless_32x32_3
+  - first:
+      213: 3077495598373084386
+    second: 26_Condominium_Shadowless_32x32_4
+  - first:
+      213: -2123249245914252256
+    second: 26_Condominium_Shadowless_32x32_5
+  - first:
+      213: -742841968687732412
+    second: 26_Condominium_Shadowless_32x32_6
+  - first:
+      213: -5106165494901753153
+    second: 26_Condominium_Shadowless_32x32_7
+  - first:
+      213: 1282100342143994225
+    second: 26_Condominium_Shadowless_32x32_8
+  - first:
+      213: 7888113091233235480
+    second: 26_Condominium_Shadowless_32x32_9
+  - first:
+      213: -4528810236730731616
+    second: 26_Condominium_Shadowless_32x32_10
+  - first:
+      213: 566365715116087017
+    second: 26_Condominium_Shadowless_32x32_11
+  - first:
+      213: -4992457872528530819
+    second: 26_Condominium_Shadowless_32x32_12
+  - first:
+      213: -6340004347176150640
+    second: 26_Condominium_Shadowless_32x32_13
+  - first:
+      213: -5603216650210363375
+    second: 26_Condominium_Shadowless_32x32_14
+  - first:
+      213: -5469362683980341145
+    second: 26_Condominium_Shadowless_32x32_15
+  - first:
+      213: 8290334350154065154
+    second: 26_Condominium_Shadowless_32x32_16
+  - first:
+      213: 4477639310009706369
+    second: 26_Condominium_Shadowless_32x32_17
+  - first:
+      213: -5074284323001480370
+    second: 26_Condominium_Shadowless_32x32_18
+  - first:
+      213: -1734635964379454635
+    second: 26_Condominium_Shadowless_32x32_19
+  - first:
+      213: -6785528419945262146
+    second: 26_Condominium_Shadowless_32x32_20
+  - first:
+      213: 6021592717091621585
+    second: 26_Condominium_Shadowless_32x32_21
+  - first:
+      213: -8339430604465444910
+    second: 26_Condominium_Shadowless_32x32_22
+  - first:
+      213: -4574249246162152342
+    second: 26_Condominium_Shadowless_32x32_23
+  - first:
+      213: 2946299742596741030
+    second: 26_Condominium_Shadowless_32x32_24
+  - first:
+      213: -9117178476253207082
+    second: 26_Condominium_Shadowless_32x32_25
+  - first:
+      213: -3773010662910146701
+    second: 26_Condominium_Shadowless_32x32_26
+  - first:
+      213: -2348998994234046274
+    second: 26_Condominium_Shadowless_32x32_27
+  - first:
+      213: 3942213315967738117
+    second: 26_Condominium_Shadowless_32x32_28
+  - first:
+      213: 3218609939993640641
+    second: 26_Condominium_Shadowless_32x32_29
+  - first:
+      213: -1241270227926267381
+    second: 26_Condominium_Shadowless_32x32_30
+  - first:
+      213: -4717665820420082074
+    second: 26_Condominium_Shadowless_32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 385
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba886238e23c5e60800000000000000
+      internalID: 7952287014888966845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 583
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a951c0be49f730800000000000000
+      internalID: 4033341462352077371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 583
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a5095c423e37630800000000000000
+      internalID: 3923729447442733605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 479
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b8631e1eb715c0800000000000000
+      internalID: -4244715087389478338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 385
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1bd201f575ba20800000000000000
+      internalID: 3077495598373084386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 415
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3aaf6f04b882e0800000000000000
+      internalID: -2123249245914252256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 479
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ad1c4a25e0b5f0800000000000000
+      internalID: -742841968687732412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 385
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba360839814329b0800000000000000
+      internalID: -5106165494901753153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 387
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17946e3e77feac110800000000000000
+      internalID: 1282100342143994225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812c01f3015387d60800000000000000
+      internalID: 7888113091233235480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 355
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a31388951f6621c0800000000000000
+      internalID: -4528810236730731616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6547efd922cd700800000000000000
+      internalID: 566365715116087017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 323
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72a5df140a37bab0800000000000000
+      internalID: -4992457872528530819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099122413a7c308a0800000000000000
+      internalID: -6340004347176150640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 209
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11838acc4206d32b0800000000000000
+      internalID: -5603216650210363375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 287
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7602399ed9be814b0800000000000000
+      internalID: -5469362683980341145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 321
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e62ada2f2d0370800000000000000
+      internalID: 8290334350154065154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 145
+        width: 38
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18724799a35c32e30800000000000000
+      internalID: 4477639310009706369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 229
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc92efa458499b0800000000000000
+      internalID: -5074284323001480370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 97
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ab88e7c55de7e0800000000000000
+      internalID: -1734635964379454635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 165
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb358d37ad5f4d1a0800000000000000
+      internalID: -6785528419945262146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 193
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da43542caef09350800000000000000
+      internalID: 6021592717091621585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e0d7ac04644c80800000000000000
+      internalID: -8339430604465444910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a641868cb800580c0800000000000000
+      internalID: -4574249246162152342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 101
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7bd47710c53e820800000000000000
+      internalID: 2946299742596741030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 53
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d527111b76497180800000000000000
+      internalID: -9117178476253207082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 77
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ca77dac293abc0800000000000000
+      internalID: -3773010662910146701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 31
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80eea3cdda66fd0800000000000000
+      internalID: -2348998994234046274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 19
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016217cf1e85b630800000000000000
+      internalID: 3942213315967738117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cebcdfffaccaac20800000000000000
+      internalID: 3218609939993640641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 53
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0acf22ed4f16cee0800000000000000
+      internalID: -1241270227926267381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26_Condominium_Shadowless_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666fbdc7eeb778eb0800000000000000
+      internalID: -4717665820420082074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

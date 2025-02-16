@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: dcc66a8b65087284e9b3bfa295951e07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2978913211001912979
+    second: Tileset - Fungus cave and Refugee outpost 48x48_0
+  - first:
+      213: -212948889751229181
+    second: Tileset - Fungus cave and Refugee outpost 48x48_1
+  - first:
+      213: -1431132211950020721
+    second: Tileset - Fungus cave and Refugee outpost 48x48_2
+  - first:
+      213: -1249682381640391684
+    second: Tileset - Fungus cave and Refugee outpost 48x48_3
+  - first:
+      213: -4223142768903494294
+    second: Tileset - Fungus cave and Refugee outpost 48x48_4
+  - first:
+      213: 8659789562689243824
+    second: Tileset - Fungus cave and Refugee outpost 48x48_5
+  - first:
+      213: -486878594879400833
+    second: Tileset - Fungus cave and Refugee outpost 48x48_6
+  - first:
+      213: 935874683040460773
+    second: Tileset - Fungus cave and Refugee outpost 48x48_7
+  - first:
+      213: 9084155745802657428
+    second: Tileset - Fungus cave and Refugee outpost 48x48_8
+  - first:
+      213: 9055586211319908796
+    second: Tileset - Fungus cave and Refugee outpost 48x48_9
+  - first:
+      213: -8128480254161268915
+    second: Tileset - Fungus cave and Refugee outpost 48x48_10
+  - first:
+      213: -5763179469829637511
+    second: Tileset - Fungus cave and Refugee outpost 48x48_11
+  - first:
+      213: -2271128884404489857
+    second: Tileset - Fungus cave and Refugee outpost 48x48_12
+  - first:
+      213: -5718210403643971248
+    second: Tileset - Fungus cave and Refugee outpost 48x48_13
+  - first:
+      213: 4744022284654545265
+    second: Tileset - Fungus cave and Refugee outpost 48x48_14
+  - first:
+      213: -1917831421694684721
+    second: Tileset - Fungus cave and Refugee outpost 48x48_15
+  - first:
+      213: 7461428577233637235
+    second: Tileset - Fungus cave and Refugee outpost 48x48_16
+  - first:
+      213: 2723229237061902834
+    second: Tileset - Fungus cave and Refugee outpost 48x48_17
+  - first:
+      213: 6196647775703042748
+    second: Tileset - Fungus cave and Refugee outpost 48x48_18
+  - first:
+      213: -5447169050201649284
+    second: Tileset - Fungus cave and Refugee outpost 48x48_19
+  - first:
+      213: -1257196348069807966
+    second: Tileset - Fungus cave and Refugee outpost 48x48_20
+  - first:
+      213: -2990981729777372347
+    second: Tileset - Fungus cave and Refugee outpost 48x48_21
+  - first:
+      213: -1852462623185895779
+    second: Tileset - Fungus cave and Refugee outpost 48x48_22
+  - first:
+      213: -6265298088800754962
+    second: Tileset - Fungus cave and Refugee outpost 48x48_23
+  - first:
+      213: -8833136465680405543
+    second: Tileset - Fungus cave and Refugee outpost 48x48_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 384
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ebc7e48c9375920800000000000000
+      internalID: 2978913211001912979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1115
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d601fec147b0df0800000000000000
+      internalID: -212948889751229181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f879910f5d8932ce0800000000000000
+      internalID: -1431132211950020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a248be7c38aee0800000000000000
+      internalID: -1249682381640391684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1130
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656fbfd6026465c0800000000000000
+      internalID: -4223142768903494294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1121
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4ab9c9b0cd2870800000000000000
+      internalID: 8659789562689243824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1115
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d87f5f724e39f0800000000000000
+      internalID: -486878594879400833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1103
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef68e4d015ecfc00800000000000000
+      internalID: 935874683040460773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1106
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e14e85587611e70800000000000000
+      internalID: 9084155745802657428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1070
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb906ae3ea7ebad70800000000000000
+      internalID: 9055586211319908796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fc0fe7646d13f80800000000000000
+      internalID: -8128480254161268915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1109
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97afafb8ec21500b0800000000000000
+      internalID: -5763179469829637511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1109
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71f0f500545b70e0800000000000000
+      internalID: -2271128884404489857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059abdb2fe5d4a0b0800000000000000
+      internalID: -5718210403643971248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790f5b022726d140800000000000000
+      internalID: 4744022284654545265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 384
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc15ecaab7e7265e0800000000000000
+      internalID: -1917831421694684721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f85f632c15c8760800000000000000
+      internalID: 7461428577233637235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f16805109adac520800000000000000
+      internalID: 2723229237061902834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba8efc125aeef550800000000000000
+      internalID: 6196647775703042748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 241
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f8a33fb94c764b0800000000000000
+      internalID: -5447169050201649284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a87164159a8d8ee0800000000000000
+      internalID: -1257196348069807966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 299
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543bfe2b6f5ed76d0800000000000000
+      internalID: -2990981729777372347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 146
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ef0591f0bba46e0800000000000000
+      internalID: -1852462623185895779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e81d45903d09a0800000000000000
+      internalID: -6265298088800754962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Fungus cave and Refugee outpost 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe1963f256a6580800000000000000
+      internalID: -8833136465680405543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

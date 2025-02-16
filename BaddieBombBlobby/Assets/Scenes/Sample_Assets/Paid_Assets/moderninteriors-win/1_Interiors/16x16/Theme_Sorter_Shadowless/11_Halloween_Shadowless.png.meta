@@ -1,0 +1,5568 @@
+fileFormatVersion: 2
+guid: cc252a657ed337b49a18639e8c8ca634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7395809747617163182
+    second: 11_Halloween_Shadowless_0
+  - first:
+      213: -2938266610278507709
+    second: 11_Halloween_Shadowless_1
+  - first:
+      213: -6929273320054136827
+    second: 11_Halloween_Shadowless_2
+  - first:
+      213: -9065166111426176425
+    second: 11_Halloween_Shadowless_3
+  - first:
+      213: 6773421809581897109
+    second: 11_Halloween_Shadowless_4
+  - first:
+      213: -7793723300641157114
+    second: 11_Halloween_Shadowless_5
+  - first:
+      213: 1975776179797852445
+    second: 11_Halloween_Shadowless_6
+  - first:
+      213: 3390708243652800606
+    second: 11_Halloween_Shadowless_7
+  - first:
+      213: -7012050101590302372
+    second: 11_Halloween_Shadowless_8
+  - first:
+      213: -1024546143576260363
+    second: 11_Halloween_Shadowless_9
+  - first:
+      213: 4438541437230127455
+    second: 11_Halloween_Shadowless_10
+  - first:
+      213: 2175487666663484535
+    second: 11_Halloween_Shadowless_11
+  - first:
+      213: -3752081247980889478
+    second: 11_Halloween_Shadowless_12
+  - first:
+      213: -5574848569198233668
+    second: 11_Halloween_Shadowless_13
+  - first:
+      213: 2943515016783783687
+    second: 11_Halloween_Shadowless_14
+  - first:
+      213: 9198874539458422956
+    second: 11_Halloween_Shadowless_15
+  - first:
+      213: 4207934548600150126
+    second: 11_Halloween_Shadowless_16
+  - first:
+      213: -8406127920469004281
+    second: 11_Halloween_Shadowless_17
+  - first:
+      213: -3921072062370689146
+    second: 11_Halloween_Shadowless_18
+  - first:
+      213: -8386111431976535925
+    second: 11_Halloween_Shadowless_19
+  - first:
+      213: 1565570560993543533
+    second: 11_Halloween_Shadowless_20
+  - first:
+      213: 3073953381947485446
+    second: 11_Halloween_Shadowless_21
+  - first:
+      213: -6256855215615238657
+    second: 11_Halloween_Shadowless_22
+  - first:
+      213: 1119466153677966127
+    second: 11_Halloween_Shadowless_23
+  - first:
+      213: -2866901099015381184
+    second: 11_Halloween_Shadowless_24
+  - first:
+      213: -635343134306779549
+    second: 11_Halloween_Shadowless_25
+  - first:
+      213: -3196087686457598860
+    second: 11_Halloween_Shadowless_26
+  - first:
+      213: 7068437488144800716
+    second: 11_Halloween_Shadowless_27
+  - first:
+      213: -7784552163167338940
+    second: 11_Halloween_Shadowless_28
+  - first:
+      213: -6545286527745752144
+    second: 11_Halloween_Shadowless_29
+  - first:
+      213: -951467162362080142
+    second: 11_Halloween_Shadowless_30
+  - first:
+      213: 111848927899835853
+    second: 11_Halloween_Shadowless_31
+  - first:
+      213: -2521461295038945162
+    second: 11_Halloween_Shadowless_32
+  - first:
+      213: 45022420773009264
+    second: 11_Halloween_Shadowless_33
+  - first:
+      213: 8067165795341831915
+    second: 11_Halloween_Shadowless_34
+  - first:
+      213: 5628793092676739936
+    second: 11_Halloween_Shadowless_35
+  - first:
+      213: -7144829093304866389
+    second: 11_Halloween_Shadowless_36
+  - first:
+      213: -1560875411375671014
+    second: 11_Halloween_Shadowless_37
+  - first:
+      213: 3526417129594227203
+    second: 11_Halloween_Shadowless_38
+  - first:
+      213: -2656066670439637145
+    second: 11_Halloween_Shadowless_39
+  - first:
+      213: -5153645041272207812
+    second: 11_Halloween_Shadowless_40
+  - first:
+      213: -6541012377420529882
+    second: 11_Halloween_Shadowless_41
+  - first:
+      213: 1387319995133310413
+    second: 11_Halloween_Shadowless_42
+  - first:
+      213: 8302513068628159498
+    second: 11_Halloween_Shadowless_43
+  - first:
+      213: -515143707089179077
+    second: 11_Halloween_Shadowless_44
+  - first:
+      213: -8275079183359488197
+    second: 11_Halloween_Shadowless_45
+  - first:
+      213: 7951630614132956506
+    second: 11_Halloween_Shadowless_46
+  - first:
+      213: -4986381250150730991
+    second: 11_Halloween_Shadowless_47
+  - first:
+      213: 573076495290749525
+    second: 11_Halloween_Shadowless_48
+  - first:
+      213: -4607592792370564078
+    second: 11_Halloween_Shadowless_49
+  - first:
+      213: 8159613585562377878
+    second: 11_Halloween_Shadowless_50
+  - first:
+      213: 2380042598816297918
+    second: 11_Halloween_Shadowless_51
+  - first:
+      213: -4910783446335230339
+    second: 11_Halloween_Shadowless_52
+  - first:
+      213: -5348385624497046005
+    second: 11_Halloween_Shadowless_53
+  - first:
+      213: 3290047535254580607
+    second: 11_Halloween_Shadowless_54
+  - first:
+      213: -4664841520129028763
+    second: 11_Halloween_Shadowless_55
+  - first:
+      213: -8619298405420128007
+    second: 11_Halloween_Shadowless_56
+  - first:
+      213: 996651631631723971
+    second: 11_Halloween_Shadowless_57
+  - first:
+      213: 1941022097901404527
+    second: 11_Halloween_Shadowless_58
+  - first:
+      213: -3960410841560096359
+    second: 11_Halloween_Shadowless_59
+  - first:
+      213: 8399918204806916302
+    second: 11_Halloween_Shadowless_60
+  - first:
+      213: -7879365936429868102
+    second: 11_Halloween_Shadowless_61
+  - first:
+      213: 1964836210861005823
+    second: 11_Halloween_Shadowless_62
+  - first:
+      213: 1093052769741480650
+    second: 11_Halloween_Shadowless_63
+  - first:
+      213: 7447083937351351900
+    second: 11_Halloween_Shadowless_64
+  - first:
+      213: 4046341454922163205
+    second: 11_Halloween_Shadowless_65
+  - first:
+      213: 4046984442550385642
+    second: 11_Halloween_Shadowless_66
+  - first:
+      213: -4030039523895446086
+    second: 11_Halloween_Shadowless_67
+  - first:
+      213: -9038275275771702386
+    second: 11_Halloween_Shadowless_68
+  - first:
+      213: 9047926948211842024
+    second: 11_Halloween_Shadowless_69
+  - first:
+      213: 6607628850274786579
+    second: 11_Halloween_Shadowless_70
+  - first:
+      213: -1915415495633202690
+    second: 11_Halloween_Shadowless_71
+  - first:
+      213: -980293385736889748
+    second: 11_Halloween_Shadowless_72
+  - first:
+      213: 6354693166906023903
+    second: 11_Halloween_Shadowless_73
+  - first:
+      213: 7202762350067845715
+    second: 11_Halloween_Shadowless_74
+  - first:
+      213: 2506524719053803025
+    second: 11_Halloween_Shadowless_75
+  - first:
+      213: -2958474807363826634
+    second: 11_Halloween_Shadowless_76
+  - first:
+      213: 4613222638484865893
+    second: 11_Halloween_Shadowless_77
+  - first:
+      213: -1684424070534661350
+    second: 11_Halloween_Shadowless_78
+  - first:
+      213: 5295185580331682654
+    second: 11_Halloween_Shadowless_79
+  - first:
+      213: 6846938941695733543
+    second: 11_Halloween_Shadowless_80
+  - first:
+      213: -4729224314231375391
+    second: 11_Halloween_Shadowless_81
+  - first:
+      213: 419536331942491104
+    second: 11_Halloween_Shadowless_82
+  - first:
+      213: 8812664436825902054
+    second: 11_Halloween_Shadowless_83
+  - first:
+      213: -6123035297247795854
+    second: 11_Halloween_Shadowless_84
+  - first:
+      213: 4487234707253619199
+    second: 11_Halloween_Shadowless_85
+  - first:
+      213: 5577825236891079672
+    second: 11_Halloween_Shadowless_86
+  - first:
+      213: 4325850582636574941
+    second: 11_Halloween_Shadowless_87
+  - first:
+      213: -1762319415602592625
+    second: 11_Halloween_Shadowless_88
+  - first:
+      213: 2709790069295643647
+    second: 11_Halloween_Shadowless_89
+  - first:
+      213: 4120934167036806538
+    second: 11_Halloween_Shadowless_90
+  - first:
+      213: 7596804261576881949
+    second: 11_Halloween_Shadowless_91
+  - first:
+      213: 3499533909415903433
+    second: 11_Halloween_Shadowless_92
+  - first:
+      213: -2039059700759849196
+    second: 11_Halloween_Shadowless_93
+  - first:
+      213: 6129258731045811195
+    second: 11_Halloween_Shadowless_94
+  - first:
+      213: -3752471948460525500
+    second: 11_Halloween_Shadowless_95
+  - first:
+      213: -4324643297874449640
+    second: 11_Halloween_Shadowless_96
+  - first:
+      213: 8648946597786689236
+    second: 11_Halloween_Shadowless_97
+  - first:
+      213: 7956956573618003232
+    second: 11_Halloween_Shadowless_98
+  - first:
+      213: -4921042817221320807
+    second: 11_Halloween_Shadowless_99
+  - first:
+      213: -2629661137389578625
+    second: 11_Halloween_Shadowless_100
+  - first:
+      213: 177311773767262848
+    second: 11_Halloween_Shadowless_101
+  - first:
+      213: 1879151255009260938
+    second: 11_Halloween_Shadowless_102
+  - first:
+      213: -6063337706007413263
+    second: 11_Halloween_Shadowless_103
+  - first:
+      213: -8624048595412301647
+    second: 11_Halloween_Shadowless_104
+  - first:
+      213: 5673845927957629204
+    second: 11_Halloween_Shadowless_105
+  - first:
+      213: 5309577061703379738
+    second: 11_Halloween_Shadowless_106
+  - first:
+      213: 5899848666414075976
+    second: 11_Halloween_Shadowless_107
+  - first:
+      213: 3429963831700455369
+    second: 11_Halloween_Shadowless_108
+  - first:
+      213: 5364498168381925295
+    second: 11_Halloween_Shadowless_109
+  - first:
+      213: 7322111675373037734
+    second: 11_Halloween_Shadowless_110
+  - first:
+      213: -776588720844107365
+    second: 11_Halloween_Shadowless_111
+  - first:
+      213: -4055911025583063562
+    second: 11_Halloween_Shadowless_112
+  - first:
+      213: -2880043678162446192
+    second: 11_Halloween_Shadowless_113
+  - first:
+      213: 3762150816272350456
+    second: 11_Halloween_Shadowless_114
+  - first:
+      213: -7238965649971531581
+    second: 11_Halloween_Shadowless_115
+  - first:
+      213: -7839448263259916951
+    second: 11_Halloween_Shadowless_116
+  - first:
+      213: 6658091039827498388
+    second: 11_Halloween_Shadowless_117
+  - first:
+      213: 4394079214546431589
+    second: 11_Halloween_Shadowless_118
+  - first:
+      213: -5073604554253428358
+    second: 11_Halloween_Shadowless_119
+  - first:
+      213: 554666781698657515
+    second: 11_Halloween_Shadowless_120
+  - first:
+      213: 4386565971845101025
+    second: 11_Halloween_Shadowless_121
+  - first:
+      213: 7558670498227842158
+    second: 11_Halloween_Shadowless_122
+  - first:
+      213: 9154635574464751066
+    second: 11_Halloween_Shadowless_123
+  - first:
+      213: -7201055489209578053
+    second: 11_Halloween_Shadowless_124
+  - first:
+      213: 9195045511683728005
+    second: 11_Halloween_Shadowless_125
+  - first:
+      213: 5018464152734382185
+    second: 11_Halloween_Shadowless_126
+  - first:
+      213: -3292965042925195257
+    second: 11_Halloween_Shadowless_127
+  - first:
+      213: 1409283190703444731
+    second: 11_Halloween_Shadowless_128
+  - first:
+      213: 438992101176381980
+    second: 11_Halloween_Shadowless_129
+  - first:
+      213: -8092796658054814424
+    second: 11_Halloween_Shadowless_130
+  - first:
+      213: 2353346645364895040
+    second: 11_Halloween_Shadowless_131
+  - first:
+      213: 9008513322949981619
+    second: 11_Halloween_Shadowless_132
+  - first:
+      213: 1971603149041760507
+    second: 11_Halloween_Shadowless_133
+  - first:
+      213: 711654314376073192
+    second: 11_Halloween_Shadowless_134
+  - first:
+      213: 5603615878157944610
+    second: 11_Halloween_Shadowless_135
+  - first:
+      213: 409839985986600161
+    second: 11_Halloween_Shadowless_136
+  - first:
+      213: -6125146647924959371
+    second: 11_Halloween_Shadowless_137
+  - first:
+      213: 4096496561175236352
+    second: 11_Halloween_Shadowless_138
+  - first:
+      213: -2238669736189096862
+    second: 11_Halloween_Shadowless_139
+  - first:
+      213: -4996027140047714548
+    second: 11_Halloween_Shadowless_140
+  - first:
+      213: 3959348902358822800
+    second: 11_Halloween_Shadowless_141
+  - first:
+      213: 1825291428956114864
+    second: 11_Halloween_Shadowless_142
+  - first:
+      213: -6655618691595981805
+    second: 11_Halloween_Shadowless_143
+  - first:
+      213: 4159737163013827969
+    second: 11_Halloween_Shadowless_144
+  - first:
+      213: 714075448113446359
+    second: 11_Halloween_Shadowless_145
+  - first:
+      213: 3545071351416940134
+    second: 11_Halloween_Shadowless_146
+  - first:
+      213: 6677370634284810627
+    second: 11_Halloween_Shadowless_147
+  - first:
+      213: 329499987156342983
+    second: 11_Halloween_Shadowless_148
+  - first:
+      213: -4343283086641175467
+    second: 11_Halloween_Shadowless_149
+  - first:
+      213: -7949293721268269044
+    second: 11_Halloween_Shadowless_150
+  - first:
+      213: -8549921662754423945
+    second: 11_Halloween_Shadowless_151
+  - first:
+      213: -3575923668213007147
+    second: 11_Halloween_Shadowless_152
+  - first:
+      213: 3749212611655567648
+    second: 11_Halloween_Shadowless_153
+  - first:
+      213: -7610756736939059940
+    second: 11_Halloween_Shadowless_154
+  - first:
+      213: -742693326402212959
+    second: 11_Halloween_Shadowless_155
+  - first:
+      213: -9003710153561960651
+    second: 11_Halloween_Shadowless_156
+  - first:
+      213: 1207832295144515429
+    second: 11_Halloween_Shadowless_157
+  - first:
+      213: -2410430784604814425
+    second: 11_Halloween_Shadowless_158
+  - first:
+      213: -5120194648392715166
+    second: 11_Halloween_Shadowless_159
+  - first:
+      213: 756121789176715635
+    second: 11_Halloween_Shadowless_160
+  - first:
+      213: -6847590597587074349
+    second: 11_Halloween_Shadowless_161
+  - first:
+      213: 5294158258316247334
+    second: 11_Halloween_Shadowless_162
+  - first:
+      213: 7492711344743658523
+    second: 11_Halloween_Shadowless_163
+  - first:
+      213: -5416331131279076627
+    second: 11_Halloween_Shadowless_164
+  - first:
+      213: 923060887893115353
+    second: 11_Halloween_Shadowless_165
+  - first:
+      213: 9147570398996219449
+    second: 11_Halloween_Shadowless_166
+  - first:
+      213: 3017591763050498532
+    second: 11_Halloween_Shadowless_167
+  - first:
+      213: -525320891873161238
+    second: 11_Halloween_Shadowless_168
+  - first:
+      213: 1353142572555851324
+    second: 11_Halloween_Shadowless_169
+  - first:
+      213: -3287161537547254466
+    second: 11_Halloween_Shadowless_170
+  - first:
+      213: 8453040480080091685
+    second: 11_Halloween_Shadowless_171
+  - first:
+      213: -5365412205181643232
+    second: 11_Halloween_Shadowless_172
+  - first:
+      213: -3416415578901740141
+    second: 11_Halloween_Shadowless_173
+  - first:
+      213: 3348198100251576358
+    second: 11_Halloween_Shadowless_174
+  - first:
+      213: 5676565895578571386
+    second: 11_Halloween_Shadowless_175
+  - first:
+      213: -8053871107290403600
+    second: 11_Halloween_Shadowless_176
+  - first:
+      213: -6889945791762600081
+    second: 11_Halloween_Shadowless_177
+  - first:
+      213: -2050333006620351972
+    second: 11_Halloween_Shadowless_178
+  - first:
+      213: 2366170148244411689
+    second: 11_Halloween_Shadowless_179
+  - first:
+      213: 6779523099966736975
+    second: 11_Halloween_Shadowless_180
+  - first:
+      213: 1544629479615763106
+    second: 11_Halloween_Shadowless_181
+  - first:
+      213: -8079484045779703161
+    second: 11_Halloween_Shadowless_182
+  - first:
+      213: 3911134865503816412
+    second: 11_Halloween_Shadowless_183
+  - first:
+      213: 5789598508521364569
+    second: 11_Halloween_Shadowless_184
+  - first:
+      213: 1577745113069741443
+    second: 11_Halloween_Shadowless_185
+  - first:
+      213: 3832437369691784567
+    second: 11_Halloween_Shadowless_186
+  - first:
+      213: 1204034136563937883
+    second: 11_Halloween_Shadowless_187
+  - first:
+      213: -3877482810451250384
+    second: 11_Halloween_Shadowless_188
+  - first:
+      213: -2569658756862088116
+    second: 11_Halloween_Shadowless_189
+  - first:
+      213: -2285516625423025380
+    second: 11_Halloween_Shadowless_190
+  - first:
+      213: -1885266876404484644
+    second: 11_Halloween_Shadowless_191
+  - first:
+      213: -1349279399958229992
+    second: 11_Halloween_Shadowless_192
+  - first:
+      213: 6546733880639339147
+    second: 11_Halloween_Shadowless_193
+  - first:
+      213: 8092435709185237923
+    second: 11_Halloween_Shadowless_194
+  - first:
+      213: 2494748148688624931
+    second: 11_Halloween_Shadowless_195
+  - first:
+      213: -2766281543397970222
+    second: 11_Halloween_Shadowless_196
+  - first:
+      213: 4904419246427214546
+    second: 11_Halloween_Shadowless_197
+  - first:
+      213: 477419408668378597
+    second: 11_Halloween_Shadowless_198
+  - first:
+      213: 4006235470816111076
+    second: 11_Halloween_Shadowless_199
+  - first:
+      213: -9200829051730692987
+    second: 11_Halloween_Shadowless_200
+  - first:
+      213: -6188768770300962603
+    second: 11_Halloween_Shadowless_201
+  - first:
+      213: -5733368530534726385
+    second: 11_Halloween_Shadowless_202
+  - first:
+      213: -5774407175171468245
+    second: 11_Halloween_Shadowless_203
+  - first:
+      213: -1567508062374989780
+    second: 11_Halloween_Shadowless_204
+  - first:
+      213: 277613878116116703
+    second: 11_Halloween_Shadowless_205
+  - first:
+      213: 6195052700095708731
+    second: 11_Halloween_Shadowless_206
+  - first:
+      213: -2996072049036861732
+    second: 11_Halloween_Shadowless_207
+  - first:
+      213: 678606421332316806
+    second: 11_Halloween_Shadowless_208
+  - first:
+      213: -3727411327741785430
+    second: 11_Halloween_Shadowless_209
+  - first:
+      213: -7543647736550127472
+    second: 11_Halloween_Shadowless_210
+  - first:
+      213: -5021474634338073454
+    second: 11_Halloween_Shadowless_211
+  - first:
+      213: -7235081657917711760
+    second: 11_Halloween_Shadowless_212
+  - first:
+      213: -166251967694740675
+    second: 11_Halloween_Shadowless_213
+  - first:
+      213: 8454547604018745467
+    second: 11_Halloween_Shadowless_214
+  - first:
+      213: -7041511591302518116
+    second: 11_Halloween_Shadowless_215
+  - first:
+      213: 8063418076544444736
+    second: 11_Halloween_Shadowless_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 956
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a711e7c133a660800000000000000
+      internalID: 7395809747617163182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 954
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b55f6e51e2937d0800000000000000
+      internalID: -2938266610278507709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 954
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e496d0a646df90800000000000000
+      internalID: -6929273320054136827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 954
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a9882737f023280800000000000000
+      internalID: -9065166111426176425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 954
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595330aaf37000e50800000000000000
+      internalID: 6773421809581897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 952
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600599373f127d390800000000000000
+      internalID: -7793723300641157114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 948
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d118788a7fd5b6b10800000000000000
+      internalID: 1975776179797852445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 949
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50f9efce273e0f20800000000000000
+      internalID: 3390708243652800606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e773859130be90800000000000000
+      internalID: -7012050101590302372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 922
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f00420f5b418c1f0800000000000000
+      internalID: -1024546143576260363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 922
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5914f6bbedd89d30800000000000000
+      internalID: 4438541437230127455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 922
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c68b0b182e03e10800000000000000
+      internalID: 2175487666663484535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 922
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad1bdfbfdedebc0800000000000000
+      internalID: -3752081247980889478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 920
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7385c53c822a2b0800000000000000
+      internalID: -5574848569198233668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 922
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ec66ff4779d820800000000000000
+      internalID: 2943515016783783687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 922
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8edc9e7a7f8af70800000000000000
+      internalID: 9198874539458422956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 922
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d7676d26956a30800000000000000
+      internalID: 4207934548600150126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 922
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700b3f3a13f675b80800000000000000
+      internalID: -8406127920469004281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 920
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fcfa7ebbd8599c0800000000000000
+      internalID: -3921072062370689146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 891
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88323a851c8e9b80800000000000000
+      internalID: -8386111431976535925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6544d661260ab510800000000000000
+      internalID: 1565570560993543533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 879
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d271b7050e8aa20800000000000000
+      internalID: 3073953381947485446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 879
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1436e45f2b29a0800000000000000
+      internalID: -6256855215615238657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 879
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4c0c1984298f00800000000000000
+      internalID: 1119466153677966127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 879
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd203d3a8b638d0800000000000000
+      internalID: -2866901099015381184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 870
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e392919cece27f0800000000000000
+      internalID: -635343134306779549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 870
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cd1b9ce2735a3d0800000000000000
+      internalID: -3196087686457598860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 852
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbdcedf172281260800000000000000
+      internalID: 7068437488144800716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 855
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e79ea4d07b7f390800000000000000
+      internalID: -7784552163167338940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 850
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b38098d4987a25a0800000000000000
+      internalID: -6545286527745752144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 850
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27495fb28a5bbc2f0800000000000000
+      internalID: -951467162362080142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 858
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5affd10e5d8100800000000000000
+      internalID: 111848927899835853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 851
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ae4abf48f10dd0800000000000000
+      internalID: -2521461295038945162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 838
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0777a1537a3ff9000800000000000000
+      internalID: 45022420773009264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 818
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee08879c8454ff60800000000000000
+      internalID: 8067165795341831915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 784
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636b23ce7d7d1e40800000000000000
+      internalID: 5628793092676739936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 820
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9efa86bc778dc90800000000000000
+      internalID: -7144829093304866389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 821
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19bf4e4518a65ae0800000000000000
+      internalID: -1560875411375671014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 821
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a015312b950f030800000000000000
+      internalID: 3526417129594227203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 820
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fd0b88f61c32bd0800000000000000
+      internalID: -2656066670439637145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 767
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364480e3239a78b0800000000000000
+      internalID: -5153645041272207812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 788
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7a6406e7a935a0800000000000000
+      internalID: -6541012377420529882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 783
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b7bb6f20c04310800000000000000
+      internalID: 1387319995133310413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 783
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cae96b5a3783370800000000000000
+      internalID: 8302513068628159498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 789
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eebaa1787d9d8f0800000000000000
+      internalID: -515143707089179077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 782
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fc0a37353092d80800000000000000
+      internalID: -8275079183359488197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 782
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d148cf9edd95e60800000000000000
+      internalID: 7951630614132956506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 767
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f8160ca0dccab0800000000000000
+      internalID: -4986381250150730991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 767
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525ee2490af3f700800000000000000
+      internalID: 573076495290749525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 770
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143a1574ca8e00c0800000000000000
+      internalID: -4607592792370564078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 769
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e95e71355cc3170800000000000000
+      internalID: 8159613585562377878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 768
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33eb4322c970120800000000000000
+      internalID: 2380042598816297918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 757
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee158597469dbb0800000000000000
+      internalID: -4910783446335230339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 757
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e3c0a8c97b6c5b0800000000000000
+      internalID: -5348385624497046005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 757
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7daff84dc898ad20800000000000000
+      internalID: 3290047535254580607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 757
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d47335a57234fb0800000000000000
+      internalID: -4664841520129028763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 729
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8a7db64c9126880800000000000000
+      internalID: -8619298405420128007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 732
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cde834e061d4dd00800000000000000
+      internalID: 996651631631723971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 745
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c8966055efea10800000000000000
+      internalID: 1941022097901404527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 748
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9916430a25bc909c0800000000000000
+      internalID: -3960410841560096359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 741
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec86ad34a11829470800000000000000
+      internalID: 8399918204806916302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 724
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbd8cf6d6ed6a290800000000000000
+      internalID: -7879365936429868102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 708
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbd136af10844b10800000000000000
+      internalID: 1964836210861005823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 708
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a23de3bd4b2f00800000000000000
+      internalID: 1093052769741480650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 709
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e385a726b595760800000000000000
+      internalID: 7447083937351351900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 709
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a2946d1e772830800000000000000
+      internalID: 4046341454922163205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 725
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7fbd98e6c92830800000000000000
+      internalID: 4046984442550385642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 725
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57d63b76c6218c0800000000000000
+      internalID: -4030039523895446086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 725
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e839e650688919280800000000000000
+      internalID: -9038275275771702386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 725
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd9d51f91b09d70800000000000000
+      internalID: 9047926948211842024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 698
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d504c3e6303bb50800000000000000
+      internalID: 6607628850274786579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 698
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1118941c31b65e0800000000000000
+      internalID: -1915415495633202690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 699
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6adc770c5c4562f0800000000000000
+      internalID: -980293385736889748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 666
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf190644c7603850800000000000000
+      internalID: 6354693166906023903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 687
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0a5d023a55f360800000000000000
+      internalID: 7202762350067845715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 696
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e00fba3f6f8c220800000000000000
+      internalID: 2506524719053803025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 705
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c032e56d261f6d0800000000000000
+      internalID: -2958474807363826634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 661
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634eac3c85750040800000000000000
+      internalID: 4613222638484865893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 676
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bf9a87b39bf98e0800000000000000
+      internalID: -1684424070534661350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 696
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc07fea374c7940800000000000000
+      internalID: 5295185580331682654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 681
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f209ad0b6350f50800000000000000
+      internalID: 6846938941695733543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 681
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9391fea8b6e5eb0800000000000000
+      internalID: -4729224314231375391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 667
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e37dc3321e72d500800000000000000
+      internalID: 419536331942491104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 666
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc9b12d9fdc4a70800000000000000
+      internalID: 8812664436825902054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 681
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275ed50a6db960ba0800000000000000
+      internalID: -6123035297247795854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 666
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e7ad113cd54e30800000000000000
+      internalID: 4487234707253619199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 666
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f31a18108a686d40800000000000000
+      internalID: 5577825236891079672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 665
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd838718f22880c30800000000000000
+      internalID: 4325850582636574941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 628
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cb3424dbfa87e0800000000000000
+      internalID: -1762319415602592625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 628
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb7f3006bb1b9520800000000000000
+      internalID: 2709790069295643647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 628
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85cff09acf703930800000000000000
+      internalID: 4120934167036806538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 628
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b67fe9354d6960800000000000000
+      internalID: 7596804261576881949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 632
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04b2e9c87d09030800000000000000
+      internalID: 3499533909415903433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 647
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417156c610ec3b3e0800000000000000
+      internalID: -2039059700759849196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 623
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3727877508f0550800000000000000
+      internalID: 6129258731045811195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 647
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4487462f4aa8cebc0800000000000000
+      internalID: -3752471948460525500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 644
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b6be165d7cbf3c0800000000000000
+      internalID: -4324643297874449640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 626
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de166a4b1b370870800000000000000
+      internalID: 8648946597786689236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 634
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dd5bf88d9cc6e60800000000000000
+      internalID: 7956956573618003232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 627
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f190b61a1f4bbb0800000000000000
+      internalID: -4921042817221320807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 600
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769e3ac021918bd0800000000000000
+      internalID: -2629661137389578625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 600
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08264e96e10f57200800000000000000
+      internalID: 177311773767262848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 598
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857e0a3c16141a10800000000000000
+      internalID: 1879151255009260938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 598
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd32383b72badba0800000000000000
+      internalID: -6063337706007413263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 597
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84eb0ae79315880800000000000000
+      internalID: -8624048595412301647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 581
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41906366fcc8dbe40800000000000000
+      internalID: 5673845927957629204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 583
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b646ec4386fa940800000000000000
+      internalID: 5309577061703379738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 599
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405c267a1970e150800000000000000
+      internalID: 5899848666414075976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 569
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf71f4aeeda99f20800000000000000
+      internalID: 3429963831700455369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 568
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa763ac69a6827a40800000000000000
+      internalID: 5364498168381925295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a95846cd5d9560800000000000000
+      internalID: 7322111675373037734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 579
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9113854ca00935f0800000000000000
+      internalID: -776588720844107365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 559
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdf78f496286b7c0800000000000000
+      internalID: -4055911025583063562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 583
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0989489a8870808d0800000000000000
+      internalID: -2880043678162446192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 567
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcfb531c38d53430800000000000000
+      internalID: 3762150816272350456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 551
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0313458170a8b90800000000000000
+      internalID: -7238965649971531581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 565
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f659f65fa43390800000000000000
+      internalID: -7839448263259916951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 562
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495112f468a466c50800000000000000
+      internalID: 6658091039827498388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 555
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea7f9c3c7eafc30800000000000000
+      internalID: 4394079214546431589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 555
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a799becf98fe699b0800000000000000
+      internalID: -5073604554253428358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 545
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec8bdbcf7292b700800000000000000
+      internalID: 554666781698657515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 555
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5b4a7a28630ec30800000000000000
+      internalID: 4386565971845101025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 554
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c681545cac5e860800000000000000
+      internalID: 7558670498227842158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 549
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad520283d8ccb0f70800000000000000
+      internalID: 9154635574464751066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 555
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd49c57f26b01c90800000000000000
+      internalID: -7201055489209578053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5826579ec2d5b9f70800000000000000
+      internalID: 9195045511683728005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 544
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b3c5de8a25a540800000000000000
+      internalID: 5018464152734382185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 545
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003aa68db90d42d0800000000000000
+      internalID: -3292965042925195257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 515
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2dec16897ce8310800000000000000
+      internalID: 1409283190703444731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 515
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1212d97dfc971600800000000000000
+      internalID: 438992101176381980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 515
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ac25215c90bf80800000000000000
+      internalID: -8092796658054814424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 512
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de45e2e44c8a020800000000000000
+      internalID: 2353346645364895040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 515
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5bec8532ba40d70800000000000000
+      internalID: 9008513322949981619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_133
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 515
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8fca83e9a8c5b10800000000000000
+      internalID: 1971603149041760507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_134
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 515
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef824314dd40e900800000000000000
+      internalID: 711654314376073192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_135
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 522
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c753b3fa04cd40800000000000000
+      internalID: 5603615878157944610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 522
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec7b7bbb4b00b500800000000000000
+      internalID: 409839985986600161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_137
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 522
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577124d739b1ffaa0800000000000000
+      internalID: -6125146647924959371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 489
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f85701beda9d830800000000000000
+      internalID: 4096496561175236352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_139
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 501
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c08056cb5aee0e0800000000000000
+      internalID: -2238669736189096862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_140
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 489
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07ce3549cb8aaab0800000000000000
+      internalID: -4996027140047714548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 489
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f2ee269de62f630800000000000000
+      internalID: 3959348902358822800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_142
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 501
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf8e7242ecb45910800000000000000
+      internalID: 1825291428956114864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_143
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 489
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ca8fe101e72a3a0800000000000000
+      internalID: -6655618691595981805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_144
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 489
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d2e6819ea5ab930800000000000000
+      internalID: 4159737163013827969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_145
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 501
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd31a336d7e8e900800000000000000
+      internalID: 714075448113446359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_146
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 489
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666ee9c8c9f923130800000000000000
+      internalID: 3545071351416940134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_147
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 513
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381cb22b639caac50800000000000000
+      internalID: 6677370634284810627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 455
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c813f71e7e929400800000000000000
+      internalID: 329499987156342983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_149
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 481
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5546acd5b0f89b3c0800000000000000
+      internalID: -4343283086641175467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 438
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00df884a7f6ea190800000000000000
+      internalID: -7949293721268269044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_151
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 438
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfa121c83985980800000000000000
+      internalID: -8549921662754423945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_152
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 437
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc704cae54cf5ec0800000000000000
+      internalID: -3575923668213007147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_153
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 449
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02905219101e70430800000000000000
+      internalID: 3749212611655567648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_154
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 463
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1516de3219216690800000000000000
+      internalID: -7610756736939059940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_155
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 449
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab2eb6ca5c61b5f0800000000000000
+      internalID: -742693326402212959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f8c5ca1556c0380800000000000000
+      internalID: -9003710153561960651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_157
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 391
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676554b21513c010800000000000000
+      internalID: 1207832295144515429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_158
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 391
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c6ffe8fd6c8ed0800000000000000
+      internalID: -2410430784604814425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_159
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 391
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26432b1681a61f8b0800000000000000
+      internalID: -5120194648392715166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_160
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 391
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799fcad2c84e7a00800000000000000
+      internalID: 756121789176715635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_161
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 421
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2848fa1a878f0a0800000000000000
+      internalID: -6847590597587074349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_162
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 421
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62104a3e2e0a87940800000000000000
+      internalID: 5294158258316247334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 421
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b143cfb15457bf760800000000000000
+      internalID: 7492711344743658523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de29836788355d4b0800000000000000
+      internalID: -5416331131279076627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_165
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 343
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10de8acfe5fcc00800000000000000
+      internalID: 923060887893115353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_166
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 343
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364c0edfc2b2fe70800000000000000
+      internalID: 9147570398996219449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_167
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 343
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e905c978b3a0e920800000000000000
+      internalID: 3017591763050498532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_168
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 343
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef0fce9e6fa5b8f0800000000000000
+      internalID: -525320891873161238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 375
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3656af100457c210800000000000000
+      internalID: 1353142572555851324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 375
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354b2b6ff7a162d0800000000000000
+      internalID: -3287161537547254466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52adb2fc78b3f4570800000000000000
+      internalID: 8453040480080091685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_172
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 295
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0265a9cc60a3a85b0800000000000000
+      internalID: -5365412205181643232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_173
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 295
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3958376c1247690d0800000000000000
+      internalID: -3416415578901740141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_174
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 295
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6280223ce60377e20800000000000000
+      internalID: 3348198100251576358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_175
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 295
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72de063b9637ce40800000000000000
+      internalID: 5676565895578571386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_176
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6c2f26e6ea3090800000000000000
+      internalID: -8053871107290403600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_177
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 320
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fea409ecef160a0800000000000000
+      internalID: -6889945791762600081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a22d5ef0cb83e0800000000000000
+      internalID: -2050333006620351972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_179
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 293
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925dd3c963356d020800000000000000
+      internalID: 2366170148244411689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 293
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a82180754b51e50800000000000000
+      internalID: 6779523099966736975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 293
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a21812f350af6510800000000000000
+      internalID: 1544629479615763106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a6dda3118efdf80800000000000000
+      internalID: -8079484045779703161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_183
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 230
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda00072074274630800000000000000
+      internalID: 3911134865503816412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_184
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 230
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1c8c3b29c85050800000000000000
+      internalID: 5789598508521364569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 236
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38561a232d645e510800000000000000
+      internalID: 1577745113069741443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 236
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775496c8b7d8f2530800000000000000
+      internalID: 3832437369691784567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52765ffaa695b010800000000000000
+      internalID: 1204034136563937883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_188
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 166
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033be5c7de9603ac0800000000000000
+      internalID: -3877482810451250384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_189
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 166
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c634ba9fcb65cd0800000000000000
+      internalID: -2569658756862088116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_190
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 181
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b39650db63840e0800000000000000
+      internalID: -2285516625423025380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_191
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 181
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b915b3cf26d5e0800000000000000
+      internalID: -1885266876404484644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_192
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cccb6d885664de0800000000000000
+      internalID: -1349279399958229992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_193
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 156
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ab58247cbaada50800000000000000
+      internalID: 6546733880639339147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_194
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a32ca5e66b1e4070800000000000000
+      internalID: 8092435709185237923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d16a639302f9220800000000000000
+      internalID: 2494748148688624931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_196
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 102
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de6b09b7913c99d0800000000000000
+      internalID: -2766281543397970222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_197
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 102
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d212e4e15fff0440800000000000000
+      internalID: 4904419246427214546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_198
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 114
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54e863c6220a600800000000000000
+      internalID: 477419408668378597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_199
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 95
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9609c4fe1099730800000000000000
+      internalID: 4006235470816111076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5847f7cb9b6105080800000000000000
+      internalID: -9200829051730692987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_201
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d81e29c7931d1aa0800000000000000
+      internalID: -6188768770300962603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_202
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05031bb2bbfe60b0800000000000000
+      internalID: -5733368530534726385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_203
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24107fa44f2ddfa0800000000000000
+      internalID: -5774407175171468245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_204
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20f397e8b71f3ae0800000000000000
+      internalID: -1567508062374989780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_205
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd864dde9584ad300800000000000000
+      internalID: 277613878116116703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_206
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 47
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e7702ab9f39f550800000000000000
+      internalID: 6195052700095708731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_207
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5ea36850db66d0800000000000000
+      internalID: -2996072049036861732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_208
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682dfcdd1f4ea6900800000000000000
+      internalID: 678606421332316806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_209
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 38
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa0f266523954cc0800000000000000
+      internalID: -3727411327741785430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09800400a549f4790800000000000000
+      internalID: -7543647736550127472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_211
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405abcc63205ab0800000000000000
+      internalID: -5021474634338073454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_212
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aded2b093d79b90800000000000000
+      internalID: -7235081657917711760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 13
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33685a57ba51bdf0800000000000000
+      internalID: -166251967694740675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70da227046945570800000000000000
+      internalID: 8454547604018745467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 21
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a2e96e386874e90800000000000000
+      internalID: -7041511591302518116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Halloween_Shadowless_216
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 13
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04925efc40407ef60800000000000000
+      internalID: 8063418076544444736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
