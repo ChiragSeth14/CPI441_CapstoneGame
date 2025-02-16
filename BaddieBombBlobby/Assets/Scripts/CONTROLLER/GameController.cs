@@ -46,6 +46,12 @@ public class GameController : MonoBehaviour
         DisplayQuestion();
     }
 
+    private void Update()
+    {
+        
+    }
+
+
     void DisplayQuestion()
     {
         if (_questions.Count == 0 || _currentQuestionIndex >= _questions.Count) return;
