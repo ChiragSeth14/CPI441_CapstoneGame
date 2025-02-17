@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< HEAD
   productGUID: 9ea6a5a56b939c04bab784e5682c463f
+=======
+  productGUID: 4c6239fe61d51364dbcf82076a23c8b1
+>>>>>>> Nawaf
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -47,7 +51,11 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
+<<<<<<< HEAD
   m_ActiveColorSpace: 1
+=======
+  m_ActiveColorSpace: 0
+>>>>>>> Nawaf
   unsupportedMSAAFallback: 0
   m_SpriteBatchMaxVertexCount: 65535
   m_SpriteBatchVertexThreshold: 300
@@ -71,7 +79,11 @@ PlayerSettings:
   androidRenderOutsideSafeArea: 0
   androidUseSwappy: 0
   androidBlitType: 0
+<<<<<<< HEAD
   androidResizeableActivity: 1
+=======
+  androidResizeableActivity: 0
+>>>>>>> Nawaf
   androidDefaultWindowWidth: 1920
   androidDefaultWindowHeight: 1080
   androidMinimumWindowWidth: 400
@@ -79,10 +91,17 @@ PlayerSettings:
   androidFullscreenMode: 1
   androidAutoRotationBehavior: 1
   androidPredictiveBackSupport: 0
+<<<<<<< HEAD
   androidApplicationEntry: 2
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 1
+=======
+  androidApplicationEntry: 1
+  defaultIsNativeResolution: 1
+  macRetinaSupport: 1
+  runInBackground: 0
+>>>>>>> Nawaf
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
@@ -140,7 +159,11 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
+<<<<<<< HEAD
   bundleVersion: 0.1
+=======
+  bundleVersion: 1.0
+>>>>>>> Nawaf
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -160,10 +183,17 @@ PlayerSettings:
   resolutionScalingMode: 0
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
+<<<<<<< HEAD
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
     Standalone: com.Company.ProductName
+=======
+  androidMaxAspectRatio: 2.1
+  androidMinAspectRatio: 1
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.BaddieBombBlobby
+>>>>>>> Nawaf
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -183,7 +213,11 @@ PlayerSettings:
   CreateWallpaper: 0
   androidSplitApplicationBinary: 0
   keepLoadedShadersAlive: 0
+<<<<<<< HEAD
   StripUnusedMeshComponents: 1
+=======
+  StripUnusedMeshComponents: 0
+>>>>>>> Nawaf
   strictShaderVariantMatching: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
@@ -261,7 +295,11 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
+<<<<<<< HEAD
   AndroidTargetArchitectures: 6
+=======
+  AndroidTargetArchitectures: 1
+>>>>>>> Nawaf
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
@@ -477,6 +515,140 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+  - m_BuildTarget: tvOS
+    m_Icons:
+    - m_Textures: []
+      m_Width: 1280
+      m_Height: 768
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 800
+      m_Height: 480
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 400
+      m_Height: 240
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 4640
+      m_Height: 1440
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 2320
+      m_Height: 720
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 3840
+      m_Height: 1440
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 1920
+      m_Height: 720
+      m_Kind: 1
+      m_SubKind: 
+  - m_BuildTarget: iPhone
+    m_Icons:
+    - m_Textures: []
+      m_Width: 180
+      m_Height: 180
+      m_Kind: 0
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 120
+      m_Height: 120
+      m_Kind: 0
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 167
+      m_Height: 167
+      m_Kind: 0
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 152
+      m_Height: 152
+      m_Kind: 0
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 76
+      m_Height: 76
+      m_Kind: 0
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 120
+      m_Height: 120
+      m_Kind: 3
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 80
+      m_Height: 80
+      m_Kind: 3
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 80
+      m_Height: 80
+      m_Kind: 3
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 40
+      m_Height: 40
+      m_Kind: 3
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 87
+      m_Height: 87
+      m_Kind: 1
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 58
+      m_Height: 58
+      m_Kind: 1
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 29
+      m_Height: 29
+      m_Kind: 1
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 58
+      m_Height: 58
+      m_Kind: 1
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 29
+      m_Height: 29
+      m_Kind: 1
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 60
+      m_Height: 60
+      m_Kind: 2
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 40
+      m_Height: 40
+      m_Kind: 2
+      m_SubKind: iPhone
+    - m_Textures: []
+      m_Width: 40
+      m_Height: 40
+      m_Kind: 2
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 20
+      m_Height: 20
+      m_Kind: 2
+      m_SubKind: iPad
+    - m_Textures: []
+      m_Width: 1024
+      m_Height: 1024
+      m_Kind: 4
+      m_SubKind: App Store
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs:
@@ -809,6 +981,7 @@ PlayerSettings:
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
+<<<<<<< HEAD
   scriptingDefineSymbols:
     Standalone: AMPLIFY_SHADER_EDITOR
     WebGL: AMPLIFY_SHADER_EDITOR
@@ -816,6 +989,13 @@ PlayerSettings:
   platformArchitecture: {}
   scriptingBackend:
     Android: 1
+=======
+  scriptingDefineSymbols: {}
+  additionalCompilerArguments: {}
+  platformArchitecture: {}
+  scriptingBackend:
+    Android: 0
+>>>>>>> Nawaf
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   il2cppStacktraceInformation: {}
@@ -844,10 +1024,17 @@ PlayerSettings:
   gcIncremental: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
+<<<<<<< HEAD
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: BaddieBombBlobby
+=======
+  editorAssembliesCompatibilityLevel: 2
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  metroPackageName: 2DURP
+>>>>>>> Nawaf
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
@@ -925,7 +1112,11 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< HEAD
   activeInputHandler: 2
+=======
+  activeInputHandler: 0
+>>>>>>> Nawaf
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
