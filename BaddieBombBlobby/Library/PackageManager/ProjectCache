@@ -1,10 +1,15 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< HEAD
     m_FilePath: C:/Users/nawaf/OneDrive/Desktop/CPI441/BaddieBombBlobby/Packages/manifest.json
+=======
+    m_FilePath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Packages/manifest.json
+>>>>>>> Chirag
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       ticks: 638749090034821011
     m_Hash: 45376053
@@ -14,10 +19,17 @@ m_ProjectFiles:
 >>>>>>> Nawaf
   m_LockFileStatus:
     m_FilePath: C:/Users/nawaf/OneDrive/Desktop/CPI441/BaddieBombBlobby/Packages/packages-lock.json
+=======
+      ticks: 638753417900000000
+    m_Hash: 2107015469
+  m_LockFileStatus:
+    m_FilePath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Packages/packages-lock.json
+>>>>>>> Chirag
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       ticks: 638749090035158049
     m_Hash: 174847745
@@ -25,11 +37,19 @@ m_ProjectFiles:
       ticks: 638741188595536573
     m_Hash: 1746813508
 >>>>>>> Nawaf
+=======
+      ticks: 638753417900000000
+    m_Hash: 2558176546
+>>>>>>> Chirag
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
+<<<<<<< HEAD
 m_ProjectPath: C:/Users/nawaf/OneDrive/Desktop/CPI441/BaddieBombBlobby/Packages
+=======
+m_ProjectPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Packages
+>>>>>>> Chirag
 m_EditorVersion: 6000.0.34f1 (5ab2d9ed9190)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -37,7 +57,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.sprite
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.sprite
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -107,7 +131,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.tilemap
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.tilemap
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -194,7 +222,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.4.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.ads
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.ads
+>>>>>>> Chirag
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -279,7 +311,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.5
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.ai.navigation
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.ai.navigation
+>>>>>>> Chirag
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -375,7 +411,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.1
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.analytics
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.analytics
+>>>>>>> Chirag
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -466,7 +506,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.6.0
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.collab-proxy
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.collab-proxy
+>>>>>>> Chirag
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -483,8 +527,10 @@ m_ResolvedPackages:
   versions:
     all:
     - 2.6.0
+    - 2.7.1
     compatible:
     - 2.6.0
+    - 2.7.1
     recommended: 2.6.0
     deprecated: []
   dependencies: []
@@ -579,7 +625,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.1
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.feature.2d
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.feature.2d
+>>>>>>> Chirag
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -713,7 +763,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.31
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.ide.rider
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.ide.rider
+>>>>>>> Chirag
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -788,7 +842,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.ide.visualstudio
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.ide.visualstudio
+>>>>>>> Chirag
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1026,7 +1084,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.multiplayer.center
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.multiplayer.center
+>>>>>>> Chirag
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1105,12 +1167,107 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
     minimumUnityVersion: 6000.0.0a1
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
+  testable: 0
+  isDirectDependency: 1
+  version: 3.2.1
+  source: 1
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.nuget.newtonsoft-json
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
+    compatible:
+    - 3.2.1
+    recommended: 3.2.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638186318800000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    path: 
+  unityLifecycle:
+    version: 3.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
+    2.0."}'
+  assetStore:
+    productId: 
+  fingerprint: 74deb55db2a0c29ddfda576608bcb86abbd13ee6
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 3.2.1
+    minimumUnityVersion: 2018.4.0a1
 - packageId: com.unity.purchasing@4.12.2
   testable: 0
   isDirectDependency: 1
   version: 4.12.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.purchasing
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.purchasing
+>>>>>>> Chirag
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1151,10 +1308,13 @@ m_ResolvedPackages:
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
+<<<<<<< HEAD
 =======
     compatible:
     - 4.12.2
 >>>>>>> Nawaf
+=======
+>>>>>>> Chirag
     recommended: 4.12.2
     deprecated: []
   dependencies:
@@ -1236,7 +1396,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.3
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.render-pipelines.universal
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.render-pipelines.universal
+>>>>>>> Chirag
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -1353,7 +1517,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.4.5
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.test-framework
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.test-framework
+>>>>>>> Chirag
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1369,6 +1537,9 @@ m_ResolvedPackages:
     all:
     - 1.4.5
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Chirag
     - 1.4.6
     - 2.0.1-exp.1
     - 2.0.1-exp.2
@@ -1382,11 +1553,14 @@ m_ResolvedPackages:
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     recommended: 1.4.6
+<<<<<<< HEAD
 =======
     compatible:
     - 1.4.5
     recommended: 1.4.5
 >>>>>>> Nawaf
+=======
+>>>>>>> Chirag
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -1476,7 +1650,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.timeline
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.timeline
+>>>>>>> Chirag
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1681,7 +1859,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.ugui
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.ugui
+>>>>>>> Chirag
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1767,7 +1949,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.5
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.visualscripting
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.visualscripting
+>>>>>>> Chirag
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1862,7 +2048,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.11
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.xr.legacyinputhelpers
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.xr.legacyinputhelpers
+>>>>>>> Chirag
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -1955,7 +2145,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.accessibility
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.accessibility
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -2022,7 +2216,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.ai
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.ai
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -2089,7 +2287,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.androidjni
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.androidjni
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -2155,7 +2357,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.animation
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.animation
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2222,7 +2428,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.assetbundle
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.assetbundle
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2289,7 +2499,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.audio
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.audio
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2356,7 +2570,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.cloth
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.cloth
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2427,7 +2645,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.director
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.director
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2502,7 +2724,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.imageconversion
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.imageconversion
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2569,7 +2795,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.imgui
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.imgui
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2636,7 +2866,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.jsonserialize
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.jsonserialize
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2703,7 +2937,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.particlesystem
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.particlesystem
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2770,7 +3008,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.physics
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.physics
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2837,7 +3079,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.physics2d
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.physics2d
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2904,7 +3150,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.screencapture
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.screencapture
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2975,7 +3225,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.terrain
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.terrain
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -3042,7 +3296,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.terrainphysics
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.terrainphysics
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -3117,7 +3375,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.tilemap
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.tilemap
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -3187,7 +3449,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.ui
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.ui
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3254,7 +3520,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.uielements
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.uielements
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3337,7 +3607,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.umbra
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.umbra
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3404,7 +3678,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.unityanalytics
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.unityanalytics
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3478,7 +3756,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.unitywebrequest
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.unitywebrequest
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3545,7 +3827,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3620,7 +3906,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.unitywebrequestaudio
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3695,7 +3985,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.unitywebrequesttexture
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3770,7 +4064,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.unitywebrequestwww
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.unitywebrequestwww
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3861,7 +4159,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.vehicles
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.vehicles
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3932,7 +4234,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.video
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.video
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -4011,7 +4317,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.vr
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.vr
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -4092,7 +4402,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.wind
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.wind
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -4159,7 +4473,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.xr
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.xr
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -4238,7 +4556,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.subsystems
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.subsystems
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4309,7 +4631,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.modules.hierarchycore
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.modules.hierarchycore
+>>>>>>> Chirag
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -4557,7 +4883,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.ext.nunit
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.ext.nunit
+>>>>>>> Chirag
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4627,7 +4957,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.render-pipelines.core
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.render-pipelines.core
+>>>>>>> Chirag
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4743,7 +5077,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.shadergraph
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.shadergraph
+>>>>>>> Chirag
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4849,7 +5187,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.render-pipelines.universal-config
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.render-pipelines.universal-config
+>>>>>>> Chirag
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -4947,7 +5289,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.14.0
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.services.core
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.services.core
+>>>>>>> Chirag
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -5035,7 +5381,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.1.4
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.animation
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.animation
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -5156,7 +5506,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.3
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.pixel-perfect
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.pixel-perfect
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -5235,7 +5589,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.3
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.psdimporter
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.psdimporter
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -5332,7 +5690,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.0.7
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.spriteshape
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.spriteshape
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -5435,7 +5797,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.1.0
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.tilemap.extras
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.tilemap.extras
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -5541,7 +5907,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.7
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.aseprite
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.aseprite
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -5647,7 +6017,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 6.0.1
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.services.analytics
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.services.analytics
+>>>>>>> Chirag
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -5749,7 +6123,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.searcher
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.searcher
+>>>>>>> Chirag
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5820,7 +6198,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.18
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.burst
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.burst
+>>>>>>> Chirag
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -5908,7 +6290,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.mathematics
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.mathematics
+>>>>>>> Chirag
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5979,7 +6365,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.collections
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.collections
+>>>>>>> Chirag
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6078,7 +6468,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.rendering.light-transport
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.rendering.light-transport
+>>>>>>> Chirag
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -6169,6 +6563,7 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.1
     minimumUnityVersion: 2023.3.0b1
+<<<<<<< HEAD
 - packageId: com.unity.nuget.newtonsoft-json@3.2.1
   testable: 0
   isDirectDependency: 0
@@ -6245,12 +6640,18 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 3.2.1
     minimumUnityVersion: 2018.4.0a1
+=======
+>>>>>>> Chirag
 - packageId: com.unity.2d.common@9.0.7
   testable: 0
   isDirectDependency: 0
   version: 9.0.7
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.2d.common
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.2d.common
+>>>>>>> Chirag
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -6349,7 +6750,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.nuget.mono-cecil
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.nuget.mono-cecil
+>>>>>>> Chirag
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6423,7 +6828,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.3
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\nawaf\OneDrive\Desktop\CPI441\BaddieBombBlobby\Library\PackageCache\com.unity.test-framework.performance
+=======
+  resolvedPath: /Users/chiragseth/Documents/GitHub/CPI441_CapstoneGame/BaddieBombBlobby/Library/PackageCache/com.unity.test-framework.performance
+>>>>>>> Chirag
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
